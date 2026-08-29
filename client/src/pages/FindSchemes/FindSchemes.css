@@ -1,0 +1,30 @@
+.find-schemes-page {
+  padding: 2rem 1rem;
+}
+
+.find-schemes-page .page-title {
+  text-align: center;
+  color: #0B3D91;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.find-schemes-page .no-results {
+  text-align: center;
+  padding: 3rem;
+  background: #f9f9f9;
+  border-radius: 8px;
+  color: #666;
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto;
+  border: 1px dashed #ccc;
+}
+
+/* Ensure the scheme grid layout works even if global class is missing */
+.find-schemes-page .scheme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}

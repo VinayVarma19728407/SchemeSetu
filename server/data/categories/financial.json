@@ -1,0 +1,948 @@
+[
+  {
+    "id": "SCH041",
+    "slug": "pradhan-mantri-jan-dhan-yojana",
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "category": "Financial Assistance",
+    "subcategory": "Financial Inclusion",
+    "ministry": {
+      "name": "Ministry of Finance",
+      "department": "Department of Financial Services"
+    },
+    "status": "Active",
+    "overview": "A national mission for financial inclusion providing universal access to banking facilities, including a basic savings account, RuPay debit card, and access to credit and insurance, for every household.",
+    "objectives": [
+      "Ensure universal access to banking services",
+      "Promote financial literacy and inclusion",
+      "Provide access to credit, insurance and pension"
+    ],
+    "benefits": [
+      {
+        "title": "Zero-Balance Account",
+        "description": "Basic savings bank account with no minimum balance requirement"
+      },
+      {
+        "title": "RuPay Debit Card",
+        "description": "Free RuPay card with inbuilt accident insurance cover"
+      },
+      {
+        "title": "Overdraft Facility",
+        "description": "Access to a small overdraft facility for eligible account holders"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Any Indian citizen without an existing bank account"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you an adult who does not currently have a bank account?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Do you want to open a Basic Savings Bank Deposit (BSBD) account?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Do you have an Aadhaar number/card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is the account being opened as an individual account rather than an institutional account?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you willing to open the account through a bank branch or Business Correspondent (Bank Mitra)?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Address Proof",
+        "mandatory": false
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Visit nearest bank branch or Bank Mitra"
+      },
+      {
+        "step": 2,
+        "description": "Fill account opening form with Aadhaar/KYC details"
+      },
+      {
+        "step": 3,
+        "description": "Account opened with RuPay card issued"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is there a minimum balance requirement?",
+        "answer": "No, it is a zero-balance account."
+      },
+      {
+        "question": "What insurance comes with the RuPay card?",
+        "answer": "Accidental insurance cover as per scheme terms."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmjdy.gov.in/",
+      "application": "https://pmjdy.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmjdy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-11-0001",
+      "website": "https://pmjdy.gov.in/"
+    },
+    "keywords": [
+      "jan dhan yojana",
+      "financial inclusion",
+      "bank account"
+    ],
+    "tags": [
+      "financial-assistance",
+      "banking"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH042",
+    "slug": "stand-up-india",
+    "name": "Stand-Up India Scheme",
+    "category": "Financial Assistance",
+    "subcategory": "Entrepreneurship Loan",
+    "ministry": {
+      "name": "Ministry of Finance",
+      "department": "Department of Financial Services"
+    },
+    "status": "Active",
+    "overview": "A scheme facilitating bank loans between Rs. 10 lakh and Rs. 1 crore to at least one Scheduled Caste/Scheduled Tribe borrower and one woman borrower per bank branch for setting up a greenfield enterprise.",
+    "objectives": [
+      "Promote entrepreneurship among SC/ST and women",
+      "Facilitate access to institutional credit for greenfield enterprises",
+      "Provide handholding support to first-time entrepreneurs"
+    ],
+    "benefits": [
+      {
+        "title": "Bank Loan",
+        "description": "Composite loan between Rs. 10 lakh and Rs. 1 crore for setting up a new enterprise"
+      },
+      {
+        "title": "Handholding Support",
+        "description": "Support for pre-loan training, registration and post-loan monitoring"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [
+        "Scheduled Caste",
+        "Scheduled Tribe",
+        "Women"
+      ],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "First-time entrepreneur setting up a greenfield project in manufacturing, services, trading or allied sector"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you 18 years of age or older?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Are you a woman entrepreneur or a member of the SC/ST community?  Woman / SC / ST  At least one  3  Are you planning to establish a new (greenfield) enterprise?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is your proposed enterprise in manufacturing, services, trading, or an eligible activity allied to agriculture?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "If applying as a non-individual enterprise, is at least 51% of the shareholding and controlling stake held by a woman or SC/ST entrepreneur?  Yes / No / Not Applicable  Yes, if applicable  6  Is the proposed loan requirement between \u0393\u00e9\u256310 lakh and \u0393\u00e9\u25631 crore?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Are you contributing at least 10% of the project cost from your own funds?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Is the proposed enterprise not an existing/established business being expanded under the scheme, but a new greenfield project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_9",
+          "question": "Do you have a viable business/project proposal that can be assessed by the lending bank?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Identity and Address Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Caste Certificate (if applicable)",
+        "mandatory": false
+      },
+      {
+        "name": "Business Project Report",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through Stand-Up India portal or directly at bank branch"
+      },
+      {
+        "step": 2,
+        "description": "Submit project report and required documents"
+      },
+      {
+        "step": 3,
+        "description": "Bank appraises and sanctions loan"
+      },
+      {
+        "step": 4,
+        "description": "Loan disbursed with handholding support"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the loan range?",
+        "answer": "Between Rs. 10 lakh and Rs. 1 crore."
+      },
+      {
+        "question": "Who is eligible?",
+        "answer": "SC/ST and women entrepreneurs setting up a greenfield enterprise."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.standupmitra.in/",
+      "application": "https://www.standupmitra.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/stand-up-india"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-180-1111",
+      "website": "https://www.standupmitra.in/"
+    },
+    "keywords": [
+      "stand up india",
+      "sc st loan",
+      "women entrepreneurs"
+    ],
+    "tags": [
+      "financial-assistance",
+      "entrepreneurship"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH043",
+    "slug": "pradhan-mantri-mudra-yojana",
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "category": "Financial Assistance",
+    "subcategory": "Micro Enterprise Loan",
+    "ministry": {
+      "name": "Ministry of Finance",
+      "department": "Department of Financial Services"
+    },
+    "status": "Active",
+    "overview": "A scheme providing collateral-free loans up to Rs. 20 lakh to non-corporate, non-farm micro and small enterprises through Shishu, Kishor, Tarun and Tarun Plus categories.",
+    "objectives": [
+      "Provide access to institutional credit for micro enterprises",
+      "Support income-generating activities in manufacturing, trading and services",
+      "Encourage entrepreneurship among small business owners"
+    ],
+    "benefits": [
+      {
+        "title": "Collateral-free Loan",
+        "description": "Loans up to Rs. 20 lakh depending on business stage, with no collateral required"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Small Business Owner",
+        "Entrepreneur"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Non-corporate, non-farm micro/small enterprise engaged in income-generating activity"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you an individual, proprietor, partnership, company, SHG or other eligible micro-enterprise applicant seeking MUDRA credit?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your proposed/existing business a micro enterprise engaged in an eligible income-generating activity?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Is your business activity in manufacturing, trading, services or an eligible activity allied to agriculture?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is the loan required for an eligible purpose such as working capital or purchase of business assets/equipment?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Are you applying through an eligible Member Lending Institution (MLI) such as a bank, NBFC or MFI?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "If you are seeking a Tarun Plus loan above \u0393\u00e9\u256310 lakh and up to \u0393\u00e9\u256320 lakh, have you previously taken and successfully repaid a Tarun-category PMMY loan?  Yes / No / Not Applicable  Yes, for Tarun Plus  7  Can you provide the required KYC, business and financial documents requested by the lending institution?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Is the proposed activity not an excluded/non-eligible activity under PMMY/lending-institution rules?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Identity and Address Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Business Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply at a bank, NBFC or MFI, or through the Udyamimitra portal"
+      },
+      {
+        "step": 2,
+        "description": "Submit business plan and required documents"
+      },
+      {
+        "step": 3,
+        "description": "Loan sanctioned under Shishu/Kishor/Tarun category"
+      },
+      {
+        "step": 4,
+        "description": "MUDRA card issued for working capital, if applicable"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What are the loan categories?",
+        "answer": "Shishu (up to Rs. 50,000), Kishor (up to Rs. 5 lakh), Tarun (up to Rs. 10 lakh) and Tarun Plus (up to Rs. 20 lakh)."
+      },
+      {
+        "question": "Is collateral required?",
+        "answer": "No, loans under PMMY are collateral-free."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.mudra.org.in/",
+      "application": "https://www.udyamimitra.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmmy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-180-1111",
+      "website": "https://www.mudra.org.in/"
+    },
+    "keywords": [
+      "mudra yojana",
+      "micro loan",
+      "small business loan"
+    ],
+    "tags": [
+      "financial-assistance",
+      "msme"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH044",
+    "slug": "national-social-assistance-programme",
+    "name": "National Social Assistance Programme (NSAP)",
+    "category": "Financial Assistance",
+    "subcategory": "Social Security",
+    "ministry": {
+      "name": "Ministry of Rural Development",
+      "department": "Department of Rural Development"
+    },
+    "status": "Active",
+    "overview": "An umbrella social security programme providing financial assistance to elderly, widows and persons with disabilities from below poverty line households through various pension sub-schemes.",
+    "objectives": [
+      "Provide social assistance to poor households in cases of old age, death of breadwinner or disability",
+      "Ensure minimum income security for vulnerable groups",
+      "Reduce destitution among BPL families"
+    ],
+    "benefits": [
+      {
+        "title": "Monthly Pension",
+        "description": "Central assistance through Old Age Pension, Widow Pension and Disability Pension components"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "BPL households with elderly, widowed or disabled members, as per component-wise criteria"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Does your household belong to the Below Poverty Line (BPL) category according to the applicable government criteria?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Are you 60 years or older and seeking old-age assistance?  Yes / No / Not Applicable  Yes, for IGNOAPS  3  Are you a widow aged 40 years or above?  Yes / No / Not Applicable  Yes, for IGNWPS  4  Are you a person aged 18 years or above with severe/multiple disability?  Yes / No / Not Applicable  Yes, for IGNDPS  5  Has the primary breadwinner of your BPL household died?  Yes / No / Not Applicable  Yes, for NFBS  6  Was the deceased primary breadwinner between 18 and 59 years of age?  Yes / No / Not Applicable  Yes, for NFBS  7  Are you a BPL elderly person who is not covered by the old-age pension scheme?  Yes / No / Not Applicable  Yes, for Annapurna  8  Are you willing to provide the required identity, household and bank/post-office details for benefit processing?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "BPL Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Age/Disability/Widowhood Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through Gram Panchayat/Urban Local Body"
+      },
+      {
+        "step": 2,
+        "description": "Verification by designated authority"
+      },
+      {
+        "step": 3,
+        "description": "Pension credited to bank/post office account monthly"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What components does NSAP include?",
+        "answer": "Old Age Pension, Widow Pension, Disability Pension and National Family Benefit Scheme."
+      },
+      {
+        "question": "Is BPL status required?",
+        "answer": "Yes, for most NSAP components."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://nsap.nic.in/",
+      "application": "https://nsap.nic.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/nsap"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://nsap.nic.in/"
+    },
+    "keywords": [
+      "nsap",
+      "social assistance",
+      "pension"
+    ],
+    "tags": [
+      "financial-assistance",
+      "welfare"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH045",
+    "slug": "pm-street-vendor-atmanirbhar-nidhi",
+    "name": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)",
+    "category": "Financial Assistance",
+    "subcategory": "Street Vendor Credit",
+    "ministry": {
+      "name": "Ministry of Housing and Urban Affairs",
+      "department": "Ministry of Housing and Urban Affairs"
+    },
+    "status": "Active",
+    "overview": "A micro-credit scheme providing affordable working capital loans to urban street vendors to resume and grow their businesses, with incentives for timely repayment and digital transactions.",
+    "objectives": [
+      "Facilitate working capital loans to street vendors",
+      "Encourage digital transactions among vendors",
+      "Promote formalisation and financial inclusion of street vendors"
+    ],
+    "benefits": [
+      {
+        "title": "Working Capital Loan",
+        "description": "Initial loan of up to Rs. 10,000, with higher subsequent loans of Rs. 20,000 and Rs. 50,000 on timely repayment"
+      },
+      {
+        "title": "Interest Subsidy",
+        "description": "Interest subvention on timely/early repayment"
+      },
+      {
+        "title": "Cashback Incentive",
+        "description": "Cashback for digital transactions"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Street Vendor"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Urban street vendors in possession of Certificate of Vending or identified in survey"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you a street vendor/hawker engaged in selling goods or providing services to the public?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Are you vending within the geographical limits of an eligible ULB/town/city area?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Do you have a Certificate of Vending (CoV) or Identity Card issued by the ULB/Town Vending Committee?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "If you do not have a CoV/ID, can you obtain a Letter of Recommendation (LoR) from the ULB/Town Vending Committee proving that you are a street vendor?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "If you were left out of the survey, can you provide acceptable proof that you are a street vendor for obtaining an LoR?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you seeking a working-capital loan for your street-vending business?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Can you provide the required identity/KYC documents, such as Aadhaar or another accepted document?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Certificate of Vending/Identification",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply via PM SVANidhi portal or through Urban Local Body/CSC"
+      },
+      {
+        "step": 2,
+        "description": "Verification of vendor status"
+      },
+      {
+        "step": 3,
+        "description": "Loan sanctioned by lending institution"
+      },
+      {
+        "step": 4,
+        "description": "Repay in installments to become eligible for higher loan tranche"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the first loan amount?",
+        "answer": "Up to Rs. 10,000 as working capital."
+      },
+      {
+        "question": "What is the benefit of timely repayment?",
+        "answer": "Interest subsidy and eligibility for a higher subsequent loan."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmsvanidhi.mohua.gov.in/",
+      "application": "https://pmsvanidhi.mohua.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pm-svanidhi"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-11-1979",
+      "website": "https://pmsvanidhi.mohua.gov.in/"
+    },
+    "keywords": [
+      "pm svanidhi",
+      "street vendor loan",
+      "micro credit"
+    ],
+    "tags": [
+      "financial-assistance",
+      "urban",
+      "msme"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

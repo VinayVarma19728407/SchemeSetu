@@ -1,0 +1,73 @@
+.elig-page {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  max-width: 700px;
+}
+
+.elig-title {
+  font-family: var(--font-heading);
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+}
+
+.elig-scheme-name {
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+}
+
+.elig-open {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: var(--surface);
+  border-radius: var(--radius-lg);
+  border: 1px dashed var(--border);
+  color: var(--text-secondary);
+}
+
+.elig-form {
+  padding: 2rem;
+  border-radius: var(--radius-lg);
+}
+
+.elig-form .form-field {
+  margin-bottom: 1.25rem;
+}
+
+.elig-form .form-field label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.4rem;
+}
+
+.required {
+  color: var(--error);
+}
+
+.elig-form input,
+.elig-form select {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+  font-family: var(--font-body);
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.elig-form input:focus,
+.elig-form select:focus {
+  border-color: var(--primary);
+}
+
+.elig-form .has-error input,
+.elig-form .has-error select {
+  border-color: var(--error);
+}

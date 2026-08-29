@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production / Build
+dist/
+client/dist/
+
+# Environment Variables / Secrets
+.env
+.env.local
+.env.production
+.env.development
+env.env
+
+# Logs and Debug
+logs/
+server/logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*
+
+# Private / Academic Files
+dataset_extracted/
+SchemeSetu-Dataset.zip
+24BAI1248_DA_1.pdf
+MASTER PROMPT.docx
+srs_template-Software engineering.docx

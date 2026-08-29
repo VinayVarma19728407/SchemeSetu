@@ -1,0 +1,82 @@
+.bookmarks-page {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+.bookmarks-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.bookmarks-search {
+  position: relative;
+  flex: 1;
+  max-width: 360px;
+}
+
+.bm-search-icon {
+  position: absolute;
+  left: 0.85rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-light);
+  font-size: 0.85rem;
+}
+
+.bookmarks-search input {
+  width: 100%;
+  padding: 0.65rem 1rem 0.65rem 2.5rem;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-md);
+  font-size: 0.9rem;
+  font-family: var(--font-body);
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.bookmarks-search input:focus {
+  border-color: var(--primary);
+}
+
+.bookmarks-sort {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.sort-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.5rem 0.85rem;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.sort-btn.active {
+  border-color: var(--primary);
+  color: var(--primary);
+  background: rgba(11,61,145,0.04);
+}
+
+.bookmarks-empty {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: var(--surface);
+  border-radius: var(--radius-lg);
+  border: 1px dashed var(--border);
+}
+
+.bookmarks-empty h3 {
+  font-family: var(--font-heading);
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+}

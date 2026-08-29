@@ -1,0 +1,91 @@
+.manage-schemes-wrapper {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  color: #212121;
+}
+
+.manage-schemes-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #0B3D91;
+}
+
+.manage-schemes-add-btn {
+  background: #0B3D91;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.manage-schemes-add-btn:hover {
+  background: #152d5e;
+  transform: translateY(-2px);
+}
+
+.manage-schemes-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: rgba(255,255,255,0.94);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.manage-schemes-table th,
+.manage-schemes-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.manage-schemes-table th {
+  background: #0B3D91;
+  color: #fff;
+  font-weight: 600;
+}
+
+.manage-schemes-table tr:hover {
+  background: #f1f1f1;
+}
+
+.manage-schemes-edit,
+.manage-schemes-delete {
+  background: #0B3D91;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.4rem 0.8rem;
+  margin-right: 0.5rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.manage-schemes-delete {
+  background: #c62828;
+}
+
+.manage-schemes-edit:hover {
+  background: #152d5e;
+}
+
+.manage-schemes-delete:hover {
+  background: #8e0000;
+}
+
+.manage-schemes-loading,
+.manage-schemes-error,
+.manage-schemes-empty {
+  text-align: center;
+  font-size: 1.1rem;
+  padding: 2rem;
+  color: #555;
+}

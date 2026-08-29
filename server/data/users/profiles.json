@@ -1,0 +1,12 @@
+[
+  {
+    "userId": "USR001",
+    "age": 19,
+    "gender": "Male",
+    "occupation": "Student",
+    "income": 250000,
+    "state": "Andhra Pradesh",
+    "district": "",
+    "category": "General"
+  }
+]

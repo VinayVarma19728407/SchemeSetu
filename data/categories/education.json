@@ -1,0 +1,574 @@
+[
+  {
+    "id": "SCH001",
+    "slug": "pm-poshan",
+    "name": "PM POSHAN (Pradhan Mantri Poshan Shakti Nirman)",
+    "category": "Education",
+    "subcategory": "School Nutrition",
+    "ministry": {
+      "name": "Ministry of Education",
+      "department": "Department of School Education and Literacy"
+    },
+    "status": "Active",
+    "overview": "A centrally sponsored scheme providing free hot cooked mid-day meals to children studying in government and government-aided schools to improve nutritional levels and school attendance.",
+    "objectives": [
+      "Improve nutritional status of children in classes I-VIII",
+      "Encourage enrolment, retention and attendance in schools",
+      "Address hunger and malnutrition among school-age children"
+    ],
+    "benefits": [
+      {
+        "title": "Free Hot Cooked Meal",
+        "description": "Daily nutritious meal provided on all school working days"
+      },
+      {
+        "title": "Nutritional Support",
+        "description": "Meals designed to meet prescribed calorie and protein norms"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 6,
+        "maximum": 14
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Student"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Must be enrolled in a government or government-aided school"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "School Enrolment Proof",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Enrol in a government or government-aided school"
+      },
+      {
+        "step": 2,
+        "description": "Meal is provided automatically to enrolled students on school days"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible for PM POSHAN?",
+        "answer": "Children studying in classes I to VIII in government and government-aided schools."
+      },
+      {
+        "question": "Is there any cost to students?",
+        "answer": "No, the meal is provided free of cost."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmposhan.education.gov.in/",
+      "application": "https://pmposhan.education.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pm-poshan"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://pmposhan.education.gov.in/"
+    },
+    "keywords": [
+      "mid day meal",
+      "school nutrition",
+      "children",
+      "education"
+    ],
+    "tags": [
+      "education",
+      "nutrition",
+      "school"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH002",
+    "slug": "samagra-shiksha-abhiyan",
+    "name": "Samagra Shiksha Abhiyan",
+    "category": "Education",
+    "subcategory": "School Education",
+    "ministry": {
+      "name": "Ministry of Education",
+      "department": "Department of School Education and Literacy"
+    },
+    "status": "Active",
+    "overview": "An integrated scheme for school education covering pre-school to class 12, subsuming Sarva Shiksha Abhiyan, Rashtriya Madhyamik Shiksha Abhiyan and Teacher Education, aimed at improving school effectiveness and equitable learning outcomes.",
+    "objectives": [
+      "Universal access to quality school education",
+      "Bridge gender and social category gaps in education",
+      "Ensure inclusive education for children with special needs",
+      "Strengthen teacher training and infrastructure"
+    ],
+    "benefits": [
+      {
+        "title": "Infrastructure Support",
+        "description": "Grants for classrooms, ICT labs, smart classrooms and school infrastructure"
+      },
+      {
+        "title": "Inclusive Education",
+        "description": "Support for children with disabilities and special needs"
+      },
+      {
+        "title": "Teacher Training",
+        "description": "Continuous professional development for teachers"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Applicable to government and government-aided schools from pre-school to class 12"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "School Registration Details",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Scheme implemented through State Implementation Societies"
+      },
+      {
+        "step": 2,
+        "description": "Schools and students benefit through respective state education departments"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does Samagra Shiksha cover?",
+        "answer": "It covers the entire school education spectrum from pre-school to class 12."
+      },
+      {
+        "question": "Which schemes were merged into it?",
+        "answer": "Sarva Shiksha Abhiyan, Rashtriya Madhyamik Shiksha Abhiyan and Teacher Education."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://samagra.education.gov.in/",
+      "application": "https://samagra.education.gov.in/",
+      "guidelines": "https://samagra.education.gov.in/docs/samagra_shiksha.pdf"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://samagra.education.gov.in/"
+    },
+    "keywords": [
+      "school education",
+      "samagra shiksha",
+      "education infrastructure"
+    ],
+    "tags": [
+      "education",
+      "schools"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH003",
+    "slug": "pm-shri-schools",
+    "name": "PM SHRI Schools (PM Schools for Rising India)",
+    "category": "Education",
+    "subcategory": "Model Schools",
+    "ministry": {
+      "name": "Ministry of Education",
+      "department": "Department of School Education and Literacy"
+    },
+    "status": "Active",
+    "overview": "A centrally sponsored scheme to develop existing schools across India into PM SHRI Schools that showcase the implementation of the National Education Policy 2020 with modern infrastructure and holistic development.",
+    "objectives": [
+      "Develop exemplar schools implementing NEP 2020",
+      "Provide quality education with modern infrastructure",
+      "Promote holistic, experiential and joyful learning"
+    ],
+    "benefits": [
+      {
+        "title": "Upgraded Infrastructure",
+        "description": "Modern labs, libraries, smart classrooms and sports facilities"
+      },
+      {
+        "title": "Quality Curriculum",
+        "description": "NEP 2020 aligned holistic and skill-based education"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Selected government schools from States/UTs, KVS and NVS through a challenge mode"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "School Selection Documentation",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "State/UT nominates schools through challenge mode"
+      },
+      {
+        "step": 2,
+        "description": "Schools selected based on defined criteria under UDISE+"
+      },
+      {
+        "step": 3,
+        "description": "Selected schools receive funding and support for upgradation"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is PM SHRI?",
+        "answer": "A scheme to upgrade select existing schools into model schools reflecting NEP 2020."
+      },
+      {
+        "question": "Who selects the schools?",
+        "answer": "Schools are selected via a challenge mode based on UDISE+ data."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmshrischools.education.gov.in/",
+      "application": "https://pmshrischools.education.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmshri"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://pmshrischools.education.gov.in/"
+    },
+    "keywords": [
+      "pm shri",
+      "model schools",
+      "nep 2020"
+    ],
+    "tags": [
+      "education",
+      "schools"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": true
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH004",
+    "slug": "national-means-cum-merit-scholarship-scheme",
+    "name": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+    "category": "Education",
+    "subcategory": "Scholarship",
+    "ministry": {
+      "name": "Ministry of Education",
+      "department": "Department of School Education and Literacy"
+    },
+    "status": "Active",
+    "overview": "A scholarship scheme to provide financial assistance to meritorious students from economically weaker sections to reduce the dropout rate at the class VIII to XII level.",
+    "objectives": [
+      "Reduce dropout rate at secondary school stage",
+      "Encourage economically weaker meritorious students to continue education"
+    ],
+    "benefits": [
+      {
+        "title": "Scholarship Amount",
+        "description": "Rs. 12,000 per annum per student from class IX to XII"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": 350000,
+        "currency": "INR"
+      },
+      "education": [
+        "Class VIII pass with minimum 55% marks"
+      ],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Must be studying in a government, government-aided or local body school"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Class VIII Marksheet",
+        "mandatory": true
+      },
+      {
+        "name": "Income Certificate",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Qualify the state-level NMMS selection examination"
+      },
+      {
+        "step": 2,
+        "description": "Apply through the National Scholarship Portal"
+      },
+      {
+        "step": 3,
+        "description": "Submit required documents for verification"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who conducts the selection exam?",
+        "answer": "State/UT governments conduct the NMMS examination."
+      },
+      {
+        "question": "What is the scholarship amount?",
+        "answer": "Rs. 12,000 per annum, disbursed via DBT."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://scholarships.gov.in/",
+      "application": "https://scholarships.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/nmmss"
+    },
+    "contact": {
+      "email": "",
+      "phone": "0120-6619540",
+      "website": "https://scholarships.gov.in/"
+    },
+    "keywords": [
+      "scholarship",
+      "nmms",
+      "merit scholarship"
+    ],
+    "tags": [
+      "education",
+      "scholarship"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH005",
+    "slug": "rashtriya-uchchatar-shiksha-abhiyan",
+    "name": "Rashtriya Uchchatar Shiksha Abhiyan (RUSA)",
+    "category": "Education",
+    "subcategory": "Higher Education",
+    "ministry": {
+      "name": "Ministry of Education",
+      "department": "Department of Higher Education"
+    },
+    "status": "Active",
+    "overview": "A centrally sponsored scheme aimed at providing strategic funding to state higher educational institutions to improve access, equity and quality in higher education.",
+    "objectives": [
+      "Improve access, equity and quality in state higher education",
+      "Support creation of new institutions and upgradation of existing ones",
+      "Ensure adequate faculty and improve governance"
+    ],
+    "benefits": [
+      {
+        "title": "Institutional Funding",
+        "description": "Grants to state universities and colleges for infrastructure and quality improvement"
+      },
+      {
+        "title": "Faculty Development",
+        "description": "Support for filling faculty positions and capacity building"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Applicable to state government higher education institutions"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Institutional Proposal Documents",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "State Higher Education Council submits perspective plan"
+      },
+      {
+        "step": 2,
+        "description": "Proposals appraised by RUSA project appraisal board"
+      },
+      {
+        "step": 3,
+        "description": "Funds released to eligible institutions"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can benefit from RUSA?",
+        "answer": "State public higher education institutions such as universities and colleges."
+      },
+      {
+        "question": "Which ministry runs RUSA?",
+        "answer": "Ministry of Education, Department of Higher Education."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://rusa.nic.in/",
+      "application": "https://rusa.nic.in/",
+      "guidelines": "https://rusa.nic.in/"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://rusa.nic.in/"
+    },
+    "keywords": [
+      "higher education",
+      "rusa",
+      "universities"
+    ],
+    "tags": [
+      "education",
+      "higher-education"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

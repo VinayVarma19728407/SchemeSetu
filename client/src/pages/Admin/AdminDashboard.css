@@ -1,0 +1,88 @@
+.admin-dashboard-wrapper {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  color: #212121;
+}
+
+.admin-dashboard-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 2.2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #0B3D91;
+}
+
+.admin-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.admin-stat-card {
+  background: rgba(255, 255, 255, 0.93);
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.admin-stat-card h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.admin-stat-card p {
+  margin: 0.5rem 0 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #0B3D91;
+}
+
+.admin-stat-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.admin-actions {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.admin-btn {
+  background: #0B3D91;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.admin-btn:hover {
+  background: #152d5e;
+  transform: translateY(-2px);
+}
+
+.admin-logout {
+  background: #c62828;
+}
+
+.admin-logout:hover {
+  background: #8e0000;
+}
+
+.admin-dashboard-loading,
+.admin-dashboard-error {
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 2rem;
+  color: #555;
+}

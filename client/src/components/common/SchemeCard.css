@@ -1,0 +1,134 @@
+.scheme-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  transition: transform var(--transition-speed), box-shadow var(--transition-speed);
+  position: relative;
+  overflow: hidden;
+}
+
+.scheme-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #FF9933, #FFFFFF, #138808);
+  opacity: 0;
+  transition: opacity var(--transition-speed);
+}
+
+.scheme-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-lg);
+}
+
+.scheme-card:hover::before {
+  opacity: 1;
+}
+
+.scheme-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.75rem;
+}
+
+.scheme-category-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.bookmark-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-light);
+  font-size: 1.1rem;
+  transition: color 0.2s, transform 0.2s;
+  padding: 0.25rem;
+}
+
+.bookmark-toggle:hover {
+  transform: scale(1.2);
+}
+
+.bookmark-toggle.bookmarked {
+  color: var(--accent);
+}
+
+.scheme-card-title {
+  font-family: var(--font-heading);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.scheme-card-desc {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 0.75rem;
+  flex: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.scheme-card-ministry {
+  font-size: 0.75rem;
+  color: var(--text-light);
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.scheme-card-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--primary);
+  text-decoration: none;
+  transition: gap 0.2s, color 0.2s;
+}
+
+.scheme-card-link:hover {
+  color: var(--accent);
+  gap: 0.75rem;
+}
+
+.link-icon {
+  font-size: 0.75rem;
+  transition: transform 0.2s;
+}
+
+.scheme-card-link:hover .link-icon {
+  transform: translateX(3px);
+}
+
+@media (max-width: 480px) {
+  .scheme-card {
+    padding: 1.25rem;
+  }
+  .scheme-card-title {
+    font-size: 1rem;
+  }
+}

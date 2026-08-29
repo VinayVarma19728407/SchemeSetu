@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "SCH021",
+    "slug": "national-food-security-act",
+    "name": "National Food Security Act (NFSA) - Public Distribution System",
+    "category": "Food & Public Distribution",
+    "subcategory": "Food Subsidy",
+    "ministry": {
+      "name": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "department": "Department of Food and Public Distribution"
+    },
+    "status": "Active",
+    "overview": "A legal entitlement scheme providing subsidised foodgrains to about two-thirds of India's population through the Targeted Public Distribution System.",
+    "objectives": [
+      "Ensure food and nutritional security for the population",
+      "Provide subsidised foodgrains through fair price shops",
+      "Cover priority households and Antyodaya Anna Yojana families"
+    ],
+    "benefits": [
+      {
+        "title": "Subsidised Foodgrains",
+        "description": "5 kg foodgrain per person per month at subsidised rates for priority households"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Households identified as Priority Households or AAY by state governments"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you a resident of an Indian State/UT where NFSA is implemented?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your household currently covered under an NFSA ration card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Has your household been identified as a Priority Household (PHH) by your State/UT?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Has your household been identified as an Antyodaya Anna Yojana (AAY) household?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "If not currently covered, does your household satisfy your State/UT's inclusion criteria for PHH?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Does your household fall within an AAY category, such as an identified poorest-of-the-poor household?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "If you are applying for inclusion, can you provide the required identity, residence and household/ration-card documentation prescribed by your State/UT?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "If you are a member of an existing eligible household, are you included/eligible to be added to that household's ration card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Ration Card",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply for a ration card through the state food & civil supplies department"
+      },
+      {
+        "step": 2,
+        "description": "Get included in Priority Household/AAY list"
+      },
+      {
+        "step": 3,
+        "description": "Collect subsidised foodgrains from fair price shop monthly"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is covered under NFSA?",
+        "answer": "Up to 75% of rural and 50% of urban population as per state-wise coverage."
+      },
+      {
+        "question": "What is provided under NFSA?",
+        "answer": "Subsidised rice, wheat and coarse grains through fair price shops."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://dfpd.gov.in/nfsa-Act.htm",
+      "application": "https://nfsa.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/nfsa"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1967",
+      "website": "https://dfpd.gov.in/"
+    },
+    "keywords": [
+      "nfsa",
+      "public distribution system",
+      "ration card"
+    ],
+    "tags": [
+      "food",
+      "public-distribution",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH022",
+    "slug": "pm-garib-kalyan-anna-yojana",
+    "name": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)",
+    "category": "Food & Public Distribution",
+    "subcategory": "Free Foodgrains",
+    "ministry": {
+      "name": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "department": "Department of Food and Public Distribution"
+    },
+    "status": "Active",
+    "overview": "A scheme providing free additional foodgrains to NFSA beneficiaries, integrated with NFSA entitlements to ensure food security for the poor and vulnerable.",
+    "objectives": [
+      "Ensure no beneficiary family goes hungry",
+      "Provide free foodgrains over and above NFSA entitlement",
+      "Support vulnerable sections during economic distress"
+    ],
+    "benefits": [
+      {
+        "title": "Free Foodgrains",
+        "description": "Additional free foodgrains provided monthly to NFSA beneficiary households"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "NFSA beneficiary households (Priority Households and AAY families)"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you currently covered under the National Food Security Act (NFSA)?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Does your household have an Antyodaya Anna Yojana (AAY) ration card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Does your household have a Priority Household (PHH) ration card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is your name included as a beneficiary/member of the NFSA household/ration card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Do you have an existing valid NFSA ration card through which you receive your entitlement?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you receiving foodgrains through the Targeted Public Distribution System (TPDS)/Fair Price Shop?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "If you have an NFSA AAY/PHH ration card, are you seeking the free foodgrain entitlement under PMGKAY rather than a separate additional ration card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Ration Card",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Ensure inclusion in NFSA beneficiary list"
+      },
+      {
+        "step": 2,
+        "description": "Collect free foodgrains from designated fair price shop"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is PMGKAY separate from NFSA?",
+        "answer": "It supplements NFSA entitlements and is now merged with regular NFSA allocation."
+      },
+      {
+        "question": "Who benefits?",
+        "answer": "All NFSA-covered Priority Household and Antyodaya Anna Yojana families."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://dfpd.gov.in/",
+      "application": "https://nfsa.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmgkay"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1967",
+      "website": "https://dfpd.gov.in/"
+    },
+    "keywords": [
+      "pmgkay",
+      "free foodgrains",
+      "food security"
+    ],
+    "tags": [
+      "food",
+      "public-distribution"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH023",
+    "slug": "antyodaya-anna-yojana",
+    "name": "Antyodaya Anna Yojana (AAY)",
+    "category": "Food & Public Distribution",
+    "subcategory": "Food Subsidy",
+    "ministry": {
+      "name": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "department": "Department of Food and Public Distribution"
+    },
+    "status": "Active",
+    "overview": "A scheme under NFSA providing highly subsidised foodgrains to the poorest of the poor households identified by state governments.",
+    "objectives": [
+      "Provide food security to the poorest of the poor households",
+      "Ensure highly subsidised foodgrain access",
+      "Identify and cover the most vulnerable families"
+    ],
+    "benefits": [
+      {
+        "title": "Highly Subsidised Foodgrains",
+        "description": "35 kg of foodgrains per household per month at nominal rates"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Poorest of poor households identified by state governments as per AAY criteria"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Is your household among the poorest of the poor households identified for AAY?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your household a landless agricultural labourer or marginal farmer household?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Is your household a rural artisan/craftsman household, such as a potter, weaver, blacksmith, carpenter, etc.?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is your household dependent on daily-wage/informal-sector work, such as porter, rickshaw puller, street vendor, rag picker, cobbler, etc.?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is your household headed by a widow, terminally ill person, person with disability, or person aged 60+ who has no assured means of subsistence or social support?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you a single woman or single man with no family/social support or assured means of subsistence?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Does your household belong to a Primitive Tribal Group/Particularly Vulnerable Tribal Group (PVTG) covered by the AAY criteria?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Is your household an eligible BPL family of an HIV-positive person, within the applicable AAY criteria?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_9",
+          "question": "Does your household satisfy the State/UT's applicable AAY identification criteria and documentation requirements?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_10",
+          "question": "Does your household already have a valid AAY ration card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "AAY Ration Card",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Get identified as poorest of poor by state government survey"
+      },
+      {
+        "step": 2,
+        "description": "Obtain AAY ration card"
+      },
+      {
+        "step": 3,
+        "description": "Collect monthly foodgrain quota from fair price shop"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How much foodgrain is provided?",
+        "answer": "35 kg per household per month."
+      },
+      {
+        "question": "Who identifies AAY households?",
+        "answer": "State/UT governments based on prescribed criteria."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://dfpd.gov.in/",
+      "application": "https://nfsa.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/aay"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1967",
+      "website": "https://dfpd.gov.in/"
+    },
+    "keywords": [
+      "antyodaya anna yojana",
+      "aay",
+      "food subsidy"
+    ],
+    "tags": [
+      "food",
+      "public-distribution"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH024",
+    "slug": "one-nation-one-ration-card",
+    "name": "One Nation One Ration Card (ONORC)",
+    "category": "Food & Public Distribution",
+    "subcategory": "PDS Portability",
+    "ministry": {
+      "name": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "department": "Department of Food and Public Distribution"
+    },
+    "status": "Active",
+    "overview": "A scheme enabling NFSA beneficiaries, especially migrant workers, to access their food subsidy entitlements from any fair price shop in the country using biometric/Aadhaar authentication.",
+    "objectives": [
+      "Ensure nationwide portability of ration card benefits",
+      "Support migrant workers and their families",
+      "Enable seamless delivery of subsidised food grains across states"
+    ],
+    "benefits": [
+      {
+        "title": "Nationwide Portability",
+        "description": "Access to subsidised foodgrains from any fair price shop across India"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Existing NFSA ration card holders, particularly migrant workers"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you an NFSA beneficiary?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Do you have a valid AAY or PHH ration card issued under NFSA?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Are you seeking to obtain your entitled foodgrains from a Fair Price Shop different from your usual/home FPS?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "If you have migrated to another State/UT, do you want to receive your NFSA entitlement at your destination location?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is the destination Fair Price Shop ePoS-enabled and participating in portability?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Can you provide your ration card/Aadhaar details or undergo the required biometric/Aadhaar authentication?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Are you trying to use your existing home-state ration card, rather than applying for a new ration card in the destination State/UT?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Are you seeking only the foodgrain entitlement already available under your NFSA ration card, rather than an additional ONORC quota?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Ration Card",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Link ration card with Aadhaar"
+      },
+      {
+        "step": 2,
+        "description": "Visit any fair price shop across India"
+      },
+      {
+        "step": 3,
+        "description": "Authenticate via biometric/ePoS device to claim entitlement"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is ONORC available across all states?",
+        "answer": "Yes, it has been implemented across all states and UTs."
+      },
+      {
+        "question": "Is Aadhaar linking mandatory?",
+        "answer": "Yes, Aadhaar seeding is required to avail portability benefits."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://dfpd.gov.in/onorc.htm",
+      "application": "https://nfsa.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/onorc"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1967",
+      "website": "https://dfpd.gov.in/"
+    },
+    "keywords": [
+      "one nation one ration card",
+      "onorc",
+      "migrant workers"
+    ],
+    "tags": [
+      "food",
+      "public-distribution",
+      "migrants"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH025",
+    "slug": "annapurna-scheme",
+    "name": "Annapurna Scheme",
+    "category": "Food & Public Distribution",
+    "subcategory": "Elderly Food Support",
+    "ministry": {
+      "name": "Ministry of Rural Development",
+      "department": "Department of Rural Development"
+    },
+    "status": "Active",
+    "overview": "A scheme providing free foodgrains to indigent senior citizens who are eligible for old age pension but not receiving it, ensuring food security in old age.",
+    "objectives": [
+      "Provide food security to elderly persons not covered by pension",
+      "Support indigent senior citizens without family support",
+      "Ensure basic nutritional needs of eligible elderly"
+    ],
+    "benefits": [
+      {
+        "title": "Free Foodgrains",
+        "description": "10 kg of foodgrains provided free of cost per month per beneficiary"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 65,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Eligible for old age pension but not currently receiving it, with no means of subsistence"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you an Indian citizen?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Are you 65 years of age or older?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Are you an indigent/poor senior citizen?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Are you not receiving a pension under the National Old Age Pension Scheme (NOAPS)?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Do you have no adequate means of subsistence/support, as determined under the applicable identification process?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you not already receiving the corresponding old-age pension benefit that would make you ineligible for Annapurna?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Have you been identified/approved by the State/UT authorities under the applicable Annapurna beneficiary-selection process?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Can you provide the required age, identity and beneficiary-status documentation?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Age Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Income/Pension Non-receipt Certificate",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through the Gram Panchayat/Urban Local Body"
+      },
+      {
+        "step": 2,
+        "description": "Verification of eligibility by local authorities"
+      },
+      {
+        "step": 3,
+        "description": "Receive monthly foodgrain quota"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible for Annapurna?",
+        "answer": "Senior citizens eligible for old-age pension but not receiving it, with no other means of support."
+      },
+      {
+        "question": "How much foodgrain is given?",
+        "answer": "10 kg per beneficiary per month, free of cost."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://rural.gov.in/en/scheme/annapurna",
+      "application": "https://rural.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/annapurna"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://rural.gov.in/"
+    },
+    "keywords": [
+      "annapurna scheme",
+      "elderly food support",
+      "senior citizens"
+    ],
+    "tags": [
+      "food",
+      "senior-citizens",
+      "welfare"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "SCH051",
+    "slug": "pm-surya-ghar-muft-bijli-yojana",
+    "name": "PM Surya Ghar: Muft Bijli Yojana",
+    "category": "Green India & Environment",
+    "subcategory": "Rooftop Solar",
+    "ministry": {
+      "name": "Ministry of New and Renewable Energy",
+      "department": "Ministry of New and Renewable Energy"
+    },
+    "status": "Active",
+    "overview": "A scheme to promote rooftop solar installations for residential households, providing subsidy to enable households to receive up to 300 units of free electricity per month.",
+    "objectives": [
+      "Promote rooftop solar adoption among households",
+      "Enable free/subsidised electricity for eligible households",
+      "Reduce carbon emissions through renewable energy adoption"
+    ],
+    "benefits": [
+      {
+        "title": "Subsidy on Rooftop Solar",
+        "description": "Central financial assistance for installing rooftop solar systems"
+      },
+      {
+        "title": "Free Electricity",
+        "description": "Up to 300 units of free electricity per month for eligible households"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Indian households with a suitable rooftop for solar installation and valid electricity connection"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Electricity Bill",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register on the PM Surya Ghar portal"
+      },
+      {
+        "step": 2,
+        "description": "Apply through DISCOM for feasibility approval"
+      },
+      {
+        "step": 3,
+        "description": "Install rooftop solar plant via empanelled vendor"
+      },
+      {
+        "step": 4,
+        "description": "Subsidy credited after commissioning and net metering"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How much electricity is free?",
+        "answer": "Up to 300 units per month depending on system capacity."
+      },
+      {
+        "question": "What is the subsidy amount?",
+        "answer": "Central subsidy based on system capacity, as per current notified rates."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmsuryaghar.gov.in/",
+      "application": "https://pmsuryaghar.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pm-surya-ghar"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-11-3005",
+      "website": "https://pmsuryaghar.gov.in/"
+    },
+    "keywords": [
+      "pm surya ghar",
+      "rooftop solar",
+      "free electricity"
+    ],
+    "tags": [
+      "green-india",
+      "renewable-energy"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": false,
+      "recentlyAdded": true
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH052",
+    "slug": "namami-gange-programme",
+    "name": "Namami Gange Programme",
+    "category": "Green India & Environment",
+    "subcategory": "River Conservation",
+    "ministry": {
+      "name": "Ministry of Jal Shakti",
+      "department": "Department of Water Resources, River Development and Ganga Rejuvenation"
+    },
+    "status": "Active",
+    "overview": "An integrated conservation mission to accomplish effective abatement of pollution, conservation and rejuvenation of the National River Ganga.",
+    "objectives": [
+      "Reduce pollution load in the Ganga river",
+      "Rejuvenate the ecological and biological health of the river",
+      "Build sewage treatment infrastructure along the Ganga basin"
+    ],
+    "benefits": [
+      {
+        "title": "Sewage Infrastructure",
+        "description": "Construction of sewage treatment plants along the Ganga basin"
+      },
+      {
+        "title": "River Front Development",
+        "description": "Development of ghats and crematoria and afforestation along riverbanks"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Programme benefits communities in the Ganga basin states"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Not applicable - infrastructure/environment programme",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Project proposals identified by state/urban local bodies"
+      },
+      {
+        "step": 2,
+        "description": "Approval by National Mission for Clean Ganga"
+      },
+      {
+        "step": 3,
+        "description": "Implementation and monitoring of pollution abatement projects"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which river does this programme target?",
+        "answer": "The National River Ganga and its tributaries."
+      },
+      {
+        "question": "Which ministry implements Namami Gange?",
+        "answer": "Ministry of Jal Shakti through the National Mission for Clean Ganga."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://nmcg.nic.in/",
+      "application": "https://nmcg.nic.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/namami-gange"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://nmcg.nic.in/"
+    },
+    "keywords": [
+      "namami gange",
+      "river conservation",
+      "ganga rejuvenation"
+    ],
+    "tags": [
+      "green-india",
+      "environment",
+      "water"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH053",
+    "slug": "green-india-mission",
+    "name": "National Mission for a Green India (Green India Mission)",
+    "category": "Green India & Environment",
+    "subcategory": "Afforestation",
+    "ministry": {
+      "name": "Ministry of Environment, Forest and Climate Change",
+      "department": "Ministry of Environment, Forest and Climate Change"
+    },
+    "status": "Active",
+    "overview": "A mission under the National Action Plan on Climate Change aimed at protecting, restoring and enhancing India's diminishing forest cover and responding to climate change.",
+    "objectives": [
+      "Increase forest and tree cover across the country",
+      "Improve ecosystem services and biodiversity",
+      "Enhance livelihoods of forest-dependent communities"
+    ],
+    "benefits": [
+      {
+        "title": "Afforestation Support",
+        "description": "Funding for afforestation, agroforestry and forest ecosystem restoration projects"
+      },
+      {
+        "title": "Livelihood Support",
+        "description": "Support for forest-dependent community livelihoods through sustainable practices"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Implemented in identified forest and non-forest landscapes across states"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Not applicable - environment programme",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "State Forest Department prepares Perspective/Annual Plans"
+      },
+      {
+        "step": 2,
+        "description": "Central approval and fund release"
+      },
+      {
+        "step": 3,
+        "description": "Implementation through Joint Forest Management Committees"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the goal of Green India Mission?",
+        "answer": "Increase forest/tree cover and improve quality of existing forests."
+      },
+      {
+        "question": "Who implements the mission on ground?",
+        "answer": "State Forest Departments through Joint Forest Management Committees."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://moef.gov.in/en/division/forest-divisions-2/gim/",
+      "application": "https://moef.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/green-india-mission"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://moef.gov.in/"
+    },
+    "keywords": [
+      "green india mission",
+      "afforestation",
+      "forest conservation"
+    ],
+    "tags": [
+      "green-india",
+      "environment",
+      "forestry"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH054",
+    "slug": "swachh-bharat-mission",
+    "name": "Swachh Bharat Mission (Grameen and Urban)",
+    "category": "Green India & Environment",
+    "subcategory": "Sanitation",
+    "ministry": {
+      "name": "Ministry of Jal Shakti / Ministry of Housing and Urban Affairs",
+      "department": "Department of Drinking Water and Sanitation"
+    },
+    "status": "Active",
+    "overview": "A national mission to achieve open-defecation-free status, improve solid and liquid waste management, and ensure cleanliness across rural and urban India.",
+    "objectives": [
+      "Eliminate open defecation through toilet construction",
+      "Ensure scientific solid and liquid waste management",
+      "Promote behavioural change for cleanliness and hygiene"
+    ],
+    "benefits": [
+      {
+        "title": "Toilet Construction Support",
+        "description": "Financial assistance for construction of individual household toilets"
+      },
+      {
+        "title": "Waste Management Infrastructure",
+        "description": "Support for solid and liquid waste management systems in villages and towns"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Households without access to toilets; urban local bodies and gram panchayats for infrastructure components"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      },
+      {
+        "name": "Household Survey Proof",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Household registers for toilet construction with Gram Panchayat/ULB"
+      },
+      {
+        "step": 2,
+        "description": "Verification of construction/need"
+      },
+      {
+        "step": 3,
+        "description": "Incentive amount disbursed on completion of toilet"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What incentive is given for toilet construction?",
+        "answer": "Financial assistance as notified under the scheme, disbursed after verified construction."
+      },
+      {
+        "question": "What are the two components of SBM?",
+        "answer": "Swachh Bharat Mission-Grameen for rural areas and Swachh Bharat Mission-Urban for cities."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://swachhbharatmission.gov.in/",
+      "application": "https://swachhbharatmission.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/sbm"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1969",
+      "website": "https://swachhbharatmission.gov.in/"
+    },
+    "keywords": [
+      "swachh bharat",
+      "sanitation",
+      "toilet construction",
+      "cleanliness"
+    ],
+    "tags": [
+      "green-india",
+      "environment",
+      "sanitation"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH055",
+    "slug": "pm-kusum",
+    "name": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM)",
+    "category": "Green India & Environment",
+    "subcategory": "Solar Energy for Farmers",
+    "ministry": {
+      "name": "Ministry of New and Renewable Energy",
+      "department": "Ministry of New and Renewable Energy"
+    },
+    "status": "Active",
+    "overview": "A scheme to promote solar energy adoption among farmers by supporting installation of solar pumps and grid-connected solar power plants on barren land, reducing dependence on diesel and grid power.",
+    "objectives": [
+      "Provide clean energy access to farmers for irrigation",
+      "Enable farmers to generate additional income through solar power",
+      "Reduce diesel dependency in the agricultural sector"
+    ],
+    "benefits": [
+      {
+        "title": "Solar Pump Subsidy",
+        "description": "Financial assistance for installation of standalone solar-powered agricultural pumps"
+      },
+      {
+        "title": "Solarisation of Existing Pumps",
+        "description": "Support to solarise existing grid-connected agricultural pumps"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Farmer"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Individual farmers, farmer groups, panchayats and water user associations"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Land Records",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Electricity Connection Proof (for solarisation)",
+        "mandatory": false
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through state renewable energy development agency portal"
+      },
+      {
+        "step": 2,
+        "description": "Site verification and feasibility check"
+      },
+      {
+        "step": 3,
+        "description": "Farmer pays their contribution share"
+      },
+      {
+        "step": 4,
+        "description": "Solar pump/plant installed and commissioned"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What are the components of PM-KUSUM?",
+        "answer": "Component A (solar plants on barren land), B (standalone solar pumps) and C (solarisation of grid-connected pumps)."
+      },
+      {
+        "question": "What subsidy is available?",
+        "answer": "Central and state subsidy covering a significant share of the cost, with farmer contributing the remainder."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmkusum.mnre.gov.in/",
+      "application": "https://pmkusum.mnre.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pm-kusum"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://pmkusum.mnre.gov.in/"
+    },
+    "keywords": [
+      "pm kusum",
+      "solar pump",
+      "farmer solar energy"
+    ],
+    "tags": [
+      "green-india",
+      "agriculture",
+      "renewable-energy"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

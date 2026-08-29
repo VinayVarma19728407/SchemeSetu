@@ -1,0 +1,42 @@
+.browse-page {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+.browse-title {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 1.5rem;
+}
+
+.browse-results-info {
+  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+}
+
+.browse-results-info strong {
+  color: var(--text-primary);
+}
+
+.browse-empty {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: var(--surface);
+  border-radius: var(--radius-lg);
+  border: 1px dashed var(--border);
+}
+
+.browse-empty h3 {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.browse-empty p {
+  color: var(--text-light);
+  margin-bottom: 1.25rem;
+}

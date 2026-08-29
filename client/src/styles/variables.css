@@ -1,0 +1,57 @@
+:root {
+  /* Colors */
+  --primary-color: #0B3D91;      /* Dark Blue */
+  --primary-hover: #082E6E;
+  --primary-light: #E6EEFA;
+  
+  --accent-color: #F57C00;       /* Orange Accent */
+  --accent-hover: #E65100;
+  --accent-light: #FFF3E0;
+  
+  --background-color: #F8F9FB;   /* Off-white background */
+  --surface-color: #FFFFFF;      /* White surfaces */
+  --surface-hover: #FAFCFE;
+  
+  --text-color: #212121;         /* Dark Grey */
+  --text-secondary: #5A5A5A;   /* Medium Grey */
+  --text-light: #8E8E8E;
+  
+  --border-color: #E2E8F0;
+  --border-focus: #3B82F6;
+  
+  --error-color: #D32F2F;        /* Red */
+  --error-light: #FFEBEE;
+  
+  --success-color: #2E7D32;      /* Green */
+  --success-light: #E8F5E9;
+  
+  /* Aliases for components */
+  --primary: var(--primary-color);
+  --error: var(--error-color);
+  --border: var(--border-color);
+  --surface: var(--surface-color);
+  --text-primary: var(--text-color);
+  --radius-lg: var(--border-radius-lg);
+  --radius-sm: var(--border-radius-sm);
+  
+  /* Borders and Spacings */
+  --border-radius-sm: 6px;
+  --border-radius: 12px;
+  --border-radius-lg: 16px;
+  --border-radius-round: 50%;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.05), 0 1px 2px rgba(0,0,0,0.03);
+  --shadow-md: 0 4px 12px rgba(11, 61, 145, 0.06), 0 2px 4px rgba(0, 0, 0, 0.04);
+  --shadow-lg: 0 10px 25px rgba(11, 61, 145, 0.08), 0 4px 6px rgba(0, 0, 0, 0.02);
+  --shadow-hover: 0 15px 30px rgba(11, 61, 145, 0.12), 0 5px 15px rgba(0, 0, 0, 0.03);
+  
+  /* Typography */
+  --font-headings: 'Poppins', 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  
+  /* Layout */
+  --max-width: 1200px;
+  --navbar-height: 72px;
+  --transition-speed: 0.25s;
+}

@@ -1,0 +1,1023 @@
+[
+  {
+    "id": "SCH016",
+    "slug": "pradhan-mantri-awas-yojana-urban-2",
+    "name": "Pradhan Mantri Awas Yojana - Urban 2.0 (PMAY-U 2.0)",
+    "category": "Housing",
+    "subcategory": "Urban Housing",
+    "ministry": {
+      "name": "Ministry of Housing and Urban Affairs",
+      "department": "Ministry of Housing and Urban Affairs"
+    },
+    "status": "Active",
+    "overview": "A flagship mission to provide central assistance to eligible urban poor and middle-class families to construct, purchase or rent affordable pucca houses over five years from 2024 to 2029.",
+    "objectives": [
+      "Provide housing for all in urban areas",
+      "Address housing needs of EWS, LIG and MIG families",
+      "Promote affordable rental and beneficiary-led construction"
+    ],
+    "benefits": [
+      {
+        "title": "Central Assistance",
+        "description": "Government assistance of up to Rs. 2.50 lakh per housing unit"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": 900000,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Families with no pucca house anywhere in India; covers EWS, LIG and MIG segments in urban areas"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Do you live in an urban area covered under PMAY-U 2.0?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your household's annual income \u0393\u00e9\u25639 lakh or less?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Which income category does your household belong to?  EWS / LIG / MIG  EWS/LIG/MIG  4  Do you or any member of your family own a pucca house anywhere in India?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_5",
+          "question": "Have you or any member of your family been allotted a house under any Central, State/UT or Local Government housing scheme during the last 20 years?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you applying as a family consisting of husband, wife and unmarried children?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Income Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "No-house Ownership Declaration",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Check eligibility on PMAY-U portal"
+      },
+      {
+        "step": 2,
+        "description": "Apply online or through Urban Local Body"
+      },
+      {
+        "step": 3,
+        "description": "Application verified by State/UT/PLI"
+      },
+      {
+        "step": 4,
+        "description": "Central assistance released in installments"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the assistance amount?",
+        "answer": "Up to Rs. 2.50 lakh per beneficiary depending on the housing verticals."
+      },
+      {
+        "question": "Who is eligible?",
+        "answer": "EWS/LIG/MIG urban families without a pucca house anywhere in India."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmay-urban.gov.in/",
+      "application": "https://pmaymis.gov.in/",
+      "guidelines": "https://pmay-urban.gov.in/pmay-u-2.0-guidelines"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-11-6163",
+      "website": "https://pmay-urban.gov.in/"
+    },
+    "keywords": [
+      "pmay urban",
+      "affordable housing",
+      "housing for all"
+    ],
+    "tags": [
+      "housing",
+      "urban",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH017",
+    "slug": "pradhan-mantri-awas-yojana-gramin",
+    "name": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+    "category": "Housing",
+    "subcategory": "Rural Housing",
+    "ministry": {
+      "name": "Ministry of Rural Development",
+      "department": "Department of Rural Development"
+    },
+    "status": "Active",
+    "overview": "A scheme to provide pucca houses with basic amenities to all houseless and households living in kutcha and dilapidated houses in rural areas.",
+    "objectives": [
+      "Provide pucca houses to eligible rural households",
+      "Improve housing conditions for the rural poor",
+      "Convergence with other schemes for toilets, electricity and LPG connections"
+    ],
+    "benefits": [
+      {
+        "title": "Financial Assistance",
+        "description": "Unit assistance of Rs. 1.20 lakh in plain areas and Rs. 1.30 lakh in hilly/difficult areas/IAP districts"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Houseless households and those living in kutcha/dilapidated houses as per Socio Economic Caste Census/Awaas+ survey"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Do you live in a rural area?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your household houseless?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "If you have a house, does it have 0, 1 or 2 rooms with kutcha walls and a kutcha roof?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is your household included in the applicable SECC/Awaas+ beneficiary list, subject to verification?  Yes / No / Don't Know  Yes  5  Does your household have no exclusion condition under PMAY-G?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Does your household have no member who is a government employee?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Does your household have no member earning more than \u0393\u00e9\u256315,000 per month?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Does your household not own a motorised vehicle such as a two-wheeler, three-wheeler or four-wheeler?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_9",
+          "question": "Does your household not own mechanised agricultural equipment, such as a tractor or power tiller?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_10",
+          "question": "Does your household not have a Kisan Credit Card with a credit limit of \u0393\u00e9\u256350,000 or more?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_11",
+          "question": "Does your household have no member who pays income tax or professional tax?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_12",
+          "question": "Does your household meet the applicable SECC housing-deprivation criteria?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Job Card (if MGNREGA linked)",
+        "mandatory": false
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Beneficiary identification via SECC/Awaas+ survey"
+      },
+      {
+        "step": 2,
+        "description": "Selection through Gram Sabha"
+      },
+      {
+        "step": 3,
+        "description": "Registration on PMAY-G portal"
+      },
+      {
+        "step": 4,
+        "description": "Assistance released in installments linked to construction stages"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How is the beneficiary list prepared?",
+        "answer": "Based on the SECC 2011 data validated by the Gram Sabha and updated through the Awaas+ survey."
+      },
+      {
+        "question": "What is the unit assistance amount?",
+        "answer": "Rs. 1.20 lakh in plain areas and Rs. 1.30 lakh in hilly/difficult areas."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmayg.nic.in/",
+      "application": "https://pmayg.nic.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmay-g"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-11-6446",
+      "website": "https://pmayg.nic.in/"
+    },
+    "keywords": [
+      "pmay gramin",
+      "rural housing",
+      "housing for all"
+    ],
+    "tags": [
+      "housing",
+      "rural",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH018",
+    "slug": "affordable-rental-housing-complexes",
+    "name": "Affordable Rental Housing Complexes (ARHC)",
+    "category": "Housing",
+    "subcategory": "Rental Housing",
+    "ministry": {
+      "name": "Ministry of Housing and Urban Affairs",
+      "department": "Ministry of Housing and Urban Affairs"
+    },
+    "status": "Active",
+    "overview": "A sub-scheme under PMAY-Urban to provide ease of living to urban migrants and poor by offering affordable rental housing near their workplace.",
+    "objectives": [
+      "Provide affordable rental housing to urban migrants and poor",
+      "Utilise existing government-funded vacant houses",
+      "Encourage private participation in rental housing"
+    ],
+    "benefits": [
+      {
+        "title": "Affordable Rent",
+        "description": "Access to livable rental units at affordable rates close to workplaces"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Migrant Worker",
+        "Urban Poor"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Urban migrants/poor including labourers, students and industrial workers"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you an urban resident or an urban migrant?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Do you belong to the EWS or LIG category?  EWS / LIG  Yes  3  Do you currently require affordable rental accommodation?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Are you an urban migrant/poor person or part of an eligible target group such as an industrial worker, construction worker, working woman, street vendor, rickshaw puller, service provider, student, contractual worker, etc.?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Are you willing to rent and reside in an ARHC unit under the applicable rental terms?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Employment/Migration Proof",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Existing government-funded vacant houses converted into ARHCs by concessionaire"
+      },
+      {
+        "step": 2,
+        "description": "Eligible beneficiaries apply through the concessionaire or ULB"
+      },
+      {
+        "step": 3,
+        "description": "Allotment of rental units"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can rent under ARHC?",
+        "answer": "Urban migrant labourers, poor, students, and other eligible categories."
+      },
+      {
+        "question": "Is ARHC a separate scheme?",
+        "answer": "It is a sub-scheme under PMAY-Urban."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://mohua.gov.in/upload/uploadfiles/files/ARHC_Guidelines.pdf",
+      "application": "https://pmay-urban.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/arhc"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://mohua.gov.in/"
+    },
+    "keywords": [
+      "affordable rental housing",
+      "arhc",
+      "migrant housing"
+    ],
+    "tags": [
+      "housing",
+      "urban",
+      "rental"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH019",
+    "slug": "pmay-u-2-interest-subsidy-scheme",
+    "name": "PMAY-U 2.0 Interest Subsidy Scheme (ISS)",
+    "category": "Housing",
+    "subcategory": "Home Loan Subsidy",
+    "ministry": {
+      "name": "Ministry of Housing and Urban Affairs",
+      "department": "Ministry of Housing and Urban Affairs"
+    },
+    "status": "Active",
+    "overview": "A vertical under PMAY-Urban 2.0 providing interest subsidy on home loans to EWS/LIG/MIG families to enable them to buy or construct their first house.",
+    "objectives": [
+      "Reduce effective home loan interest burden for eligible families",
+      "Enable homeownership for EWS/LIG/MIG families",
+      "Increase affordable housing loan penetration"
+    ],
+    "benefits": [
+      {
+        "title": "Interest Subsidy",
+        "description": "Subsidy on interest paid on home loans for construction/purchase of house, credited upfront to loan account"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": 900000,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Families availing a home loan for their first pucca house with no other pucca house in the family"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Do you live in an urban area?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your annual household income \u0393\u00e9\u25639 lakh or less?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Does your household fall under EWS, LIG or MIG?  EWS / LIG / MIG  Yes  4  Do you or any member of your family own a pucca house anywhere in India, other than the house being acquired/constructed?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_5",
+          "question": "Have you or your family received a benefit under a Central, State/UT or Local Government housing scheme during the last 20 years?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_6",
+          "question": "Was your home loan sanctioned and disbursed on or after 1 September 2024?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Is the home-loan amount \u0393\u00e9\u256325 lakh or less?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Is the property value \u0393\u00e9\u256335 lakh or less?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_9",
+          "question": "Is the house's carpet area 120 sq. metres or less?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_10",
+          "question": "Is the loan being used for purchase, re-purchase or construction of a house?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_11",
+          "question": "Can you provide proof of household income?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_12",
+          "question": "Is the loan tenure more than 5 years?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Income Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Home Loan Sanction Letter",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply for a home loan from a participating lending institution"
+      },
+      {
+        "step": 2,
+        "description": "Lending institution verifies eligibility under PMAY-U 2.0"
+      },
+      {
+        "step": 3,
+        "description": "Interest subsidy credited to the borrower's loan account"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How is the subsidy disbursed?",
+        "answer": "Directly credited to the beneficiary's loan account by the lending institution."
+      },
+      {
+        "question": "Can I avail this along with other PMAY-U verticals?",
+        "answer": "No, a beneficiary can avail benefit under only one vertical of PMAY-U 2.0."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmay-urban.gov.in/pmay-u-2.0-guidelines",
+      "application": "https://pmaymis.gov.in/",
+      "guidelines": "https://pmay-urban.gov.in/pmay-u-2.0-guidelines"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-11-6163",
+      "website": "https://pmay-urban.gov.in/"
+    },
+    "keywords": [
+      "interest subsidy",
+      "home loan",
+      "pmay"
+    ],
+    "tags": [
+      "housing",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH020",
+    "slug": "day-nulm-shelter-for-urban-homeless",
+    "name": "DAY-NULM Shelter for Urban Homeless (SUH)",
+    "category": "Housing",
+    "subcategory": "Homeless Shelter",
+    "ministry": {
+      "name": "Ministry of Housing and Urban Affairs",
+      "department": "Deendayal Antyodaya Yojana - National Urban Livelihoods Mission"
+    },
+    "status": "Active",
+    "overview": "A component of DAY-NULM providing permanent all-weather shelters with essential services to urban homeless persons and vulnerable populations.",
+    "objectives": [
+      "Provide shelter with basic services to the urban homeless",
+      "Facilitate access to entitlements and social security for shelter residents",
+      "Enable rehabilitation and livelihood linkage for the homeless"
+    ],
+    "benefits": [
+      {
+        "title": "Free Shelter",
+        "description": "Access to a permanent all-weather shelter with bedding, drinking water and sanitation"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Urban homeless persons including migrants, destitute and vulnerable individuals"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you currently homeless?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Are you residing in or seeking shelter in an urban area?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Do you lack a stable/permanent residence?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Do you require temporary or permanent shelter accommodation?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Are you willing to stay in a designated SUH shelter?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you a single homeless person, homeless family, elderly person, person with disability, mentally ill/recovering person, or another vulnerable homeless person?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Are you willing to follow the rules and conditions of the shelter?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Identity Proof (if available)",
+        "mandatory": false
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Approach the nearest shelter run under DAY-NULM SUH"
+      },
+      {
+        "step": 2,
+        "description": "Registration by shelter management"
+      },
+      {
+        "step": 3,
+        "description": "Access shelter along with linked welfare services"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is there any cost to stay in the shelter?",
+        "answer": "No, shelters under SUH are provided free of cost."
+      },
+      {
+        "question": "Who manages the shelters?",
+        "answer": "Urban Local Bodies, often through NGOs/partner agencies."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://nulm.gov.in/",
+      "application": "https://nulm.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/suh"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://nulm.gov.in/"
+    },
+    "keywords": [
+      "shelter",
+      "urban homeless",
+      "nulm"
+    ],
+    "tags": [
+      "housing",
+      "urban",
+      "welfare"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

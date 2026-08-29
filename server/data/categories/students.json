@@ -1,0 +1,962 @@
+[
+  {
+    "id": "SCH031",
+    "slug": "national-scholarship-portal-central-sector-scheme",
+    "name": "Central Sector Scheme of Scholarships for College and University Students",
+    "category": "Students",
+    "subcategory": "Merit Scholarship",
+    "ministry": {
+      "name": "Ministry of Education",
+      "department": "Department of Higher Education"
+    },
+    "status": "Active",
+    "overview": "A scholarship scheme providing financial assistance to meritorious students from low-income families to meet a part of their day-to-day expenses while pursuing higher studies.",
+    "objectives": [
+      "Provide financial assistance to meritorious students from economically weaker sections",
+      "Support continuation of higher education",
+      "Recognise merit at Class XII level"
+    ],
+    "benefits": [
+      {
+        "title": "Scholarship Amount",
+        "description": "Fixed monthly/annual scholarship amount for graduation and post-graduation, disbursed via DBT"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": 450000,
+        "currency": "INR"
+      },
+      "education": [
+        "Class XII pass with high percentile marks"
+      ],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Pursuing regular degree courses in recognised institutions"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Class XII Marksheet",
+        "mandatory": true
+      },
+      {
+        "name": "Income Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register on the National Scholarship Portal (NSP)"
+      },
+      {
+        "step": 2,
+        "description": "Fill application and upload documents"
+      },
+      {
+        "step": 3,
+        "description": "Institution verification"
+      },
+      {
+        "step": 4,
+        "description": "Scholarship disbursed via DBT"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible?",
+        "answer": "Students who cleared Class XII within the top percentile and have family income within the prescribed limit."
+      },
+      {
+        "question": "How is the scholarship renewed?",
+        "answer": "Based on maintaining minimum required academic performance each year."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://scholarships.gov.in/",
+      "application": "https://scholarships.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/css-scholarship"
+    },
+    "contact": {
+      "email": "",
+      "phone": "0120-6619540",
+      "website": "https://scholarships.gov.in/"
+    },
+    "keywords": [
+      "scholarship",
+      "college students",
+      "nsp"
+    ],
+    "tags": [
+      "students",
+      "education",
+      "scholarship"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH032",
+    "slug": "pm-vidyalaxmi",
+    "name": "PM Vidyalaxmi Scheme",
+    "category": "Students",
+    "subcategory": "Education Loan",
+    "ministry": {
+      "name": "Ministry of Education",
+      "department": "Department of Higher Education"
+    },
+    "status": "Active",
+    "overview": "A scheme to provide collateral-free education loans to meritorious students admitted to quality higher education institutions, along with interest subvention for economically weaker students.",
+    "objectives": [
+      "Ensure no student is denied higher education due to financial constraints",
+      "Provide collateral-free education loans to meritorious students",
+      "Offer interest subvention for economically weaker sections"
+    ],
+    "benefits": [
+      {
+        "title": "Collateral-free Loan",
+        "description": "Education loans without collateral or third-party guarantee up to a specified limit"
+      },
+      {
+        "title": "Interest Subvention",
+        "description": "Interest subsidy for students from economically weaker families"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": 800000,
+        "currency": "INR"
+      },
+      "education": [
+        "Admission to a Quality Higher Education Institution"
+      ],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Indian citizens admitted to recognised quality higher education institutions"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Have you secured admission on the basis of merit/open competitive examination to an eligible Quality Higher Educational Institution (QHEI) in India?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is the institution you are joining included in the official PM-Vidyalaxmi QHEI list?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Are you pursuing an eligible degree or diploma programme in the QHEI?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Was your admission obtained through a management quota or similar quota?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_5",
+          "question": "Are you seeking an education loan for tuition fees and other eligible education-related expenses?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you willing to apply through the PM-Vidyalaxmi digital portal and an eligible lending bank?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Do you have the required Aadhaar/KYC and academic documents?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Admission Letter",
+        "mandatory": true
+      },
+      {
+        "name": "Income Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through the PM Vidyalaxmi portal"
+      },
+      {
+        "step": 2,
+        "description": "Select empanelled bank for the loan"
+      },
+      {
+        "step": 3,
+        "description": "Submit documents for verification"
+      },
+      {
+        "step": 4,
+        "description": "Loan sanctioned and disbursed to the institution"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is collateral required?",
+        "answer": "No, for loans up to the specified threshold under the scheme."
+      },
+      {
+        "question": "Who is eligible for interest subvention?",
+        "answer": "Students from families with annual income up to the prescribed limit."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.vidyalakshmi.co.in/",
+      "application": "https://www.vidyalakshmi.co.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pm-vidyalaxmi"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://www.vidyalakshmi.co.in/"
+    },
+    "keywords": [
+      "pm vidyalaxmi",
+      "education loan",
+      "student loan"
+    ],
+    "tags": [
+      "students",
+      "education",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": true
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH033",
+    "slug": "aicte-pragati-scholarship-for-girls",
+    "name": "AICTE Pragati Scholarship Scheme for Girl Students",
+    "category": "Students",
+    "subcategory": "Girl Student Scholarship",
+    "ministry": {
+      "name": "Ministry of Education",
+      "department": "All India Council for Technical Education (AICTE)"
+    },
+    "status": "Active",
+    "overview": "A scholarship scheme to provide financial assistance to girl students pursuing technical education in AICTE-approved institutions, to encourage their participation in technical courses.",
+    "objectives": [
+      "Encourage girl students to pursue technical education",
+      "Reduce financial barriers for female students in AICTE-approved institutions",
+      "Improve gender diversity in technical education"
+    ],
+    "benefits": [
+      {
+        "title": "Scholarship Amount",
+        "description": "Annual scholarship covering tuition fee reimbursement and incidental allowance"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [
+        "Female"
+      ],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [
+        "Admission in first year of a technical degree/diploma course in an AICTE-approved institution"
+      ],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Maximum two girl children per family are eligible"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you a girl student?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your family's annual income less than \u0393\u00e9\u25638 lakh?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Are you admitted to a Diploma or Undergraduate Degree programme?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is your institution approved by AICTE?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Are you admitted to the first year of the eligible Diploma/Degree programme for the applicable academic year?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you one of not more than two girl children from your family applying for/receiving Pragati scholarship?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Was your admission obtained through the applicable centralized admission process of the State/Central Government?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Are you already receiving another scholarship that would make you ineligible for Pragati under the applicable rules?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Admission Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Income Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register on the AICTE Pragati portal"
+      },
+      {
+        "step": 2,
+        "description": "Fill application with academic and family details"
+      },
+      {
+        "step": 3,
+        "description": "Institution verifies and forwards application"
+      },
+      {
+        "step": 4,
+        "description": "Scholarship disbursed via DBT"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How many students are selected?",
+        "answer": "A fixed number of slots per technical institution as notified by AICTE each year."
+      },
+      {
+        "question": "Is this only for engineering students?",
+        "answer": "It covers various AICTE-approved technical diploma and degree programmes."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.aicte-india.org/schemes/students-development-schemes",
+      "application": "https://www.aicte-india.org/schemes/students-development-schemes",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pragati-girls"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://www.aicte-india.org/"
+    },
+    "keywords": [
+      "pragati scholarship",
+      "girl students",
+      "technical education"
+    ],
+    "tags": [
+      "students",
+      "women",
+      "scholarship"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH034",
+    "slug": "top-class-education-scheme-sc-students",
+    "name": "Top Class Education Scheme for Scheduled Caste Students",
+    "category": "Students",
+    "subcategory": "SC Student Scholarship",
+    "ministry": {
+      "name": "Ministry of Social Justice and Empowerment",
+      "department": "Department of Social Justice and Empowerment"
+    },
+    "status": "Active",
+    "overview": "A scheme providing full financial support to meritorious Scheduled Caste students for pursuing notified higher education courses in top-ranked institutions.",
+    "objectives": [
+      "Enable SC students to pursue quality higher education in premier institutions",
+      "Cover full cost of tuition and maintenance for selected students",
+      "Encourage merit among SC students in higher studies"
+    ],
+    "benefits": [
+      {
+        "title": "Full Financial Support",
+        "description": "Complete coverage of tuition fees, living and other allowances at notified institutions"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": 800000,
+        "currency": "INR"
+      },
+      "education": [
+        "Admission to notified premier institutions for specified courses"
+      ],
+      "occupation": [],
+      "socialCategory": [
+        "Scheduled Caste"
+      ],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Do you belong to the Scheduled Caste (SC) category?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your family's total annual income from all sources \u0393\u00e9\u25638 lakh or less?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Have you secured admission to a full-time prescribed course?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is your institution included in the official list of empanelled/notified institutions under the scheme?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Are you pursuing studies beyond Class XII in the eligible higher-education programme?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you one of not more than two siblings in your family receiving this scholarship?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Have you secured admission to the institution through the prescribed admission process and merit requirements?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Caste Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Admission Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Income Certificate",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through the National Scholarship Portal"
+      },
+      {
+        "step": 2,
+        "description": "Institution certifies admission and eligibility"
+      },
+      {
+        "step": 3,
+        "description": "Selection based on merit and income criteria"
+      },
+      {
+        "step": 4,
+        "description": "Financial assistance disbursed directly"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which institutions are covered?",
+        "answer": "A notified list of top-ranked institutes across disciplines."
+      },
+      {
+        "question": "What is the income ceiling?",
+        "answer": "As prescribed under the scheme guidelines, subject to periodic revision."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://socialjustice.gov.in/schemes/20",
+      "application": "https://scholarships.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/top-class-education-sc"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://socialjustice.gov.in/"
+    },
+    "keywords": [
+      "top class education",
+      "sc students",
+      "scholarship"
+    ],
+    "tags": [
+      "students",
+      "scholarship"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH035",
+    "slug": "national-fellowship-obc-students",
+    "name": "National Fellowship for Other Backward Classes (OBC) Students",
+    "category": "Students",
+    "subcategory": "OBC Research Fellowship",
+    "ministry": {
+      "name": "Ministry of Social Justice and Empowerment",
+      "department": "Department of Social Justice and Empowerment"
+    },
+    "status": "Active",
+    "overview": "A fellowship scheme providing financial support to OBC students pursuing M.Phil and Ph.D. degrees in sciences, humanities and social sciences from recognised universities and institutions.",
+    "objectives": [
+      "Promote higher research education among OBC students",
+      "Provide financial assistance during M.Phil/Ph.D. studies",
+      "Improve representation of OBC candidates in research"
+    ],
+    "benefits": [
+      {
+        "title": "Fellowship Amount",
+        "description": "Monthly fellowship and contingency allowance during the research period"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [
+        "Enrolled in M.Phil/Ph.D. programme in a recognised university"
+      ],
+      "occupation": [],
+      "socialCategory": [
+        "Other Backward Classes"
+      ],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Do you belong to the Other Backward Classes (OBC) category?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your OBC status recognized under the applicable Central OBC list?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Have you qualified UGC-NET-JRF or UGC-CSIR-NET-JRF, as applicable to your subject?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Are you pursuing or admitted to a regular, full-time M.Phil./Ph.D. programme?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is your research programme in an eligible field such as Humanities & Social Sciences, Engineering & Technology, or Sciences?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Is your university/research institution recognized by the appropriate authority/UGC?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "If you are already registered in M.Phil./Ph.D., can you provide the required registration/admission documents?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Are you applying within the applicable NET-JRF/NFOBC award cycle and fellowship validity period?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "OBC Certificate (Non-Creamy Layer)",
+        "mandatory": true
+      },
+      {
+        "name": "Enrollment/Admission Proof",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through the National Scholarship Portal during notified window"
+      },
+      {
+        "step": 2,
+        "description": "Selection based on UGC-NET or equivalent qualifying criteria"
+      },
+      {
+        "step": 3,
+        "description": "Fellowship disbursed periodically via DBT"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the fellowship duration?",
+        "answer": "Up to a maximum period as prescribed for M.Phil and Ph.D. respectively."
+      },
+      {
+        "question": "Is non-creamy layer certificate mandatory?",
+        "answer": "Yes, an OBC non-creamy layer certificate is required."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://socialjustice.gov.in/schemes/20",
+      "application": "https://scholarships.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/nfobc"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://socialjustice.gov.in/"
+    },
+    "keywords": [
+      "national fellowship",
+      "obc students",
+      "research fellowship"
+    ],
+    "tags": [
+      "students",
+      "scholarship",
+      "research"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

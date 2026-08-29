@@ -1,0 +1,155 @@
+.eligibility-result-wrapper {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  font-family: 'Inter', sans-serif;
+}
+
+.eligibility-result-title {
+  text-align: center;
+  color: #0B3D91;
+  margin-bottom: 0.5rem;
+}
+
+.eligibility-scheme-name {
+  text-align: center;
+  color: #333;
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.result-banner {
+  display: flex;
+  align-items: center;
+  padding: 1.2rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.result-banner .icon {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+.success-banner {
+  background: #e8f5e9;
+  color: #2e7d32;
+  border: 1px solid #c8e6c9;
+}
+
+.error-banner {
+  background: #ffebee;
+  color: #c62828;
+  border: 1px solid #ffcdd2;
+}
+
+.warning-banner {
+  background: #fff8e1;
+  color: #f57f17;
+  border: 1px solid #ffecb3;
+}
+
+.conditions-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.conditions-list h3 {
+  margin-bottom: 1rem;
+  color: #444;
+  font-size: 1.1rem;
+}
+
+.conditions-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.conditions-list li {
+  padding: 0.8rem;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  background: #f9f9f9;
+}
+
+.passed-cond {
+  border-left: 4px solid #4caf50;
+}
+
+.failed-cond {
+  border-left: 4px solid #f44336;
+}
+
+.result-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.btn {
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s;
+  border: none;
+  font-size: 1rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-primary {
+  background: #0B3D91;
+  color: white;
+}
+
+.btn-primary:hover {
+  background: #082d6b;
+}
+
+.btn-secondary {
+  background: #f57c00;
+  color: white;
+}
+
+.btn-secondary:hover {
+  background: #e65100;
+}
+
+.btn-outline {
+  background: transparent;
+  border: 2px solid #0B3D91;
+  color: #0B3D91;
+}
+
+.btn-outline:hover {
+  background: #f0f4f8;
+}
+
+.btn-bookmarked {
+  background: #0B3D91;
+  color: white;
+  border: 2px solid #0B3D91;
+}
+
+.btn-text {
+  background: transparent;
+  color: #555;
+  text-decoration: underline;
+}
+
+.btn-text:hover {
+  color: #0B3D91;
+}

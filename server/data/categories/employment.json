@@ -1,0 +1,763 @@
+[
+  {
+    "id": "SCH056",
+    "slug": "mgnrega",
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "Employment",
+    "subcategory": "Rural Employment Guarantee",
+    "ministry": {
+      "name": "Ministry of Rural Development",
+      "department": "Department of Rural Development"
+    },
+    "status": "Active",
+    "overview": "A demand-driven wage employment programme guaranteeing 100 days of unskilled manual work in a financial year to every rural household whose adult members volunteer for it.",
+    "objectives": [
+      "Guarantee wage employment to rural households",
+      "Create durable rural infrastructure and assets",
+      "Enhance livelihood security in rural areas"
+    ],
+    "benefits": [
+      {
+        "title": "Guaranteed Wage Employment",
+        "description": "Up to 100 days of guaranteed wage employment per household per financial year"
+      },
+      {
+        "title": "Unemployment Allowance",
+        "description": "Allowance payable if work is not provided within 15 days of demand"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Adult members of rural households willing to do unskilled manual work"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Job Card",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register with Gram Panchayat for a Job Card"
+      },
+      {
+        "step": 2,
+        "description": "Submit written application for work"
+      },
+      {
+        "step": 3,
+        "description": "Work allotted within 15 days"
+      },
+      {
+        "step": 4,
+        "description": "Wages credited directly to bank/post office account"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How many days of employment are guaranteed?",
+        "answer": "Up to 100 days per household per financial year."
+      },
+      {
+        "question": "What happens if work isn't provided in time?",
+        "answer": "An unemployment allowance becomes payable as per state rules."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://nrega.nic.in/",
+      "application": "https://nrega.nic.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/mgnrega"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-11-0707",
+      "website": "https://nrega.nic.in/"
+    },
+    "keywords": [
+      "mgnrega",
+      "rural employment",
+      "job card"
+    ],
+    "tags": [
+      "employment",
+      "rural",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH057",
+    "slug": "day-nrlm",
+    "name": "Deendayal Antyodaya Yojana - National Rural Livelihood Mission (DAY-NRLM)",
+    "category": "Employment",
+    "subcategory": "Rural Livelihoods",
+    "ministry": {
+      "name": "Ministry of Rural Development",
+      "department": "Department of Rural Development"
+    },
+    "status": "Active",
+    "overview": "A mission to organise rural poor households into Self Help Groups and build their capacities for sustainable livelihoods through financial inclusion and skill development.",
+    "objectives": [
+      "Organise rural poor into strong self-managed institutions",
+      "Enhance access to financial services for rural poor",
+      "Diversify livelihood opportunities for SHG members"
+    ],
+    "benefits": [
+      {
+        "title": "Community Institution Building",
+        "description": "Formation and strengthening of Self Help Groups and their federations"
+      },
+      {
+        "title": "Access to Credit",
+        "description": "Bank linkage and revolving fund support for SHGs"
+      },
+      {
+        "title": "Skill and Livelihood Training",
+        "description": "Capacity building for diverse livelihood activities"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Rural poor households, with priority to women, willing to join Self Help Groups"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "SHG Membership Proof",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Join or form a Self Help Group in the village"
+      },
+      {
+        "step": 2,
+        "description": "Group undergoes training and capacity building"
+      },
+      {
+        "step": 3,
+        "description": "SHG linked to bank for credit and revolving fund"
+      },
+      {
+        "step": 4,
+        "description": "Members access livelihood/skill programmes"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can join DAY-NRLM SHGs?",
+        "answer": "Rural poor households, with strong focus on women members."
+      },
+      {
+        "question": "What support is provided to SHGs?",
+        "answer": "Capacity building, revolving fund and bank credit linkage."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://aajeevika.gov.in/",
+      "application": "https://aajeevika.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/day-nrlm"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://aajeevika.gov.in/"
+    },
+    "keywords": [
+      "day-nrlm",
+      "aajeevika",
+      "self help groups",
+      "rural livelihoods"
+    ],
+    "tags": [
+      "employment",
+      "rural",
+      "women"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH058",
+    "slug": "day-nulm",
+    "name": "Deendayal Antyodaya Yojana - National Urban Livelihoods Mission (DAY-NULM)",
+    "category": "Employment",
+    "subcategory": "Urban Livelihoods",
+    "ministry": {
+      "name": "Ministry of Housing and Urban Affairs",
+      "department": "Deendayal Antyodaya Yojana - National Urban Livelihoods Mission"
+    },
+    "status": "Active",
+    "overview": "A mission to reduce urban poverty by enabling urban poor households to access self-employment and skilled wage employment opportunities, resulting in an appreciable improvement in their livelihoods.",
+    "objectives": [
+      "Enable sustainable livelihood opportunities for urban poor",
+      "Promote self-employment and skilled wage employment",
+      "Provide shelter and social security to vulnerable urban populations"
+    ],
+    "benefits": [
+      {
+        "title": "Skill Training",
+        "description": "Employable skill training with placement linkage for urban poor youth"
+      },
+      {
+        "title": "Self-Employment Support",
+        "description": "Subsidised loans for setting up individual or group micro-enterprises"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Urban Poor",
+        "Unemployed"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Urban poor individuals, particularly those living below the urban poverty line"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Urban Residence Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Income Certificate",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register at the Urban Local Body/City Livelihood Centre"
+      },
+      {
+        "step": 2,
+        "description": "Undergo skill training or apply for enterprise loan"
+      },
+      {
+        "step": 3,
+        "description": "Receive placement assistance or loan disbursement"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What support is available under DAY-NULM?",
+        "answer": "Skill training, self-employment loans, SHG formation and shelter for urban homeless."
+      },
+      {
+        "question": "Who is the target group?",
+        "answer": "Urban poor households and individuals below the urban poverty line."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://nulm.gov.in/",
+      "application": "https://nulm.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/day-nulm"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://nulm.gov.in/"
+    },
+    "keywords": [
+      "day-nulm",
+      "urban livelihoods",
+      "urban poverty"
+    ],
+    "tags": [
+      "employment",
+      "urban"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH059",
+    "slug": "national-career-service",
+    "name": "National Career Service (NCS)",
+    "category": "Employment",
+    "subcategory": "Job Matching Portal",
+    "ministry": {
+      "name": "Ministry of Labour and Employment",
+      "department": "Directorate General of Employment"
+    },
+    "status": "Active",
+    "overview": "An online platform connecting job seekers with employers, career counselling services, vocational guidance, and information on skill development courses across the country.",
+    "objectives": [
+      "Provide a common platform connecting job seekers and employers",
+      "Offer career counselling and vocational guidance",
+      "Facilitate job fairs and skill development linkages"
+    ],
+    "benefits": [
+      {
+        "title": "Job Search Portal",
+        "description": "Free access to job listings from private and government employers"
+      },
+      {
+        "title": "Career Counselling",
+        "description": "Online and in-person career guidance and counselling services"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Job seekers, employers, and career counsellors across India"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you 14 years of age or older?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Are you an individual seeking employment, career guidance, counselling, training or related career services?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Do you have a minimum educational qualification required for NCS registration?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_4",
+          "question": "Do you have a valid mobile number for registration/authentication?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Do you have at least one accepted identity document such as Aadhaar, PAN, Voter ID, Driving Licence, Passport or UAN?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Educational Certificates",
+        "mandatory": true
+      },
+      {
+        "name": "Identity Proof",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register as a job seeker on the NCS portal"
+      },
+      {
+        "step": 2,
+        "description": "Create profile with skills and qualifications"
+      },
+      {
+        "step": 3,
+        "description": "Search and apply for suitable job openings"
+      },
+      {
+        "step": 4,
+        "description": "Access career counselling and job fair information"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is registration on NCS free?",
+        "answer": "Yes, registration and use of the portal is free for job seekers."
+      },
+      {
+        "question": "Who can use NCS?",
+        "answer": "Job seekers, employers, skill providers, and career counsellors."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.ncs.gov.in/",
+      "application": "https://www.ncs.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/ncs"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-425-1514",
+      "website": "https://www.ncs.gov.in/"
+    },
+    "keywords": [
+      "national career service",
+      "job portal",
+      "employment exchange"
+    ],
+    "tags": [
+      "employment",
+      "job-search"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH060",
+    "slug": "pm-vishwakarma-yojana",
+    "name": "PM Vishwakarma Yojana",
+    "category": "Employment",
+    "subcategory": "Artisan Support",
+    "ministry": {
+      "name": "Ministry of Micro, Small and Medium Enterprises",
+      "department": "Ministry of Micro, Small and Medium Enterprises"
+    },
+    "status": "Active",
+    "overview": "A scheme to provide end-to-end support to traditional artisans and craftspeople practising 18 identified trades, including skill training, toolkit incentives, collateral-free credit and market support.",
+    "objectives": [
+      "Preserve and promote traditional artisan trades",
+      "Improve quality and reach of products made by traditional craftspeople",
+      "Provide financial and market support to artisans"
+    ],
+    "benefits": [
+      {
+        "title": "Skill Training",
+        "description": "Basic and advanced skill training with stipend for traditional artisans"
+      },
+      {
+        "title": "Toolkit Incentive",
+        "description": "Toolkit incentive to purchase modern tools"
+      },
+      {
+        "title": "Collateral-free Credit",
+        "description": "Access to credit at concessional interest rates without collateral"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 18,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Artisan",
+        "Craftsperson"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Practising one of the 18 identified traditional trades through family-based occupation"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you 18 years of age or older?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Do you work as a traditional artisan or craftsperson using your hands and tools?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Does your occupation belong to one of the 18 trades covered under PM Vishwakarma?  Select Trade  Yes  4  Are you currently engaged in the selected traditional trade as your occupation?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Are you self-employed in the relevant trade and working in the unorganised sector?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Is your occupation one of the following: Carpenter, Boat Maker, Armourer, Mason, Blacksmith, Hammer & Tool Kit Maker, Locksmith, Goldsmith, Potter, Sculptor/Stone Carver/Stone Breaker, Cobbler/Shoesmith/Footwear Artisan, Basket/Mat/Broom Maker/Coir Weaver, Doll & Toy Maker, Barber, Garland Maker, Washerman, Tailor or Fish Net Maker?  Select Trade  One of these trades required  7  Has another member of your household already received PM Vishwakarma benefits?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_8",
+          "question": "Have you already received benefits under a similar credit-based self-employment/business development scheme of the Government?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Trade/Occupation Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register through Common Service Centre or PM Vishwakarma portal"
+      },
+      {
+        "step": 2,
+        "description": "Verification by gram panchayat/ULB and screening committee"
+      },
+      {
+        "step": 3,
+        "description": "Undergo skill training"
+      },
+      {
+        "step": 4,
+        "description": "Avail toolkit incentive and collateral-free loan"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How many trades are covered?",
+        "answer": "18 traditional trades including carpenters, blacksmiths, potters, tailors and others."
+      },
+      {
+        "question": "Is the loan collateral-free?",
+        "answer": "Yes, up to the prescribed limit under the scheme."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmvishwakarma.gov.in/",
+      "application": "https://pmvishwakarma.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pm-vishwakarma"
+    },
+    "contact": {
+      "email": "",
+      "phone": "18002677777",
+      "website": "https://pmvishwakarma.gov.in/"
+    },
+    "keywords": [
+      "pm vishwakarma",
+      "artisans",
+      "traditional craftspeople"
+    ],
+    "tags": [
+      "employment",
+      "msme",
+      "skill-development"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": true
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

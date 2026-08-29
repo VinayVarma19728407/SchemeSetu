@@ -1,0 +1,1035 @@
+[
+  {
+    "id": "SCH046",
+    "slug": "smart-cities-mission",
+    "name": "Smart Cities Mission",
+    "category": "Infrastructure",
+    "subcategory": "Urban Development",
+    "ministry": {
+      "name": "Ministry of Housing and Urban Affairs",
+      "department": "Ministry of Housing and Urban Affairs"
+    },
+    "status": "Active",
+    "overview": "A mission to develop selected cities across India by providing core infrastructure, a clean and sustainable environment, and quality of life to citizens through smart solutions.",
+    "objectives": [
+      "Provide core urban infrastructure and services",
+      "Promote sustainable and inclusive urban development",
+      "Leverage technology for better city management"
+    ],
+    "benefits": [
+      {
+        "title": "Urban Infrastructure Development",
+        "description": "Investment in water supply, sanitation, mobility, e-governance and area-based development"
+      },
+      {
+        "title": "Integrated Command Centres",
+        "description": "City-level command and control centres for real-time monitoring"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Applicable at the city/urban local body level, not individual citizens"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Do you live, work, study or operate a business in a city covered under the Smart Cities Mission?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your city one of the 100 cities selected under the Smart Cities Mission?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Are you seeking a city-level service or facility provided through a Smart Cities Mission project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Does your requirement relate to areas such as transport, water supply, sanitation, waste management, energy, ICT, public safety or other urban services covered by the city's Smart City projects?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "If you are using a Smart City digital service/app, are you located within the service area covered by that particular project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Is the service/project you are seeking currently operational in your city?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "If the benefit is restricted to a particular Area-Based Development (ABD) area, do you live/work/study within that designated area?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "If you are participating as a citizen in a Smart City initiative, are you willing to provide the required citizen information/feedback?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "City Proposal Documentation",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Selected cities formed a Special Purpose Vehicle (SPV)"
+      },
+      {
+        "step": 2,
+        "description": "SPV implements area-based development and pan-city smart solutions"
+      },
+      {
+        "step": 3,
+        "description": "Projects monitored via Integrated Command and Control Centres"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How many cities are covered?",
+        "answer": "100 cities were selected under the mission in phases."
+      },
+      {
+        "question": "Who implements Smart Cities projects?",
+        "answer": "A Special Purpose Vehicle set up for each selected city."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://smartcities.gov.in/",
+      "application": "https://smartcities.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/smart-cities-mission"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://smartcities.gov.in/"
+    },
+    "keywords": [
+      "smart cities",
+      "urban infrastructure",
+      "smart cities mission"
+    ],
+    "tags": [
+      "infrastructure",
+      "urban"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH047",
+    "slug": "amrut-2",
+    "name": "Atal Mission for Rejuvenation and Urban Transformation 2.0 (AMRUT 2.0)",
+    "category": "Infrastructure",
+    "subcategory": "Urban Water & Sanitation",
+    "ministry": {
+      "name": "Ministry of Housing and Urban Affairs",
+      "department": "Ministry of Housing and Urban Affairs"
+    },
+    "status": "Active",
+    "overview": "A mission to make all cities 'water secure' by providing functional water tap connections, sewerage/septage management, and rejuvenation of water bodies in urban areas.",
+    "objectives": [
+      "Provide universal coverage of water supply in urban areas",
+      "Ensure sewerage and septage management in cities",
+      "Rejuvenate urban water bodies and promote sustainable water use"
+    ],
+    "benefits": [
+      {
+        "title": "Water Supply Infrastructure",
+        "description": "Development of piped water supply and sewerage/septage systems in cities"
+      },
+      {
+        "title": "Water Body Rejuvenation",
+        "description": "Restoration of urban lakes, ponds and other water bodies"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Applicable at the urban local body level"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Do you live in an urban area covered under AMRUT 2.0?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your city/urban local body included in the AMRUT 2.0 coverage/approved project framework?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Are you seeking a service related to water supply, sewerage/septage, water-body rejuvenation or parks/green spaces?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Are you a resident/household that requires a functional tap-water connection under an applicable city project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is your household located within the service/project area covered by the relevant AMRUT 2.0 project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "If you are seeking a water/sewerage connection, is your property located within the area served by the relevant urban local body/project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "If you are participating in an AMRUT Mitra/community initiative, do you meet the specific requirements of that initiative?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "If you are applying as an urban local body/implementing agency, are you covered by the applicable AMRUT 2.0 institutional framework?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "City/State Water Action Plan",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "States/UTs prepare State Water Action Plan"
+      },
+      {
+        "step": 2,
+        "description": "Central approval and fund release"
+      },
+      {
+        "step": 3,
+        "description": "Implementation through Urban Local Bodies"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the objective of AMRUT 2.0?",
+        "answer": "Making all statutory towns water secure through universal water supply coverage."
+      },
+      {
+        "question": "Is AMRUT 2.0 different from AMRUT?",
+        "answer": "It is the second, expanded phase focused on universal water coverage."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://amrut.mohua.gov.in/",
+      "application": "https://amrut.mohua.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/amrut-2"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://amrut.mohua.gov.in/"
+    },
+    "keywords": [
+      "amrut",
+      "urban water supply",
+      "sewerage"
+    ],
+    "tags": [
+      "infrastructure",
+      "urban",
+      "water"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH048",
+    "slug": "bharatmala-pariyojana",
+    "name": "Bharatmala Pariyojana",
+    "category": "Infrastructure",
+    "subcategory": "Highway Development",
+    "ministry": {
+      "name": "Ministry of Road Transport and Highways",
+      "department": "Ministry of Road Transport and Highways"
+    },
+    "status": "Active",
+    "overview": "An umbrella road and highway infrastructure programme focused on optimising the efficiency of road traffic movement across the country through economic corridors, feeder routes and expressways.",
+    "objectives": [
+      "Develop economic corridors and expressways",
+      "Improve last-mile connectivity to ports and border areas",
+      "Optimise multi-modal freight movement"
+    ],
+    "benefits": [
+      {
+        "title": "Highway Infrastructure",
+        "description": "Construction of national highways, economic corridors and expressways to improve connectivity"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Nationwide infrastructure programme; not an individual-beneficiary scheme"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you a resident, traveller, transporter, business or other road user who may use a highway developed under Bharatmala?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is the road/highway you are concerned about part of an approved Bharatmala Pariyojana project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Is your location connected to an Economic Corridor, Inter-Corridor, Feeder Route, National Corridor, Expressway or other Bharatmala component?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Are you seeking information/service related to a Bharatmala highway project, construction, connectivity or road development?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "If you are a landowner/affected person, is your property located within the notified/project area of a Bharatmala road project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "If you are seeking compensation or rehabilitation-related assistance, are you an eligible affected person under the applicable land-acquisition/project rules?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "If you are a contractor/concessionaire/project agency, are you participating in an officially tendered Bharatmala project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Is the particular Bharatmala project currently under implementation/operation or otherwise active?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Not applicable - infrastructure programme",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Project identification by Ministry/NHAI"
+      },
+      {
+        "step": 2,
+        "description": "Land acquisition and environmental clearances"
+      },
+      {
+        "step": 3,
+        "description": "Construction through EPC/HAM/BOT modes"
+      },
+      {
+        "step": 4,
+        "description": "Commissioning and operations"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is Bharatmala Pariyojana?",
+        "answer": "A comprehensive highway development programme covering economic corridors, feeder routes and expressways."
+      },
+      {
+        "question": "Who executes the projects?",
+        "answer": "National Highways Authority of India and state agencies."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://morth.nic.in/bharatmala-pariyojna",
+      "application": "https://nhai.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/bharatmala"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://morth.nic.in/"
+    },
+    "keywords": [
+      "bharatmala",
+      "highways",
+      "road infrastructure"
+    ],
+    "tags": [
+      "infrastructure",
+      "roads"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH049",
+    "slug": "pradhan-mantri-gram-sadak-yojana",
+    "name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "category": "Infrastructure",
+    "subcategory": "Rural Roads",
+    "ministry": {
+      "name": "Ministry of Rural Development",
+      "department": "Department of Rural Development"
+    },
+    "status": "Active",
+    "overview": "A scheme to provide all-weather road connectivity to unconnected rural habitations, improving access to markets, healthcare and education in rural India.",
+    "objectives": [
+      "Provide all-weather road connectivity to eligible unconnected habitations",
+      "Improve rural connectivity for socio-economic development",
+      "Upgrade and maintain existing rural roads"
+    ],
+    "benefits": [
+      {
+        "title": "Road Connectivity",
+        "description": "Construction of all-weather roads connecting eligible rural habitations to the road network"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Unconnected rural habitations meeting the population/connectivity criteria under the scheme"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Do you live in a rural habitation/village?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your habitation currently unconnected by an all-weather road?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Is the habitation included in the eligible/core rural road network under PMGSY?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Does the habitation meet the applicable population eligibility criteria under the current PMGSY phase?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is the proposed road intended to provide basic access to a nearby market centre/Rural Business Hub or essential social and economic services?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "If the habitation already has an all-weather road, are you seeking upgradation of an eligible existing rural road rather than new connectivity?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Is the proposed road included in the State's approved PMGSY proposal/road plan?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "If you are applying as an affected landowner/other stakeholder, is your property or interest within the area of an approved PMGSY road project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Habitation Survey Documentation",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "State prepares District Rural Roads Plan"
+      },
+      {
+        "step": 2,
+        "description": "Proposals appraised and approved centrally"
+      },
+      {
+        "step": 3,
+        "description": "Roads constructed through state implementing agencies"
+      },
+      {
+        "step": 4,
+        "description": "Maintenance carried out post-construction"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which habitations are covered?",
+        "answer": "Unconnected rural habitations meeting the prescribed population thresholds."
+      },
+      {
+        "question": "Which ministry implements PMGSY?",
+        "answer": "Ministry of Rural Development."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmgsy.nic.in/",
+      "application": "https://pmgsy.nic.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmgsy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://pmgsy.nic.in/"
+    },
+    "keywords": [
+      "pmgsy",
+      "rural roads",
+      "road connectivity"
+    ],
+    "tags": [
+      "infrastructure",
+      "rural",
+      "roads"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH050",
+    "slug": "sagarmala-programme",
+    "name": "Sagarmala Programme",
+    "category": "Infrastructure",
+    "subcategory": "Port-led Development",
+    "ministry": {
+      "name": "Ministry of Ports, Shipping and Waterways",
+      "department": "Ministry of Ports, Shipping and Waterways"
+    },
+    "status": "Active",
+    "overview": "A flagship programme for port-led development aimed at modernising India's ports, enhancing port connectivity, and promoting coastal community development.",
+    "objectives": [
+      "Modernise ports and reduce logistics costs",
+      "Improve port connectivity through rail, road and inland waterways",
+      "Promote coastal economic zones and community development"
+    ],
+    "benefits": [
+      {
+        "title": "Port Infrastructure Development",
+        "description": "Modernisation and capacity augmentation of major and non-major ports"
+      },
+      {
+        "title": "Coastal Community Development",
+        "description": "Skill development and livelihood programmes for coastal communities"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Nationwide infrastructure programme; coastal community components benefit local populations"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you a coastal resident/community member who may be covered by a Sagarmala coastal-community development project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your location within the coastal/port area covered by a Sagarmala project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Are you seeking support related to skill development, livelihood or employment opportunities under a Sagarmala coastal-community initiative?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Are you involved in or seeking opportunities related to fishing, fisheries infrastructure or a fishing harbour project covered under Sagarmala?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Are you a port, State Government, State Maritime Board, Central Government ministry/agency or other eligible project implementing entity proposing a Sagarmala project?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Is the proposed project related to port modernization, port connectivity, port-led industrialization or coastal-community development?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Does the proposed infrastructure project have the required DPR/TEFR and financial/project appraisal documentation?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Is the project proposed to be implemented through an eligible SPV/implementing agency where required?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_9",
+          "question": "If seeking Sagarmala funding, does the project satisfy the applicable Sagarmala Funding Guidelines?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Not applicable - infrastructure programme",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Project identification under national perspective plan"
+      },
+      {
+        "step": 2,
+        "description": "Implementation by port authorities/state maritime boards"
+      },
+      {
+        "step": 3,
+        "description": "Monitoring by Sagarmala Development Company"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does Sagarmala cover?",
+        "answer": "Port modernisation, port connectivity, port-led industrialisation and coastal community development."
+      },
+      {
+        "question": "Which ministry runs Sagarmala?",
+        "answer": "Ministry of Ports, Shipping and Waterways."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://sagarmala.gov.in/",
+      "application": "https://sagarmala.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/sagarmala"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://sagarmala.gov.in/"
+    },
+    "keywords": [
+      "sagarmala",
+      "ports",
+      "coastal development"
+    ],
+    "tags": [
+      "infrastructure",
+      "ports"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

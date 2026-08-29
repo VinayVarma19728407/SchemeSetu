@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "SCH026",
+    "slug": "beti-bachao-beti-padhao",
+    "name": "Beti Bachao Beti Padhao (BBBP)",
+    "category": "Women & Child Development",
+    "subcategory": "Girl Child Welfare",
+    "ministry": {
+      "name": "Ministry of Women and Child Development",
+      "department": "Ministry of Women and Child Development"
+    },
+    "status": "Active",
+    "overview": "A national campaign to address the declining child sex ratio and promote the survival, protection and education of the girl child, implemented as part of Mission Shakti.",
+    "objectives": [
+      "Prevent gender-biased sex selective elimination",
+      "Ensure survival and protection of the girl child",
+      "Ensure education and empowerment of girl children"
+    ],
+    "benefits": [
+      {
+        "title": "Awareness Campaigns",
+        "description": "Community mobilisation and multi-sectoral action for girl child welfare"
+      },
+      {
+        "title": "Convergence with Education Schemes",
+        "description": "Linkage with Sukanya Samriddhi Yojana and other schemes for girl children"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [
+        "Female"
+      ],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Girl children across India; low child-sex-ratio districts get priority focus"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Birth Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": false
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Beneficiary awareness through Anganwadi and district campaigns"
+      },
+      {
+        "step": 2,
+        "description": "Access convergent benefits under BBBP linked schemes"
+      },
+      {
+        "step": 3,
+        "description": "Monitoring by district task force"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is BBBP a direct cash transfer scheme?",
+        "answer": "No, BBBP is primarily an awareness and convergence campaign, not a DBT scheme."
+      },
+      {
+        "question": "Which ministry implements BBBP?",
+        "answer": "Ministry of Women and Child Development, as part of Mission Shakti."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://wcd.gov.in/women/beti-bachao-beti-padhao",
+      "application": "https://wcd.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/bbbp"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://wcd.gov.in/"
+    },
+    "keywords": [
+      "beti bachao beti padhao",
+      "girl child",
+      "women empowerment"
+    ],
+    "tags": [
+      "women",
+      "child-welfare"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH027",
+    "slug": "pradhan-mantri-matru-vandana-yojana",
+    "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "category": "Women & Child Development",
+    "subcategory": "Maternity Benefit",
+    "ministry": {
+      "name": "Ministry of Women and Child Development",
+      "department": "Ministry of Women and Child Development"
+    },
+    "status": "Active",
+    "overview": "A maternity benefit programme providing cash incentives to pregnant women and lactating mothers to compensate for wage loss and encourage adequate rest and nutrition.",
+    "objectives": [
+      "Provide partial wage compensation for pregnant/lactating women",
+      "Encourage improved health-seeking behaviour",
+      "Improve maternal and child nutrition"
+    ],
+    "benefits": [
+      {
+        "title": "Cash Incentive",
+        "description": "Cash benefit disbursed in installments to eligible pregnant women and lactating mothers"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [
+        "Female"
+      ],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Pregnant women and lactating mothers for first living child (with certain exceptions)"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you a woman aged 18 years 7 months to less than 55 years at the time of childbirth?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Are you pregnant or a lactating mother?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Do you satisfy at least one of the PMMVY disadvantaged/eligible-category conditions?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Do you belong to the SC or ST category?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Do you have a BPL ration card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you a beneficiary under PM-JAY (Ayushman Bharat)?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Do you hold an e-Shram card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Are you a woman farmer who is a PM-KISAN beneficiary?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_9",
+          "question": "Do you hold an MGNREGA Job Card?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_10",
+          "question": "Is your net family income less than \u0393\u00e9\u25638 lakh per year?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_11",
+          "question": "Are you a pregnant/lactating Anganwadi Worker, Anganwadi Helper or ASHA worker?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_12",
+          "question": "Do you hold a ration card under the National Food Security Act (NFSA), 2013?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_1",
+          "question": "Is the beneficiary a girl child who is below 10 years of age on the date of opening the account?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is the girl child a resident Indian citizen at the time of opening the account?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Is the account being opened by the girl's natural or legal guardian?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is this the only Sukanya Samriddhi account opened in the name of this girl child?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is the family opening accounts for not more than two girl children?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Can the guardian provide the girl's birth certificate?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Can the guardian provide the required identity and residence/KYC documents?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Is the guardian willing to make the minimum initial deposit of \u0393\u00e9\u2563250?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      },
+      {
+        "name": "Mother and Child Protection Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register at Anganwadi Centre or health facility"
+      },
+      {
+        "step": 2,
+        "description": "Submit application with required documents"
+      },
+      {
+        "step": 3,
+        "description": "Fulfil conditionalities for each installment"
+      },
+      {
+        "step": 4,
+        "description": "Receive cash benefit via DBT"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How much is the benefit amount?",
+        "answer": "Cash incentive disbursed in installments as per scheme guidelines."
+      },
+      {
+        "question": "Who administers PMMVY?",
+        "answer": "Ministry of Women and Child Development through Anganwadi network."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmmvy.wcd.gov.in/",
+      "application": "https://pmmvy.wcd.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmmvy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "7738299899",
+      "website": "https://pmmvy.wcd.gov.in/"
+    },
+    "keywords": [
+      "pmmvy",
+      "maternity benefit",
+      "pregnant women"
+    ],
+    "tags": [
+      "women",
+      "maternal-care",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH028",
+    "slug": "sukanya-samriddhi-yojana",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "category": "Women & Child Development",
+    "subcategory": "Savings Scheme",
+    "ministry": {
+      "name": "Ministry of Finance",
+      "department": "Department of Economic Affairs / National Savings Institute"
+    },
+    "status": "Active",
+    "overview": "A small savings scheme for the girl child, encouraging parents to build a fund for a girl child's future education and marriage expenses, offering attractive interest and tax benefits.",
+    "objectives": [
+      "Encourage savings for the girl child's future",
+      "Provide financial security for girl children's education and marriage",
+      "Offer attractive, government-backed returns"
+    ],
+    "benefits": [
+      {
+        "title": "High Interest Rate",
+        "description": "Government-notified interest rate compounded annually"
+      },
+      {
+        "title": "Tax Benefits",
+        "description": "Deposits eligible for deduction under Section 80C; interest and maturity amount tax-free"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": 10
+      },
+      "gender": [
+        "Female"
+      ],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Account can be opened for a girl child below 10 years of age by parent/legal guardian"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Birth Certificate of Girl Child",
+        "mandatory": true
+      },
+      {
+        "name": "Identity and Address Proof of Guardian",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Visit any authorised bank or post office"
+      },
+      {
+        "step": 2,
+        "description": "Open account with minimum deposit of Rs. 250"
+      },
+      {
+        "step": 3,
+        "description": "Make periodic deposits until 15 years from account opening"
+      },
+      {
+        "step": 4,
+        "description": "Account matures after 21 years or on marriage after 18 years"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the minimum and maximum deposit?",
+        "answer": "Minimum Rs. 250 and maximum Rs. 1,50,000 per financial year."
+      },
+      {
+        "question": "When does the account mature?",
+        "answer": "21 years from date of opening, or upon marriage of the girl after age 18."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.nsiindia.gov.in/(S(cmqz1wqxjqrrur55ozkfyqmz))/InternalPage.aspx?Id_Pk=89",
+      "application": "https://www.indiapost.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/ssy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://www.nsiindia.gov.in/"
+    },
+    "keywords": [
+      "sukanya samriddhi yojana",
+      "girl child savings",
+      "small savings scheme"
+    ],
+    "tags": [
+      "women",
+      "financial-assistance",
+      "savings"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH029",
+    "slug": "saksham-anganwadi-poshan-2",
+    "name": "Saksham Anganwadi and Poshan 2.0",
+    "category": "Women & Child Development",
+    "subcategory": "Nutrition",
+    "ministry": {
+      "name": "Ministry of Women and Child Development",
+      "department": "Ministry of Women and Child Development"
+    },
+    "status": "Active",
+    "overview": "An integrated nutrition support programme covering the Anganwadi Services, supplementary nutrition and the POSHAN Abhiyaan to address malnutrition among children, adolescent girls, pregnant women and lactating mothers.",
+    "objectives": [
+      "Reduce malnutrition, stunting and wasting among children",
+      "Improve nutritional status of adolescent girls, pregnant and lactating women",
+      "Strengthen Anganwadi infrastructure and services"
+    ],
+    "benefits": [
+      {
+        "title": "Supplementary Nutrition",
+        "description": "Take-home ration and hot cooked meals for children and pregnant/lactating women"
+      },
+      {
+        "title": "Growth Monitoring",
+        "description": "Regular health and nutrition monitoring through Anganwadi centres"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Children up to 6 years, adolescent girls, pregnant women and lactating mothers"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Is the beneficiary a child aged 6 months to below 6 years?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is the beneficiary a pregnant woman?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Is the beneficiary a lactating mother?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is the beneficiary an adolescent girl aged 14\u0393\u00c7\u00f418 years?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is the child within the 3\u0393\u00c7\u00f46 year age group and eligible for Anganwadi early childhood care and pre-school education?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Is the beneficiary registered at the nearest Anganwadi Centre (AWC)?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Does the beneficiary have Aadhaar identification for registration?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Anganwadi Registration",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register at nearest Anganwadi Centre"
+      },
+      {
+        "step": 2,
+        "description": "Avail supplementary nutrition and health services"
+      },
+      {
+        "step": 3,
+        "description": "Periodic growth monitoring and referral if required"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who benefits from Poshan 2.0?",
+        "answer": "Children under 6, adolescent girls, pregnant women and lactating mothers."
+      },
+      {
+        "question": "What services are provided?",
+        "answer": "Nutrition, immunisation referral, health check-ups and pre-school education."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://poshantracker.in/",
+      "application": "https://wcd.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/poshan-abhiyaan"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://wcd.gov.in/"
+    },
+    "keywords": [
+      "poshan abhiyaan",
+      "anganwadi",
+      "nutrition",
+      "malnutrition"
+    ],
+    "tags": [
+      "women",
+      "child-welfare",
+      "nutrition"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH030",
+    "slug": "mission-shakti",
+    "name": "Mission Shakti",
+    "category": "Women & Child Development",
+    "subcategory": "Women Safety and Empowerment",
+    "ministry": {
+      "name": "Ministry of Women and Child Development",
+      "department": "Ministry of Women and Child Development"
+    },
+    "status": "Active",
+    "overview": "An umbrella scheme for the safety, security and empowerment of women, comprising Sambal (safety and security) and Samarthya (empowerment) sub-schemes.",
+    "objectives": [
+      "Ensure safety and security of women",
+      "Promote economic and social empowerment of women",
+      "Provide institutional support through One Stop Centres and helplines"
+    ],
+    "benefits": [
+      {
+        "title": "One Stop Centre Support",
+        "description": "Integrated support for women affected by violence, including medical, legal and counselling aid"
+      },
+      {
+        "title": "Women Helpline",
+        "description": "24x7 emergency response support via helpline number 181"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [
+        "Female"
+      ],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "All women, with focused support for those in distress or requiring safety assistance"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you a woman or girl seeking support under a Mission Shakti component?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Are you a woman/girl who is affected by violence, in distress, or in need of protection/support?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Do you require assistance from a One Stop Centre (OSC) because of violence or distress?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Do you require assistance through the Women Helpline (181)?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Are you seeking legal assistance/dispute resolution through a Nari Adalat?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you a woman requiring shelter, rehabilitation or support because of destitution, trafficking or another vulnerable situation?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Are you a working woman who requires safe and conveniently located accommodation?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Are you a pregnant woman or lactating mother who meets the PMMVY conditions?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_9",
+          "question": "Are you a woman seeking information about Central/State government schemes and services for women?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_10",
+          "question": "Are you a woman requiring childcare/creche services so that you can work or pursue an eligible activity?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Identity Proof (as applicable)",
+        "mandatory": false
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Contact nearest One Stop Centre or Women Helpline (181)"
+      },
+      {
+        "step": 2,
+        "description": "Receive medical, legal, police and counselling assistance"
+      },
+      {
+        "step": 3,
+        "description": "Access relevant Sambal/Samarthya sub-scheme benefits"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is covered under Mission Shakti?",
+        "answer": "Two sub-schemes: Sambal for safety/security and Samarthya for empowerment."
+      },
+      {
+        "question": "How can a woman in distress get help?",
+        "answer": "By calling the Women Helpline number 181 or visiting a One Stop Centre."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://missionshakti.wcd.gov.in/",
+      "application": "https://missionshakti.wcd.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/mission-shakti"
+    },
+    "contact": {
+      "email": "",
+      "phone": "181",
+      "website": "https://missionshakti.wcd.gov.in/"
+    },
+    "keywords": [
+      "mission shakti",
+      "women safety",
+      "women empowerment"
+    ],
+    "tags": [
+      "women",
+      "safety",
+      "empowerment"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

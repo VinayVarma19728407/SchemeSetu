@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "SCH006",
+    "slug": "pradhan-mantri-kisan-samman-nidhi",
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "category": "Agriculture",
+    "subcategory": "Income Support",
+    "ministry": {
+      "name": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture and Farmers Welfare"
+    },
+    "status": "Active",
+    "overview": "A central sector scheme providing income support to all landholding farmer families in the country to supplement their financial needs for agriculture and allied activities.",
+    "objectives": [
+      "Provide income support to landholding farmer families",
+      "Supplement financial needs for agricultural inputs",
+      "Ensure proper crop health and appropriate yields"
+    ],
+    "benefits": [
+      {
+        "title": "Direct Income Support",
+        "description": "Rs. 6,000 per year transferred in three equal installments of Rs. 2,000 directly to bank accounts"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Farmer"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Landholding farmer family as per state land records"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Is your family a landholding farmer family?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Does your family own cultivable agricultural land according to the land records of the concerned State/UT?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Is the landholding in the name of you or a member of your farmer family?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is your family an institutional landholder?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_5",
+          "question": "Is any member of your family a former or present constitutional post holder?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_6",
+          "question": "Is any member of your family a serving or retired government employee, excluding eligible MTS/Class IV/Group D employees?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_7",
+          "question": "Does any member of your family receive a monthly pension of \u0393\u00e9\u256310,000 or more from the specified government-service categories?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_8",
+          "question": "Has any member of your family paid income tax in the last assessment year?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_9",
+          "question": "Is any member of your family a practising doctor, engineer, lawyer, chartered accountant or architect registered with the relevant professional body?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_10",
+          "question": "Is your Aadhaar authenticated for PM-KISAN registration?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_11",
+          "question": "Have you completed the required eKYC?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Land Ownership Records",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register on the PM-KISAN portal or through Common Service Centre"
+      },
+      {
+        "step": 2,
+        "description": "Provide Aadhaar, land and bank details"
+      },
+      {
+        "step": 3,
+        "description": "Verification by State Nodal Officer"
+      },
+      {
+        "step": 4,
+        "description": "Receive funds via Direct Benefit Transfer"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How much financial support is given?",
+        "answer": "Rs. 6,000 per year in three equal installments."
+      },
+      {
+        "question": "Who is not eligible?",
+        "answer": "Institutional landholders and certain higher-income categories as per scheme guidelines are excluded."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmkisan.gov.in/",
+      "application": "https://pmkisan.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmkisan"
+    },
+    "contact": {
+      "email": "pmkisan-ict@gov.in",
+      "phone": "155261",
+      "website": "https://pmkisan.gov.in/"
+    },
+    "keywords": [
+      "pm kisan",
+      "farmer income support",
+      "agriculture"
+    ],
+    "tags": [
+      "agriculture",
+      "farmers",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH007",
+    "slug": "pradhan-mantri-fasal-bima-yojana",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "Agriculture",
+    "subcategory": "Crop Insurance",
+    "ministry": {
+      "name": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture and Farmers Welfare"
+    },
+    "status": "Active",
+    "overview": "A crop insurance scheme that provides financial support to farmers in the event of crop failure due to natural calamities, pests and diseases.",
+    "objectives": [
+      "Provide insurance coverage against crop loss",
+      "Stabilise farmer income and ensure credit flow",
+      "Encourage adoption of modern agricultural practices"
+    ],
+    "benefits": [
+      {
+        "title": "Low Premium",
+        "description": "Farmers pay a nominal share of premium while the government subsidises the rest"
+      },
+      {
+        "title": "Insurance Payout",
+        "description": "Compensation for crop loss due to natural calamities, pests and diseases"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Farmer"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Farmers growing notified crops in notified areas, both loanee and non-loanee"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you a farmer cultivating a notified crop?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is the crop being cultivated in a notified area under PMFBY for the relevant season?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Do you have an insurable interest in the insured crop and land?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Are you a landowning farmer, sharecropper or tenant farmer?  Select  One of these  5  If you are a sharecropper/tenant farmer, can you provide the land/contract/other documents accepted by your State Government?  Yes / No / Not Applicable  Yes, if applicable  6  Can you provide evidence of cultivable land/possession as required by the State?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Can you provide the required Aadhaar/e-KYC information for enrolment?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Can you provide a declaration/certificate of the crop sown or intended to be sown?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_9",
+          "question": "Are you applying within the prescribed enrolment deadline for the crop/season?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_10",
+          "question": "Is the same crop on the same land already insured through another agency?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Land Records",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      },
+      {
+        "name": "Sowing Certificate",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through bank, insurance company or CSC before the cut-off date"
+      },
+      {
+        "step": 2,
+        "description": "Pay the prescribed premium share"
+      },
+      {
+        "step": 3,
+        "description": "Loss assessment conducted in case of crop damage"
+      },
+      {
+        "step": 4,
+        "description": "Claim amount credited to bank account"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is PMFBY mandatory?",
+        "answer": "It is compulsory for loanee farmers unless they opt out; voluntary for non-loanee farmers."
+      },
+      {
+        "question": "What crops are covered?",
+        "answer": "Notified food crops, oilseeds and horticultural/commercial crops as per state notification."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmfby.gov.in/",
+      "application": "https://pmfby.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmfby"
+    },
+    "contact": {
+      "email": "",
+      "phone": "14447",
+      "website": "https://pmfby.gov.in/"
+    },
+    "keywords": [
+      "crop insurance",
+      "pmfby",
+      "farmer protection"
+    ],
+    "tags": [
+      "agriculture",
+      "insurance",
+      "farmers"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH008",
+    "slug": "kisan-credit-card",
+    "name": "Kisan Credit Card (KCC)",
+    "category": "Agriculture",
+    "subcategory": "Credit Support",
+    "ministry": {
+      "name": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture and Farmers Welfare"
+    },
+    "status": "Active",
+    "overview": "A scheme providing farmers with timely access to affordable credit for cultivation and other agricultural needs through a single credit product.",
+    "objectives": [
+      "Provide adequate and timely credit support to farmers",
+      "Cover short-term credit needs for cultivation and allied activities",
+      "Simplify farmer access to institutional credit"
+    ],
+    "benefits": [
+      {
+        "title": "Short-term Credit",
+        "description": "Credit for crop cultivation, post-harvest expenses and farm maintenance"
+      },
+      {
+        "title": "Interest Subvention",
+        "description": "Concessional interest rates on prompt repayment"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Farmer"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Farmers, tenant farmers, oral lessees and sharecroppers"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you engaged in agriculture or an eligible allied activity such as dairy, animal husbandry, fisheries, poultry, beekeeping or sericulture?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Are you a farmer/cultivator, tenant farmer, sharecropper or oral lessee?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Do you have an eligible agricultural or allied activity for which credit is required?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "If you are engaged in fisheries/aquaculture, do you own or lease the required fisheries assets and possess applicable licences/authorisations?  Yes / No / Not Applicable  Yes, if applicable  5  Are you applying individually or through an eligible SHG/JLG/group of farmers?  Individual / SHG / JLG  Any eligible category  6  Is the credit required for an eligible purpose such as crop cultivation, post-harvest expenses, produce marketing, farm working capital or eligible allied activities?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Can you provide the land/tenancy/lease or other documents required by the lending bank?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Are you willing to obtain the KCC through an eligible lending institution such as a bank/co-operative/RRB, subject to its credit assessment?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Land Ownership/Tenancy Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Identity Proof",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply at nearest bank branch or through PM-KISAN portal KCC link"
+      },
+      {
+        "step": 2,
+        "description": "Submit land and identity documents"
+      },
+      {
+        "step": 3,
+        "description": "Bank assesses and sanctions credit limit"
+      },
+      {
+        "step": 4,
+        "description": "KCC issued with cash credit facility"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which banks issue KCC?",
+        "answer": "Commercial banks, cooperative banks and regional rural banks."
+      },
+      {
+        "question": "Is there interest subvention?",
+        "answer": "Yes, farmers repaying on time get interest subvention benefits."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.myscheme.gov.in/schemes/kcc",
+      "application": "https://pmkisan.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/kcc"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://agriwelfare.gov.in/"
+    },
+    "keywords": [
+      "kisan credit card",
+      "farm credit",
+      "agriculture loan"
+    ],
+    "tags": [
+      "agriculture",
+      "financial-assistance",
+      "credit"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH009",
+    "slug": "soil-health-card-scheme",
+    "name": "Soil Health Card Scheme",
+    "category": "Agriculture",
+    "subcategory": "Soil Management",
+    "ministry": {
+      "name": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture and Farmers Welfare"
+    },
+    "status": "Active",
+    "overview": "A scheme to provide farmers with soil health cards containing nutrient status of their soil along with recommendations on appropriate fertiliser dosage to improve productivity.",
+    "objectives": [
+      "Promote soil test based nutrient management",
+      "Improve soil health and reduce input costs",
+      "Increase agricultural productivity through balanced fertiliser use"
+    ],
+    "benefits": [
+      {
+        "title": "Free Soil Testing",
+        "description": "Analysis of 12 soil parameters at no cost to farmers"
+      },
+      {
+        "title": "Fertiliser Recommendations",
+        "description": "Crop-specific nutrient and fertiliser dosage recommendations"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Farmer"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Farmers with cultivable land"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you a farmer with an agricultural/farm holding?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Do you have an agricultural land/holding for which soil health needs to be assessed?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Are you currently cultivating or managing the agricultural holding?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Can the location of your agricultural holding be identified by the concerned agriculture authorities?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Can you provide your name, mobile number and complete address for farmer registration?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you willing to allow an authorized person to collect a soil sample from your field?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Do you want to receive information about the nutrient status and fertilizer/soil-amendment requirements of your holding?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Land Records",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Submit soil sample at nearest Krishi Vigyan Kendra or collection centre"
+      },
+      {
+        "step": 2,
+        "description": "Sample tested at a soil testing laboratory"
+      },
+      {
+        "step": 3,
+        "description": "Soil Health Card issued with recommendations"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How often is the card issued?",
+        "answer": "Typically once every two to three years."
+      },
+      {
+        "question": "Is there a cost for soil testing?",
+        "answer": "No, the service is provided free of cost to farmers."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://soilhealth.dac.gov.in/",
+      "application": "https://soilhealth.dac.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/shc"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://soilhealth.dac.gov.in/"
+    },
+    "keywords": [
+      "soil health card",
+      "soil testing",
+      "fertiliser"
+    ],
+    "tags": [
+      "agriculture",
+      "soil-management"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH010",
+    "slug": "pradhan-mantri-krishi-sinchayee-yojana",
+    "name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+    "category": "Agriculture",
+    "subcategory": "Irrigation",
+    "ministry": {
+      "name": "Ministry of Agriculture and Farmers Welfare / Ministry of Jal Shakti",
+      "department": "Department of Agriculture and Farmers Welfare"
+    },
+    "status": "Active",
+    "overview": "A scheme to expand cultivable area under assured irrigation, improve on-farm water use efficiency and promote micro-irrigation technologies such as drip and sprinkler irrigation.",
+    "objectives": [
+      "Ensure access to irrigation for all agricultural farms",
+      "Improve water use efficiency through micro-irrigation",
+      "Enhance water source creation and its protective use"
+    ],
+    "benefits": [
+      {
+        "title": "Irrigation Infrastructure",
+        "description": "Support for creation of irrigation sources and water conservation structures"
+      },
+      {
+        "title": "Micro-irrigation Subsidy",
+        "description": "Financial assistance for drip and sprinkler irrigation systems"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Farmer"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Farmers seeking irrigation infrastructure or micro-irrigation support"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Are you a farmer/agricultural landholder seeking irrigation or water-management assistance?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Do you have agricultural land on which the proposed irrigation/water-management activity will be implemented?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Is the agricultural land located in an area covered by the relevant PMKSY/state implementation plan?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Are you seeking assistance for an eligible activity such as micro-irrigation, irrigation infrastructure, water conservation or watershed development?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "If applying for micro-irrigation assistance, are you willing to install an eligible drip or sprinkler irrigation system?  Yes / No / Not Applicable  Yes, if applicable  6  Is the proposed assistance for your own/eligible cultivated agricultural holding?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Is the total area for which you are claiming the applicable beneficiary subsidy within the prescribed 5-hectare ceiling?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Can you provide the required land, farmer and bank/Aadhaar details requested by the implementing authority?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Land Records",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through state agriculture/horticulture department or PMKSY portal"
+      },
+      {
+        "step": 2,
+        "description": "Site verification by department officials"
+      },
+      {
+        "step": 3,
+        "description": "Subsidy released after installation of irrigation system"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does PMKSY cover?",
+        "answer": "Watershed development, micro-irrigation and command area development."
+      },
+      {
+        "question": "Who implements PMKSY?",
+        "answer": "Jointly implemented by Ministry of Agriculture and Ministry of Jal Shakti."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmksy.gov.in/",
+      "application": "https://pmksy.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmksy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://pmksy.gov.in/"
+    },
+    "keywords": [
+      "irrigation",
+      "pmksy",
+      "micro irrigation",
+      "water conservation"
+    ],
+    "tags": [
+      "agriculture",
+      "irrigation"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

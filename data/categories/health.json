@@ -1,0 +1,583 @@
+[
+  {
+    "id": "SCH011",
+    "slug": "ayushman-bharat-pmjay",
+    "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)",
+    "category": "Health",
+    "subcategory": "Health Insurance",
+    "ministry": {
+      "name": "Ministry of Health and Family Welfare",
+      "department": "National Health Authority"
+    },
+    "status": "Active",
+    "overview": "The world's largest government-funded health assurance scheme providing free health cover of Rs. 5 lakh per family per year for secondary and tertiary care hospitalisation to economically vulnerable families, and to all senior citizens aged 70 and above.",
+    "objectives": [
+      "Provide financial protection against catastrophic health expenditure",
+      "Improve access to quality secondary and tertiary healthcare",
+      "Reduce out-of-pocket health expenditure for poor and vulnerable families"
+    ],
+    "benefits": [
+      {
+        "title": "Cashless Hospitalisation",
+        "description": "Free treatment up to Rs. 5 lakh per family per year at empanelled hospitals"
+      },
+      {
+        "title": "Cover for Pre-existing Diseases",
+        "description": "All pre-existing diseases covered from day one"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 0,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Families identified as per SECC 2011 deprivation criteria, or all citizens aged 70+ under AB PM-JAY Vay Vandana"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Ration Card",
+        "mandatory": true
+      },
+      {
+        "name": "Ayushman Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Check eligibility on the PM-JAY portal or through Ayushman Mitra at hospital"
+      },
+      {
+        "step": 2,
+        "description": "Get Ayushman Card made using Aadhaar and family ID"
+      },
+      {
+        "step": 3,
+        "description": "Avail cashless treatment at empanelled hospital"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the coverage amount?",
+        "answer": "Rs. 5 lakh per family per year."
+      },
+      {
+        "question": "Are pre-existing diseases covered?",
+        "answer": "Yes, from the very first day of enrolment."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmjay.gov.in/",
+      "application": "https://beneficiary.nha.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/ab-pmjay"
+    },
+    "contact": {
+      "email": "",
+      "phone": "14555",
+      "website": "https://pmjay.gov.in/"
+    },
+    "keywords": [
+      "ayushman bharat",
+      "pmjay",
+      "health insurance"
+    ],
+    "tags": [
+      "health",
+      "insurance",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH012",
+    "slug": "janani-suraksha-yojana",
+    "name": "Janani Suraksha Yojana (JSY)",
+    "category": "Health",
+    "subcategory": "Maternal Health",
+    "ministry": {
+      "name": "Ministry of Health and Family Welfare",
+      "department": "National Health Mission"
+    },
+    "status": "Active",
+    "overview": "A safe motherhood intervention promoting institutional delivery among pregnant women, especially those from below poverty line families, to reduce maternal and neo-natal mortality.",
+    "objectives": [
+      "Reduce maternal and infant mortality",
+      "Promote institutional delivery among poor pregnant women",
+      "Provide cash assistance for delivery and post-delivery care"
+    ],
+    "benefits": [
+      {
+        "title": "Cash Assistance",
+        "description": "Financial assistance to pregnant women for institutional delivery, varying by rural/urban status"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [
+        "Female"
+      ],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Pregnant women, especially BPL and SC/ST women opting for institutional delivery"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "BPL Certificate",
+        "mandatory": false
+      },
+      {
+        "name": "Mother and Child Protection Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register pregnancy at Anganwadi/health centre"
+      },
+      {
+        "step": 2,
+        "description": "Opt for institutional delivery at government or accredited private facility"
+      },
+      {
+        "step": 3,
+        "description": "Receive cash assistance through ASHA worker or directly"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible for JSY?",
+        "answer": "Pregnant women, with focus on those from low-income and SC/ST households."
+      },
+      {
+        "question": "How is the cash disbursed?",
+        "answer": "Directly to the beneficiary or through ASHA facilitation."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=841&lid=309",
+      "application": "https://nhm.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/jsy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://nhm.gov.in/"
+    },
+    "keywords": [
+      "janani suraksha yojana",
+      "maternal health",
+      "institutional delivery"
+    ],
+    "tags": [
+      "health",
+      "women",
+      "maternal-care"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH013",
+    "slug": "mission-indradhanush",
+    "name": "Mission Indradhanush",
+    "category": "Health",
+    "subcategory": "Immunization",
+    "ministry": {
+      "name": "Ministry of Health and Family Welfare",
+      "department": "National Health Mission"
+    },
+    "status": "Active",
+    "overview": "An immunization scheme aimed at ensuring full vaccination coverage for all children and pregnant women against vaccine-preventable diseases.",
+    "objectives": [
+      "Achieve full immunisation coverage for children and pregnant women",
+      "Reach unreached and under-vaccinated populations",
+      "Protect against vaccine-preventable diseases"
+    ],
+    "benefits": [
+      {
+        "title": "Free Vaccination",
+        "description": "Immunisation against diseases such as diphtheria, pertussis, tetanus, polio, measles and more, at no cost"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 0,
+        "maximum": 2
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Children up to 2 years and pregnant women"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Mother and Child Protection Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Visit nearest Anganwadi centre or health facility during immunisation drives"
+      },
+      {
+        "step": 2,
+        "description": "Get child/pregnant woman vaccinated as per schedule"
+      },
+      {
+        "step": 3,
+        "description": "Vaccination recorded on Mother and Child Protection Card"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who conducts Mission Indradhanush?",
+        "answer": "Ministry of Health and Family Welfare through state health departments."
+      },
+      {
+        "question": "Is vaccination free?",
+        "answer": "Yes, all vaccines under the mission are provided free of cost."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://nhm.gov.in/index1.php?lang=1&level=4&sublinkid=1023&lid=222",
+      "application": "https://nhm.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/mission-indradhanush"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://nhm.gov.in/"
+    },
+    "keywords": [
+      "mission indradhanush",
+      "immunization",
+      "vaccination",
+      "child health"
+    ],
+    "tags": [
+      "health",
+      "children",
+      "immunization"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH014",
+    "slug": "pm-bhartiya-janaushadhi-pariyojana",
+    "name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)",
+    "category": "Health",
+    "subcategory": "Affordable Medicines",
+    "ministry": {
+      "name": "Ministry of Chemicals and Fertilizers",
+      "department": "Department of Pharmaceuticals"
+    },
+    "status": "Active",
+    "overview": "A scheme to provide quality generic medicines at affordable prices to the masses through dedicated Janaushadhi Kendras across the country.",
+    "objectives": [
+      "Ensure access to quality medicines at affordable prices",
+      "Reduce out-of-pocket expenditure on medicines",
+      "Create awareness about generic medicines"
+    ],
+    "benefits": [
+      {
+        "title": "Affordable Medicines",
+        "description": "Generic medicines priced 50-90% lower than branded equivalents, sold through Janaushadhi Kendras"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Available to all citizens; anyone can purchase from Janaushadhi Kendras"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Not applicable for purchase; documents required only for opening a Kendra",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Locate the nearest Pradhan Mantri Bhartiya Janaushadhi Kendra"
+      },
+      {
+        "step": 2,
+        "description": "Purchase prescribed generic medicines at the outlet"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are these medicines as effective as branded ones?",
+        "answer": "Yes, generic medicines meet the same quality standards as branded drugs."
+      },
+      {
+        "question": "How much cheaper are Janaushadhi medicines?",
+        "answer": "Generally 50% to 90% cheaper than branded alternatives."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://janaushadhi.gov.in/",
+      "application": "https://janaushadhi.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmbjp"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-180-8080",
+      "website": "https://janaushadhi.gov.in/"
+    },
+    "keywords": [
+      "janaushadhi",
+      "affordable medicines",
+      "generic drugs"
+    ],
+    "tags": [
+      "health",
+      "medicines"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH015",
+    "slug": "ayushman-bharat-digital-mission",
+    "name": "Ayushman Bharat Digital Mission (ABDM)",
+    "category": "Health",
+    "subcategory": "Digital Health",
+    "ministry": {
+      "name": "Ministry of Health and Family Welfare",
+      "department": "National Health Authority"
+    },
+    "status": "Active",
+    "overview": "A mission to create a seamless digital health ecosystem by providing every citizen a unique digital health ID and enabling interoperable health records across healthcare providers.",
+    "objectives": [
+      "Create a unified digital health ecosystem",
+      "Provide citizens control over their digital health records",
+      "Enable interoperability among healthcare providers"
+    ],
+    "benefits": [
+      {
+        "title": "ABHA Health ID",
+        "description": "A unique digital health identity to link and access health records"
+      },
+      {
+        "title": "Digital Health Records",
+        "description": "Secure, consent-based access to personal health records"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Available to all Indian citizens"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Mobile Number",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Create an Ayushman Bharat Health Account (ABHA) via app or portal"
+      },
+      {
+        "step": 2,
+        "description": "Link health records with ABHA ID"
+      },
+      {
+        "step": 3,
+        "description": "Share records with consent at healthcare facilities"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is ABHA mandatory?",
+        "answer": "No, it is voluntary but recommended for easier access to digital health records."
+      },
+      {
+        "question": "Is my data secure?",
+        "answer": "Yes, ABDM uses a consent-based framework to protect personal health data."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://abdm.gov.in/",
+      "application": "https://abha.abdm.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/abdm"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-11-4477",
+      "website": "https://abdm.gov.in/"
+    },
+    "keywords": [
+      "abdm",
+      "digital health",
+      "abha",
+      "health records"
+    ],
+    "tags": [
+      "health",
+      "digital-india"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": true
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

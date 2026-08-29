@@ -1,0 +1,87 @@
+[
+  {
+    "id": "CAT001",
+    "name": "Agriculture",
+    "icon": "agriculture.png"
+  },
+  {
+    "id": "CAT002",
+    "name": "Education",
+    "icon": "education.png"
+  },
+  {
+    "id": "CAT003",
+    "name": "Employment",
+    "icon": "employment.png"
+  },
+  {
+    "id": "CAT004",
+    "name": "Financial Assistance",
+    "icon": "financial.png"
+  },
+  {
+    "id": "CAT005",
+    "name": "Food & Public Distribution",
+    "icon": "food.png"
+  },
+  {
+    "id": "CAT006",
+    "name": "Green India & Environment",
+    "icon": "green-india.png"
+  },
+  {
+    "id": "CAT007",
+    "name": "Health",
+    "icon": "health.png"
+  },
+  {
+    "id": "CAT008",
+    "name": "Housing",
+    "icon": "housing.png"
+  },
+  {
+    "id": "CAT009",
+    "name": "Infrastructure",
+    "icon": "infrastructure.png"
+  },
+  {
+    "id": "CAT010",
+    "name": "Insurance",
+    "icon": "insurance.png"
+  },
+  {
+    "id": "CAT011",
+    "name": "MSME",
+    "icon": "msme.png"
+  },
+  {
+    "id": "CAT012",
+    "name": "Pension",
+    "icon": "pension.png"
+  },
+  {
+    "id": "CAT013",
+    "name": "Senior Citizens",
+    "icon": "senior-citizens.png"
+  },
+  {
+    "id": "CAT014",
+    "name": "Skill Development",
+    "icon": "skill-development.png"
+  },
+  {
+    "id": "CAT015",
+    "name": "Startups & Entrepreneurship",
+    "icon": "startup.png"
+  },
+  {
+    "id": "CAT016",
+    "name": "Students",
+    "icon": "students.png"
+  },
+  {
+    "id": "CAT017",
+    "name": "Women & Child Development",
+    "icon": "women.png"
+  }
+]

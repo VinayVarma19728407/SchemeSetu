@@ -1,0 +1,607 @@
+[
+  {
+    "id": "SCH081",
+    "slug": "pmegp",
+    "name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "category": "MSME",
+    "subcategory": "Micro Enterprise Credit",
+    "ministry": {
+      "name": "Ministry of Micro, Small and Medium Enterprises",
+      "department": "Khadi and Village Industries Commission (KVIC)"
+    },
+    "status": "Active",
+    "overview": "A credit-linked subsidy scheme for generating self-employment opportunities by helping set up new micro-enterprises in the non-farm sector through bank-financed projects with government subsidy.",
+    "objectives": [
+      "Generate employment opportunities through micro-enterprise creation",
+      "Provide financial support for setting up new self-employment ventures",
+      "Bring together traditional artisans and unemployed youth into self-employment"
+    ],
+    "benefits": [
+      {
+        "title": "Margin Money Subsidy",
+        "description": "Government subsidy of 15-35% of project cost depending on category and area, with the balance as bank loan"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 18,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [
+        "Minimum Class VIII pass for projects above a specified cost"
+      ],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "New units only; existing units already availing government subsidy not eligible"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Identity and Address Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Project Report",
+        "mandatory": true
+      },
+      {
+        "name": "Educational Qualification Proof",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply online through the PMEGP e-portal"
+      },
+      {
+        "step": 2,
+        "description": "Application scrutinised by District/State Task Force"
+      },
+      {
+        "step": 3,
+        "description": "Approved applicants undergo mandatory EDP training"
+      },
+      {
+        "step": 4,
+        "description": "Bank sanctions loan and subsidy is credited upon disbursement"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the maximum project cost covered?",
+        "answer": "Up to Rs. 50 lakh for manufacturing and Rs. 20 lakh for service sector units."
+      },
+      {
+        "question": "Is training mandatory?",
+        "answer": "Yes, Entrepreneurship Development Programme training is mandatory before final disbursement."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+      "application": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmegp"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-3000-3468",
+      "website": "https://www.kviconline.gov.in/"
+    },
+    "keywords": [
+      "pmegp",
+      "micro enterprise",
+      "self employment"
+    ],
+    "tags": [
+      "msme",
+      "employment",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH082",
+    "slug": "credit-guarantee-fund-trust-micro-small-enterprises",
+    "name": "Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)",
+    "category": "MSME",
+    "subcategory": "Collateral-free Credit",
+    "ministry": {
+      "name": "Ministry of Micro, Small and Medium Enterprises",
+      "department": "Ministry of Micro, Small and Medium Enterprises / SIDBI"
+    },
+    "status": "Active",
+    "overview": "A scheme providing collateral-free credit guarantee cover to loans extended by eligible lending institutions to micro and small enterprises, easing access to formal credit.",
+    "objectives": [
+      "Facilitate collateral-free credit to micro and small enterprises",
+      "Encourage banks and financial institutions to lend to MSEs",
+      "Strengthen the credit delivery system for the MSE sector"
+    ],
+    "benefits": [
+      {
+        "title": "Guarantee Cover",
+        "description": "Guarantee cover of up to 85% of the loan amount depending on category and loan size, without collateral or third-party guarantee"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "New and existing micro and small enterprises seeking collateral-free credit from eligible lending institutions"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Udyam Registration Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Project/Business Report",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply for a loan with an eligible bank/NBFC/lending institution"
+      },
+      {
+        "step": 2,
+        "description": "Lending institution assesses proposal and avails CGTMSE cover"
+      },
+      {
+        "step": 3,
+        "description": "Loan disbursed to the MSE without collateral requirement"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the maximum guarantee cover?",
+        "answer": "Up to 85% of the credit facility depending on the category of borrower and loan amount."
+      },
+      {
+        "question": "Who administers CGTMSE?",
+        "answer": "A trust set up by the Ministry of MSME and SIDBI."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.cgtmse.in/",
+      "application": "https://www.cgtmse.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/cgtmse"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-266-3021",
+      "website": "https://www.cgtmse.in/"
+    },
+    "keywords": [
+      "cgtmse",
+      "collateral free loan",
+      "msme credit"
+    ],
+    "tags": [
+      "msme",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH083",
+    "slug": "udyam-registration",
+    "name": "Udyam Registration",
+    "category": "MSME",
+    "subcategory": "MSME Registration",
+    "ministry": {
+      "name": "Ministry of Micro, Small and Medium Enterprises",
+      "department": "Ministry of Micro, Small and Medium Enterprises"
+    },
+    "status": "Active",
+    "overview": "A simplified, free online self-declaration based registration process for micro, small and medium enterprises, enabling them to be officially classified as MSMEs and access related benefits.",
+    "objectives": [
+      "Provide a simple, paperless registration process for MSMEs",
+      "Enable MSMEs to access government schemes and benefits",
+      "Create a national database of registered MSMEs"
+    ],
+    "benefits": [
+      {
+        "title": "Official MSME Recognition",
+        "description": "Udyam Registration Certificate enabling access to priority sector lending, subsidies and government tenders"
+      },
+      {
+        "title": "Ease of Access to Schemes",
+        "description": "Simplified access to CGTMSE, PMEGP and other MSME-linked benefits"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Any micro, small or medium enterprise engaged in manufacturing or service activities"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "PAN Card",
+        "mandatory": true
+      },
+      {
+        "name": "Business Address Proof",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Visit the Udyam Registration portal"
+      },
+      {
+        "step": 2,
+        "description": "Enter Aadhaar and PAN details for self-declaration"
+      },
+      {
+        "step": 3,
+        "description": "Provide business investment and turnover details"
+      },
+      {
+        "step": 4,
+        "description": "Receive Udyam Registration Certificate instantly"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is there a registration fee?",
+        "answer": "No, Udyam Registration is completely free."
+      },
+      {
+        "question": "Is Udyam Registration mandatory?",
+        "answer": "It is required to avail most MSME-related government scheme benefits."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://udyamregistration.gov.in/",
+      "application": "https://udyamregistration.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/udyam-registration"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://udyamregistration.gov.in/"
+    },
+    "keywords": [
+      "udyam registration",
+      "msme registration",
+      "udyam"
+    ],
+    "tags": [
+      "msme",
+      "registration"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH084",
+    "slug": "msme-champions-clcss-technology-upgradation",
+    "name": "Credit Linked Capital Subsidy for Technology Upgradation (CLCS-TUS) under MSME Champions",
+    "category": "MSME",
+    "subcategory": "Technology Upgradation",
+    "ministry": {
+      "name": "Ministry of Micro, Small and Medium Enterprises",
+      "department": "Ministry of Micro, Small and Medium Enterprises"
+    },
+    "status": "Active",
+    "overview": "A scheme providing capital subsidy to micro and small enterprises for upgrading their plant and machinery with state-of-the-art technology, improving quality and competitiveness.",
+    "objectives": [
+      "Facilitate technology upgradation in micro and small enterprises",
+      "Improve product quality and productivity",
+      "Enhance competitiveness of the MSE sector"
+    ],
+    "benefits": [
+      {
+        "title": "Capital Subsidy",
+        "description": "Upfront capital subsidy on institutional finance availed for approved technology upgradation"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Existing micro and small enterprises upgrading with approved technology/machinery under specified sub-sectors"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Udyam Registration Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Term Loan Sanction Letter",
+        "mandatory": true
+      },
+      {
+        "name": "Technology Upgradation Proposal",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through the eligible primary lending institution"
+      },
+      {
+        "step": 2,
+        "description": "Lending institution appraises and sanctions term loan for technology upgradation"
+      },
+      {
+        "step": 3,
+        "description": "Subsidy claim processed through the nodal agency"
+      },
+      {
+        "step": 4,
+        "description": "Subsidy credited to the enterprise's loan account"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does the subsidy cover?",
+        "answer": "Capital subsidy on institutional finance used for approved plant and machinery upgradation."
+      },
+      {
+        "question": "Which enterprises are eligible?",
+        "answer": "Existing micro and small enterprises in specified sub-sectors adopting approved technology."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://champions.gov.in/",
+      "application": "https://champions.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/clcss"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-425-6763",
+      "website": "https://champions.gov.in/"
+    },
+    "keywords": [
+      "clcss",
+      "technology upgradation",
+      "msme champions"
+    ],
+    "tags": [
+      "msme",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH085",
+    "slug": "zed-certification-scheme",
+    "name": "Zero Defect Zero Effect (ZED) Certification Scheme",
+    "category": "MSME",
+    "subcategory": "Quality Certification",
+    "ministry": {
+      "name": "Ministry of Micro, Small and Medium Enterprises",
+      "department": "Quality Council of India"
+    },
+    "status": "Active",
+    "overview": "A scheme encouraging MSMEs to adopt Zero Defect Zero Effect manufacturing practices, promoting quality products with minimal environmental impact, along with subsidised certification costs.",
+    "objectives": [
+      "Promote quality manufacturing with zero defects among MSMEs",
+      "Encourage environmentally sustainable ('zero effect') production practices",
+      "Improve MSME competitiveness in domestic and export markets"
+    ],
+    "benefits": [
+      {
+        "title": "Subsidised Certification",
+        "description": "Significant subsidy on ZED certification costs for MSMEs, higher for micro enterprises and special categories"
+      },
+      {
+        "title": "Handholding Support",
+        "description": "Guidance and support to help MSMEs achieve Bronze, Silver or Gold ZED certification"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Udyam-registered micro, small and medium enterprises"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Udyam Registration Certificate",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register on the ZED Certification portal"
+      },
+      {
+        "step": 2,
+        "description": "Undergo self-assessment and desktop assessment"
+      },
+      {
+        "step": 3,
+        "description": "Site assessment by certified ZED assessors"
+      },
+      {
+        "step": 4,
+        "description": "Certification awarded based on assessment score (Bronze/Silver/Gold)"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is ZED certification?",
+        "answer": "A certification recognising MSMEs for quality manufacturing with minimal environmental impact."
+      },
+      {
+        "question": "Is subsidy available for certification cost?",
+        "answer": "Yes, a significant portion of the certification cost is subsidised, especially for micro enterprises."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://zed.msme.gov.in/",
+      "application": "https://zed.msme.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/zed-certification"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-123-1901",
+      "website": "https://zed.msme.gov.in/"
+    },
+    "keywords": [
+      "zed certification",
+      "quality certification",
+      "msme"
+    ],
+    "tags": [
+      "msme",
+      "quality"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": true
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

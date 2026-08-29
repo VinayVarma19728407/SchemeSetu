@@ -1,0 +1,958 @@
+[
+  {
+    "id": "SCH076",
+    "slug": "startup-india-initiative",
+    "name": "Startup India Initiative",
+    "category": "Startups & Entrepreneurship",
+    "subcategory": "Startup Ecosystem",
+    "ministry": {
+      "name": "Ministry of Commerce and Industry",
+      "department": "Department for Promotion of Industry and Internal Trade (DPIIT)"
+    },
+    "status": "Active",
+    "overview": "A flagship initiative to build a strong ecosystem for nurturing innovation and startups, offering DPIIT recognition, tax exemptions, easier compliance and access to funding and incubation support.",
+    "objectives": [
+      "Foster entrepreneurship and innovation-driven startups",
+      "Simplify regulatory compliance for startups",
+      "Provide access to funding, mentorship and incubation support"
+    ],
+    "benefits": [
+      {
+        "title": "Tax Exemption",
+        "description": "Income tax exemption for eligible DPIIT-recognised startups for a specified period"
+      },
+      {
+        "title": "Self-Certification",
+        "description": "Compliance simplification through self-certification for labour and environment laws"
+      },
+      {
+        "title": "Faster Exit",
+        "description": "Easier winding-up process for startups"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Entity incorporated as a private limited company, LLP or registered partnership firm, not older than 10 years, with turnover below the prescribed limit"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Is your entity incorporated or registered in India?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is the entity incorporated as a Private Limited Company, LLP, or Partnership Firm?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Was the entity incorporated within the prescribed period for Startup recognition?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is the entity working towards innovation, development or improvement of products, processes or services, or does it have a scalable business model with high potential for employment generation or wealth creation?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Does the entity's turnover remain within the prescribed Startup India limit for the applicable recognition period?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Was the entity not formed by splitting up or reconstructing an existing business?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Is the entity not a subsidiary of another company?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Is the entity not formed through merger or demerger/reconstruction of an existing business, except where specifically permitted?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_9",
+          "question": "Are you seeking DPIIT Startup Recognition?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Certificate of Incorporation",
+        "mandatory": true
+      },
+      {
+        "name": "Business Description/Pitch",
+        "mandatory": true
+      },
+      {
+        "name": "PAN of Entity",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register the entity on the Startup India portal"
+      },
+      {
+        "step": 2,
+        "description": "Apply for DPIIT recognition with required documents"
+      },
+      {
+        "step": 3,
+        "description": "Recognition certificate issued upon verification"
+      },
+      {
+        "step": 4,
+        "description": "Access tax, funding and compliance benefits"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is DPIIT recognition?",
+        "answer": "An official status granted to eligible startups enabling access to scheme benefits."
+      },
+      {
+        "question": "Is there a fee for registration?",
+        "answer": "No, registration on the Startup India portal is free."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.startupindia.gov.in/",
+      "application": "https://www.startupindia.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/startup-india"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-115-565",
+      "website": "https://www.startupindia.gov.in/"
+    },
+    "keywords": [
+      "startup india",
+      "dpiit recognition",
+      "startup ecosystem"
+    ],
+    "tags": [
+      "startup",
+      "entrepreneurship"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH077",
+    "slug": "startup-india-seed-fund-scheme",
+    "name": "Startup India Seed Fund Scheme (SISFS)",
+    "category": "Startups & Entrepreneurship",
+    "subcategory": "Seed Funding",
+    "ministry": {
+      "name": "Ministry of Commerce and Industry",
+      "department": "Department for Promotion of Industry and Internal Trade (DPIIT)"
+    },
+    "status": "Active",
+    "overview": "A scheme providing financial assistance to early-stage startups for proof of concept, prototype development, product trials, market entry and commercialisation.",
+    "objectives": [
+      "Provide seed capital to startups at an early stage",
+      "Support proof of concept and prototype development",
+      "Facilitate market entry and initial commercialisation"
+    ],
+    "benefits": [
+      {
+        "title": "Seed Grant",
+        "description": "Grant funding for proof of concept, prototyping and product trials through selected incubators"
+      },
+      {
+        "title": "Debt/Convertible Funding",
+        "description": "Investment for market entry and commercialisation through selected incubators"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "DPIIT-recognised startups incorporated not more than 2 years before applying"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Is your startup recognized by DPIIT?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Was your startup incorporated not more than 2 years before the date of application?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Does your startup have a business idea with market fit, viable commercialization and potential for scaling?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Does your startup use technology in its core product/service or business model?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is your startup developing a product or service capable of addressing a market need?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Has your startup received more than \u0393\u00e9\u256310 lakh in monetary support from another Central or State Government scheme?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "No"
+        },
+        {
+          "id": "q_7",
+          "question": "Is the startup applying as a DPIIT-recognized startup rather than an individual entrepreneur?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Are you willing to apply through an eligible incubator selected under SISFS?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "DPIIT Recognition Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Business Plan/Pitch Deck",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through an eligible incubator on the Seed Fund portal"
+      },
+      {
+        "step": 2,
+        "description": "Incubator evaluates the application"
+      },
+      {
+        "step": 3,
+        "description": "Selected startups receive seed funding as grant/debt instrument"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who disburses the seed fund?",
+        "answer": "Selected incubators empanelled under the scheme."
+      },
+      {
+        "question": "What is the funding used for?",
+        "answer": "Proof of concept, prototype development, product trials and market entry."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://seedfund.startupindia.gov.in/",
+      "application": "https://seedfund.startupindia.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/sisfs"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://seedfund.startupindia.gov.in/"
+    },
+    "keywords": [
+      "seed fund",
+      "startup funding",
+      "sisfs"
+    ],
+    "tags": [
+      "startup",
+      "entrepreneurship",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH078",
+    "slug": "atal-innovation-mission",
+    "name": "Atal Innovation Mission (AIM)",
+    "category": "Startups & Entrepreneurship",
+    "subcategory": "Innovation Ecosystem",
+    "ministry": {
+      "name": "NITI Aayog",
+      "department": "Atal Innovation Mission"
+    },
+    "status": "Active",
+    "overview": "The Government of India's flagship initiative to promote a culture of innovation and entrepreneurship, supporting Atal Tinkering Labs in schools and Atal Incubation Centres for startups.",
+    "objectives": [
+      "Promote innovation and entrepreneurship culture across India",
+      "Establish tinkering labs to foster innovation among school students",
+      "Support incubation centres for startups and entrepreneurs"
+    ],
+    "benefits": [
+      {
+        "title": "Atal Tinkering Labs",
+        "description": "Funding and support for setting up innovation labs in schools"
+      },
+      {
+        "title": "Atal Incubation Centres",
+        "description": "Financial support for setting up incubation infrastructure for startups"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Schools for Atal Tinkering Labs; incubators/institutions for Atal Incubation Centres"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Institutional Proposal Documents",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Eligible institutions apply through the AIM portal call for proposals"
+      },
+      {
+        "step": 2,
+        "description": "Proposals evaluated by AIM Mission Directorate"
+      },
+      {
+        "step": 3,
+        "description": "Selected institutions receive grant-in-aid"
+      },
+      {
+        "step": 4,
+        "description": "Implementation and periodic monitoring"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is an Atal Tinkering Lab?",
+        "answer": "A dedicated innovation workspace set up in schools to nurture curiosity among students."
+      },
+      {
+        "question": "Who can apply for Atal Incubation Centre support?",
+        "answer": "Eligible institutions and organisations as per AIM's call for proposals."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://aim.gov.in/",
+      "application": "https://aim.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/aim"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://aim.gov.in/"
+    },
+    "keywords": [
+      "atal innovation mission",
+      "tinkering labs",
+      "incubation"
+    ],
+    "tags": [
+      "startup",
+      "innovation",
+      "education"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH079",
+    "slug": "fund-of-funds-for-startups",
+    "name": "Fund of Funds for Startups (FFS)",
+    "category": "Startups & Entrepreneurship",
+    "subcategory": "Venture Capital Support",
+    "ministry": {
+      "name": "Ministry of Commerce and Industry",
+      "department": "Department for Promotion of Industry and Internal Trade (DPIIT) / SIDBI"
+    },
+    "status": "Active",
+    "overview": "A fund managed by SIDBI that invests in SEBI-registered Alternative Investment Funds, which in turn provide equity funding to DPIIT-recognised startups, catalysing domestic capital availability.",
+    "objectives": [
+      "Catalyse availability of domestic capital for startups",
+      "Encourage participation of alternative investment funds in startup financing",
+      "Reduce dependence on foreign capital for Indian startups"
+    ],
+    "benefits": [
+      {
+        "title": "Indirect Equity Funding",
+        "description": "Startups receive equity investment through SEBI-registered AIFs that are contributed to by the Fund of Funds"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "DPIIT-recognised startups seeking equity funding through participating AIFs"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Is your business an officially DPIIT-recognized startup?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is your startup incorporated/registered in India?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Is your startup working towards innovation, development or improvement of products, processes or services, or does it have a scalable model with high potential for employment/wealth creation?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is your startup within the current Startup India recognition period?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is your startup seeking equity/equity-linked venture capital investment rather than a direct government grant?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Are you willing to seek investment through a SEBI-registered AIF/venture fund participating in the FFS ecosystem?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Does your startup satisfy the investment criteria of the particular AIF/fund?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "DPIIT Recognition Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Investment Pitch/Business Plan",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Startup approaches a SEBI-registered AIF that has received FFS contribution"
+      },
+      {
+        "step": 2,
+        "description": "AIF evaluates the startup for investment"
+      },
+      {
+        "step": 3,
+        "description": "Equity funding provided by the AIF to the selected startup"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does the government invest directly in startups under FFS?",
+        "answer": "No, the government invests in AIFs, which then invest in startups."
+      },
+      {
+        "question": "Who manages the Fund of Funds?",
+        "answer": "Small Industries Development Bank of India (SIDBI)."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.startupindia.gov.in/content/sih/en/government-schemes/fund-of-funds.html",
+      "application": "https://www.startupindia.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/ffs"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://www.startupindia.gov.in/"
+    },
+    "keywords": [
+      "fund of funds",
+      "venture capital",
+      "startup equity"
+    ],
+    "tags": [
+      "startup",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH080",
+    "slug": "credit-guarantee-scheme-for-startups",
+    "name": "Credit Guarantee Scheme for Startups (CGSS)",
+    "category": "Startups & Entrepreneurship",
+    "subcategory": "Credit Guarantee",
+    "ministry": {
+      "name": "Ministry of Commerce and Industry",
+      "department": "Department for Promotion of Industry and Internal Trade (DPIIT) / National Credit Guarantee Trustee Company"
+    },
+    "status": "Active",
+    "overview": "A scheme providing credit guarantee cover to loans extended by member institutions to DPIIT-recognised startups, enabling them to access debt funding without collateral.",
+    "objectives": [
+      "Facilitate collateral-free debt funding for startups",
+      "Provide credit guarantee cover to lending institutions",
+      "Encourage formal lending to the startup ecosystem"
+    ],
+    "benefits": [
+      {
+        "title": "Credit Guarantee Cover",
+        "description": "Guarantee cover on loans extended to DPIIT-recognised startups by eligible member institutions"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "DPIIT-recognised startups seeking working capital or term loans from eligible member institutions"
+      ],
+      "customQuestions": [
+        {
+          "id": "q_1",
+          "question": "Is your business a DPIIT-recognized startup?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_2",
+          "question": "Is the startup incorporated/registered in India?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_3",
+          "question": "Is the startup seeking a loan/debt facility from an eligible Member Institution (MI)?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_4",
+          "question": "Is the proposed credit facility being used for a business purpose of the startup?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_5",
+          "question": "Is the proposed loan within the maximum credit facility covered under CGSS?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_6",
+          "question": "Is the startup not in default/NPA with the lending institution at the time of guarantee coverage?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_7",
+          "question": "Is the startup willing to provide the security/collateral required under the applicable lending arrangement, if applicable?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        },
+        {
+          "id": "q_8",
+          "question": "Is the startup applying through an eligible Member Institution, rather than directly applying to NCGTC for the guarantee?",
+          "type": "dropdown",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "required": true,
+          "expectedAnswer": "Yes"
+        }
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "DPIIT Recognition Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Loan Application Documents",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Startup applies for a loan with an eligible member institution"
+      },
+      {
+        "step": 2,
+        "description": "Lending institution avails guarantee cover under CGSS"
+      },
+      {
+        "step": 3,
+        "description": "Loan disbursed to the startup based on approval"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is collateral required?",
+        "answer": "The guarantee cover reduces the need for collateral, subject to the lender's policy."
+      },
+      {
+        "question": "Who provides the guarantee?",
+        "answer": "National Credit Guarantee Trustee Company Ltd. on behalf of the government."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.startupindia.gov.in/content/sih/en/government-schemes/credit-guarantee-scheme-for-startups.html",
+      "application": "https://www.startupindia.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/cgss"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://www.startupindia.gov.in/"
+    },
+    "keywords": [
+      "cgss",
+      "credit guarantee",
+      "startup loan"
+    ],
+    "tags": [
+      "startup",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": true
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

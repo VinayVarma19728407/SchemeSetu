@@ -1,0 +1,26 @@
+{
+  "name": "schemesetu-project",
+  "version": "1.0.0",
+  "description": "SchemeSetu - Central Government Scheme Discovery Platform",
+  "main": "server/server.js",
+  "scripts": {
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client",
+    "server": "node server/server.js",
+    "server:dev": "node --watch server/server.js",
+    "client": "npm run dev --prefix client",
+    "dev": "concurrently \"npm run server:dev\" \"npm run client\"",
+    "build:client": "npm run build --prefix client",
+    "start": "node server/server.js",
+    "test:backend": "node server/utils/validateDataset.js"
+  },
+  "keywords": [
+    "schemesetu",
+    "government-schemes",
+    "discovery"
+  ],
+  "author": "Google Gemini Antigravity Developer",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

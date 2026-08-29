@@ -1,0 +1,46 @@
+[
+  {
+    "id": "MIN001",
+    "name": "Ministry of Agriculture and Farmers Welfare"
+  },
+  {
+    "id": "MIN002",
+    "name": "Ministry of Education"
+  },
+  {
+    "id": "MIN003",
+    "name": "Ministry of Finance"
+  },
+  {
+    "id": "MIN004",
+    "name": "Ministry of Health and Family Welfare"
+  },
+  {
+    "id": "MIN005",
+    "name": "Ministry of Housing and Urban Affairs"
+  },
+  {
+    "id": "MIN006",
+    "name": "Ministry of Labour and Employment"
+  },
+  {
+    "id": "MIN007",
+    "name": "Ministry of Micro, Small and Medium Enterprises"
+  },
+  {
+    "id": "MIN008",
+    "name": "Ministry of Skill Development and Entrepreneurship"
+  },
+  {
+    "id": "MIN009",
+    "name": "Ministry of Women and Child Development"
+  },
+  {
+    "id": "MIN010",
+    "name": "Ministry of Consumer Affairs, Food and Public Distribution"
+  },
+  {
+    "id": "MIN011",
+    "name": "Ministry of Environment, Forest and Climate Change"
+  }
+]
