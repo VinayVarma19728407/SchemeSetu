@@ -154,21 +154,42 @@ export const login = async (email, password) => {
 };
 
 /**
- * Gets user profile.
+ * Gets user profile including account metadata and role.
  */
-export const getProfile = (userId) => {
+export const getProfile = (userId, role = 'User') => {
+  if (role === 'Administrator' || (userId && userId.startsWith('ADM'))) {
+    const adminFile = path.join(config.dataDir, 'admin', 'admin.json');
+    const adminData = readJson(adminFile, {});
+    let adminObj = Array.isArray(adminData) ? adminData.find(a => a.id === userId) : adminData;
+    return {
+      id: adminObj?.id || userId,
+      name: 'Administrator',
+      email: adminObj?.email || 'admin@schemesetu.gov',
+      role: 'Administrator'
+    };
+  }
+
+  const usersFile = getUsersFile();
+  const users = readJson(usersFile, []);
+  const user = users.find(u => u.id === userId);
+
   const profilesFile = getProfilesFile();
   const profiles = readJson(profilesFile, []);
-  const profile = profiles.find(p => p.userId === userId);
-  return profile || {
-    userId,
-    age: null,
-    gender: '',
-    occupation: '',
-    income: null,
-    state: '',
-    district: '',
-    category: 'General'
+  const profile = profiles.find(p => p.userId === userId) || {};
+
+  return {
+    id: userId,
+    name: user ? user.name : '',
+    email: user ? user.email : '',
+    role: user ? (user.role || 'User') : 'User',
+    createdAt: user ? user.createdAt : '',
+    age: profile.age ?? null,
+    gender: profile.gender || '',
+    occupation: profile.occupation || '',
+    income: profile.income ?? null,
+    state: profile.state || '',
+    district: profile.district || '',
+    category: profile.category || 'General'
   };
 };
 

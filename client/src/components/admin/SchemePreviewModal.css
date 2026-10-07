@@ -1,0 +1,318 @@
+.admin-modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(11, 34, 77, 0.65);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 1rem;
+}
+
+.admin-modal-container {
+  background: #ffffff;
+  border-radius: 12px;
+  max-width: 850px;
+  width: 100%;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  animation: modalPop 0.25s ease-out;
+  overflow: hidden;
+}
+
+@keyframes modalPop {
+  from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.admin-modal-header {
+  padding: 1.25rem 1.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.preview-badge-group {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.preview-pill-admin {
+  background: #eef2ff;
+  color: #4338ca;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+}
+
+.preview-status-badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+}
+
+.preview-status-badge[data-status="Active"] {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.preview-status-badge[data-status="Inactive"] {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.admin-modal-close {
+  background: transparent;
+  border: none;
+  font-size: 1.25rem;
+  color: #6b7280;
+  cursor: pointer;
+  padding: 0.4rem;
+  border-radius: 6px;
+  transition: all 0.2s;
+}
+
+.admin-modal-close:hover {
+  background: #f3f4f6;
+  color: #111827;
+}
+
+.admin-modal-body {
+  padding: 1.75rem;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.preview-scheme-hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.preview-scheme-logo {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  padding: 0.25rem;
+  background: #ffffff;
+}
+
+.preview-category-tag {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #0b3d91;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.preview-title {
+  margin: 0.3rem 0;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5rem;
+  color: #111827;
+}
+
+.preview-ministry {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #4b5563;
+}
+
+.preview-id-code {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+
+.preview-id-code code {
+  background: #f3f4f6;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-family: monospace;
+}
+
+.preview-section {
+  margin-top: 1.5rem;
+}
+
+.preview-section h4 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  margin: 0 0 0.6rem;
+  color: #1f2937;
+  border-left: 3px solid #f57c00;
+  padding-left: 0.5rem;
+}
+
+.preview-section p {
+  color: #4b5563;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.preview-bullets {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.preview-bullets li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+  color: #374151;
+}
+
+.preview-check {
+  color: #16a34a;
+  margin-top: 0.2rem;
+  flex-shrink: 0;
+}
+
+.preview-grid-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.85rem;
+}
+
+.preview-card-item {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  padding: 0.85rem;
+  border-radius: 8px;
+}
+
+.preview-card-item strong {
+  display: block;
+  font-size: 0.92rem;
+  color: #0b3d91;
+  margin-bottom: 0.3rem;
+}
+
+.preview-card-item p {
+  font-size: 0.85rem;
+  color: #64748b;
+}
+
+.preview-elig-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.preview-chip {
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  color: #1e40af;
+  padding: 0.4rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+
+.preview-doc-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.preview-doc-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: #f1f5f9;
+  border: 1px solid #cbd5e1;
+  padding: 0.35rem 0.65rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  color: #334155;
+}
+
+.req-pill {
+  background: #fee2e2;
+  color: #b91c1c;
+  font-size: 0.7rem;
+  padding: 0.1rem 0.35rem;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.preview-links-row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.preview-btn-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.55rem 1rem;
+  border: 1px solid #0b3d91;
+  color: #0b3d91;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.preview-btn-link:hover {
+  background: #0b3d91;
+  color: #fff;
+}
+
+.preview-btn-link.primary {
+  background: #0b3d91;
+  color: #ffffff;
+}
+
+.preview-btn-link.primary:hover {
+  background: #072559;
+}
+
+.admin-modal-footer {
+  padding: 1rem 1.75rem;
+  background: #f9fafb;
+  border-top: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.preview-btn-dismiss {
+  background: #4b5563;
+  color: #ffffff;
+  border: none;
+  padding: 0.55rem 1.25rem;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.preview-btn-dismiss:hover {
+  background: #374151;
+}

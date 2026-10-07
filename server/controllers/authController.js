@@ -41,7 +41,7 @@ export const logout = async (req, res, next) => {
  */
 export const getProfile = async (req, res, next) => {
   try {
-    const profile = AuthService.getProfile(req.user.id);
+    const profile = AuthService.getProfile(req.user.id, req.user.role);
     return successResponse(res, profile, 'Profile retrieved successfully');
   } catch (error) {
     return errorResponse(res, error.message, 500);

@@ -25,6 +25,10 @@ import Bookmarks from './pages/Bookmarks/Bookmarks.jsx';
 import AdminLogin from './pages/Admin/AdminLogin.jsx';
 import AdminDashboard from './pages/Admin/AdminDashboard.jsx';
 import ManageSchemes from './pages/Admin/ManageSchemes.jsx';
+import SchemeEditor from './pages/Admin/SchemeEditor.jsx';
+import CategoriesView from './pages/Admin/CategoriesView.jsx';
+import UsersView from './pages/Admin/UsersView.jsx';
+import AdminSettings from './pages/Admin/AdminSettings.jsx';
 import NotFound from './pages/Error/NotFound.jsx';
 
 // Protected Route Guard for general users
@@ -92,6 +96,31 @@ const AppRoutes = () => {
             <Route path="/admin/manage-schemes" element={
               <AdminRoute>
                 <ManageSchemes />
+              </AdminRoute>
+            } />
+            <Route path="/admin/add-scheme" element={
+              <AdminRoute>
+                <SchemeEditor />
+              </AdminRoute>
+            } />
+            <Route path="/admin/edit-scheme/:id" element={
+              <AdminRoute>
+                <SchemeEditor />
+              </AdminRoute>
+            } />
+            <Route path="/admin/categories" element={
+              <AdminRoute>
+                <CategoriesView />
+              </AdminRoute>
+            } />
+            <Route path="/admin/users" element={
+              <AdminRoute>
+                <UsersView />
+              </AdminRoute>
+            } />
+            <Route path="/admin/settings" element={
+              <AdminRoute>
+                <AdminSettings />
               </AdminRoute>
             } />
             

@@ -154,25 +154,115 @@ export const getRecentSchemes = (limit = 6) => {
 };
 
 /**
+ * Gets a single scheme by its ID.
+ */
+export const getSchemeById = (id) => {
+  const schemes = getAllSchemes(true);
+  return schemes.find(s => s.id === id) || null;
+};
+
+/**
+ * Generates the next sequential scheme ID (e.g. SCH171).
+ */
+export const generateNextSchemeId = () => {
+  const allSchemes = getAllSchemes(true);
+  let maxNum = 0;
+  for (const s of allSchemes) {
+    const match = s.id && s.id.match(/^SCH(\d+)$/i);
+    if (match) {
+      const num = parseInt(match[1], 10);
+      if (num > maxNum) maxNum = num;
+    }
+  }
+  return `SCH${String(maxNum + 1).padStart(3, '0')}`;
+};
+
+/**
+ * Generates a clean URL-friendly slug from title.
+ */
+export const generateSlug = (name) => {
+  return name
+    .toLowerCase()
+    .trim()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/[\s_-]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+};
+
+/**
+ * Normalizes scheme payload before storing.
+ */
+const normalizeSchemeData = (data) => {
+  const normalized = { ...data };
+  
+  // Format official links
+  const infoLink = normalized.officialInfoLink || normalized.officialLinks?.information || '';
+  const applyLink = normalized.officialApplyLink || normalized.officialLinks?.application || '';
+  const guidelinesLink = normalized.officialLinks?.guidelines || '';
+
+  normalized.officialInfoLink = infoLink;
+  normalized.officialApplyLink = applyLink;
+  normalized.officialLinks = {
+    information: infoLink,
+    application: applyLink,
+    ...(guidelinesLink ? { guidelines: guidelinesLink } : {})
+  };
+
+  // Ensure arrays are never null/undefined
+  normalized.objectives = Array.isArray(normalized.objectives) ? normalized.objectives : [];
+  normalized.benefits = Array.isArray(normalized.benefits) ? normalized.benefits : [];
+  normalized.requiredDocuments = Array.isArray(normalized.requiredDocuments) ? normalized.requiredDocuments : [];
+  normalized.applicationProcess = Array.isArray(normalized.applicationProcess) ? normalized.applicationProcess : [];
+  normalized.faqs = Array.isArray(normalized.faqs) ? normalized.faqs : [];
+  normalized.keywords = Array.isArray(normalized.keywords) ? normalized.keywords : [];
+  normalized.tags = Array.isArray(normalized.tags) ? normalized.tags : [];
+  normalized.eligibility = normalized.eligibility && typeof normalized.eligibility === 'object' ? normalized.eligibility : {};
+  normalized.status = normalized.status || 'Active';
+
+  return normalized;
+};
+
+/**
  * Adds a new scheme (Admin CRUD).
  */
 export const createScheme = (schemeData) => {
-  const categoryFilename = getFilenameForCategory(schemeData.category);
-  const filePath = path.join(getCategoriesDir(), categoryFilename);
-  
-  const schemes = readJson(filePath, []);
-  
-  // Check duplicate ID or slug
   const allSchemes = getAllSchemes(true);
-  if (allSchemes.some(s => s.id === schemeData.id)) {
-    throw new Error(`Scheme with ID ${schemeData.id} already exists.`);
+
+  // Auto-generate ID if missing
+  const schemeId = schemeData.id && schemeData.id.trim() !== '' 
+    ? schemeData.id.trim() 
+    : generateNextSchemeId();
+
+  if (allSchemes.some(s => s.id === schemeId)) {
+    throw new Error(`Scheme with ID ${schemeId} already exists.`);
   }
-  if (allSchemes.some(s => s.slug === schemeData.slug)) {
-    throw new Error(`Scheme with slug ${schemeData.slug} already exists.`);
+
+  // Auto-generate slug if missing
+  let slug = schemeData.slug && schemeData.slug.trim() !== ''
+    ? schemeData.slug.trim()
+    : generateSlug(schemeData.name);
+
+  // If slug collision, append suffix
+  let candidateSlug = slug;
+  let counter = 1;
+  while (allSchemes.some(s => s.slug === candidateSlug)) {
+    candidateSlug = `${slug}-${counter}`;
+    counter++;
   }
-  
-  const newScheme = {
+  slug = candidateSlug;
+
+  const normalized = normalizeSchemeData({
     ...schemeData,
+    id: schemeId,
+    slug
+  });
+
+  const categoryFilename = getFilenameForCategory(normalized.category);
+  const filePath = path.join(getCategoriesDir(), categoryFilename);
+  const schemes = readJson(filePath, []);
+
+  const newScheme = {
+    ...normalized,
     metadata: {
       createdAt: new Date().toISOString(),
       updatedAt: new Date().toISOString(),
@@ -220,11 +310,15 @@ export const updateScheme = (id, updatedData) => {
       throw new Error(`Scheme with slug ${updatedData.slug} already exists.`);
     }
   }
-  
-  const updatedScheme = {
+
+  const normalized = normalizeSchemeData({
     ...currentScheme,
     ...updatedData,
-    id, // Ensure ID cannot be changed
+    id // Ensure ID cannot be changed
+  });
+  
+  const updatedScheme = {
+    ...normalized,
     metadata: {
       ...currentScheme.metadata,
       updatedAt: new Date().toISOString(),
@@ -289,6 +383,7 @@ export default {
   getAllSchemes,
   getSchemes,
   getSchemeBySlug,
+  getSchemeById,
   getFeaturedSchemes,
   getRecentSchemes,
   createScheme,

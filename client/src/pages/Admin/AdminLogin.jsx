@@ -17,12 +17,16 @@ const AdminLogin = () => {
     setError('');
     setLoading(true);
     try {
-      const { data } = await axios.post('/api/admin/login', { email, password });
-      // Assume response contains token and isAdmin flag
-      setAuthData({ token: data.token, isAdmin: true, user: data.user });
-      navigate('/admin/dashboard');
+      const res = await axios.post('/api/admin/login', { email, password });
+      const payload = res.data?.data || res.data;
+      if (payload && payload.token) {
+        setAuthData({ token: payload.token, isAdmin: true, user: payload.user });
+        navigate('/admin/dashboard');
+      } else {
+        setError('Login failed: Token not received from server');
+      }
     } catch (err) {
-      setError(err.response?.data?.message || 'Login failed');
+      setError(err.response?.data?.message || err.message || 'Login failed');
     } finally {
       setLoading(false);
     }

@@ -1,0 +1,138 @@
+.admin-layout {
+  display: flex;
+  min-height: 100vh;
+  background-color: #f4f6f9;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: #212121;
+}
+
+.admin-main-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  overflow-x: hidden;
+}
+
+.admin-topbar {
+  background: #ffffff;
+  border-bottom: 1px solid #e0e5eb;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  position: sticky;
+  top: 0;
+  z-index: 90;
+}
+
+.admin-topbar-left {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.admin-hamburger {
+  display: none;
+  background: transparent;
+  border: 1px solid #d1d5db;
+  padding: 0.5rem 0.6rem;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  color: #374151;
+  cursor: pointer;
+}
+
+.admin-hamburger:hover {
+  background: #f3f4f6;
+}
+
+.admin-page-titles {
+  display: flex;
+  flex-direction: column;
+}
+
+.admin-header-title {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #0b3d91;
+}
+
+.admin-header-subtitle {
+  margin: 0.2rem 0 0;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.admin-topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.admin-btn-quick-add {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #f57c00;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.55rem 1rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(245, 124, 0, 0.25);
+  transition: all 0.2s;
+}
+
+.admin-btn-quick-add:hover {
+  background-color: #e65100;
+  transform: translateY(-1px);
+}
+
+.admin-badge-gov {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #0b3d91;
+  background-color: #e8f0fe;
+  padding: 0.45rem 0.8rem;
+  border-radius: 20px;
+  border: 1px solid #cce0ff;
+}
+
+.admin-content-area {
+  padding: 2rem;
+  flex: 1;
+  max-width: 1400px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 900px) {
+  .admin-hamburger {
+    display: block;
+  }
+
+  .admin-topbar {
+    padding: 1rem;
+  }
+
+  .admin-header-title {
+    font-size: 1.25rem;
+  }
+
+  .admin-content-area {
+    padding: 1rem;
+  }
+
+  .admin-badge-gov {
+    display: none;
+  }
+}
