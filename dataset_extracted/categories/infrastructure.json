@@ -1,0 +1,574 @@
+[
+  {
+    "id": "SCH046",
+    "slug": "smart-cities-mission",
+    "name": "Smart Cities Mission",
+    "category": "Infrastructure",
+    "subcategory": "Urban Development",
+    "ministry": {
+      "name": "Ministry of Housing and Urban Affairs",
+      "department": "Ministry of Housing and Urban Affairs"
+    },
+    "status": "Active",
+    "overview": "A mission to develop selected cities across India by providing core infrastructure, a clean and sustainable environment, and quality of life to citizens through smart solutions.",
+    "objectives": [
+      "Provide core urban infrastructure and services",
+      "Promote sustainable and inclusive urban development",
+      "Leverage technology for better city management"
+    ],
+    "benefits": [
+      {
+        "title": "Urban Infrastructure Development",
+        "description": "Investment in water supply, sanitation, mobility, e-governance and area-based development"
+      },
+      {
+        "title": "Integrated Command Centres",
+        "description": "City-level command and control centres for real-time monitoring"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Applicable at the city/urban local body level, not individual citizens"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "City Proposal Documentation",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Selected cities formed a Special Purpose Vehicle (SPV)"
+      },
+      {
+        "step": 2,
+        "description": "SPV implements area-based development and pan-city smart solutions"
+      },
+      {
+        "step": 3,
+        "description": "Projects monitored via Integrated Command and Control Centres"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How many cities are covered?",
+        "answer": "100 cities were selected under the mission in phases."
+      },
+      {
+        "question": "Who implements Smart Cities projects?",
+        "answer": "A Special Purpose Vehicle set up for each selected city."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://smartcities.gov.in/",
+      "application": "https://smartcities.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/smart-cities-mission"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://smartcities.gov.in/"
+    },
+    "keywords": [
+      "smart cities",
+      "urban infrastructure",
+      "smart cities mission"
+    ],
+    "tags": [
+      "infrastructure",
+      "urban"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH047",
+    "slug": "amrut-2",
+    "name": "Atal Mission for Rejuvenation and Urban Transformation 2.0 (AMRUT 2.0)",
+    "category": "Infrastructure",
+    "subcategory": "Urban Water & Sanitation",
+    "ministry": {
+      "name": "Ministry of Housing and Urban Affairs",
+      "department": "Ministry of Housing and Urban Affairs"
+    },
+    "status": "Active",
+    "overview": "A mission to make all cities 'water secure' by providing functional water tap connections, sewerage/septage management, and rejuvenation of water bodies in urban areas.",
+    "objectives": [
+      "Provide universal coverage of water supply in urban areas",
+      "Ensure sewerage and septage management in cities",
+      "Rejuvenate urban water bodies and promote sustainable water use"
+    ],
+    "benefits": [
+      {
+        "title": "Water Supply Infrastructure",
+        "description": "Development of piped water supply and sewerage/septage systems in cities"
+      },
+      {
+        "title": "Water Body Rejuvenation",
+        "description": "Restoration of urban lakes, ponds and other water bodies"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Applicable at the urban local body level"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "City/State Water Action Plan",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "States/UTs prepare State Water Action Plan"
+      },
+      {
+        "step": 2,
+        "description": "Central approval and fund release"
+      },
+      {
+        "step": 3,
+        "description": "Implementation through Urban Local Bodies"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the objective of AMRUT 2.0?",
+        "answer": "Making all statutory towns water secure through universal water supply coverage."
+      },
+      {
+        "question": "Is AMRUT 2.0 different from AMRUT?",
+        "answer": "It is the second, expanded phase focused on universal water coverage."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://amrut.mohua.gov.in/",
+      "application": "https://amrut.mohua.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/amrut-2"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://amrut.mohua.gov.in/"
+    },
+    "keywords": [
+      "amrut",
+      "urban water supply",
+      "sewerage"
+    ],
+    "tags": [
+      "infrastructure",
+      "urban",
+      "water"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH048",
+    "slug": "bharatmala-pariyojana",
+    "name": "Bharatmala Pariyojana",
+    "category": "Infrastructure",
+    "subcategory": "Highway Development",
+    "ministry": {
+      "name": "Ministry of Road Transport and Highways",
+      "department": "Ministry of Road Transport and Highways"
+    },
+    "status": "Active",
+    "overview": "An umbrella road and highway infrastructure programme focused on optimising the efficiency of road traffic movement across the country through economic corridors, feeder routes and expressways.",
+    "objectives": [
+      "Develop economic corridors and expressways",
+      "Improve last-mile connectivity to ports and border areas",
+      "Optimise multi-modal freight movement"
+    ],
+    "benefits": [
+      {
+        "title": "Highway Infrastructure",
+        "description": "Construction of national highways, economic corridors and expressways to improve connectivity"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Nationwide infrastructure programme; not an individual-beneficiary scheme"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Not applicable - infrastructure programme",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Project identification by Ministry/NHAI"
+      },
+      {
+        "step": 2,
+        "description": "Land acquisition and environmental clearances"
+      },
+      {
+        "step": 3,
+        "description": "Construction through EPC/HAM/BOT modes"
+      },
+      {
+        "step": 4,
+        "description": "Commissioning and operations"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is Bharatmala Pariyojana?",
+        "answer": "A comprehensive highway development programme covering economic corridors, feeder routes and expressways."
+      },
+      {
+        "question": "Who executes the projects?",
+        "answer": "National Highways Authority of India and state agencies."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://morth.nic.in/bharatmala-pariyojna",
+      "application": "https://nhai.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/bharatmala"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://morth.nic.in/"
+    },
+    "keywords": [
+      "bharatmala",
+      "highways",
+      "road infrastructure"
+    ],
+    "tags": [
+      "infrastructure",
+      "roads"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH049",
+    "slug": "pradhan-mantri-gram-sadak-yojana",
+    "name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "category": "Infrastructure",
+    "subcategory": "Rural Roads",
+    "ministry": {
+      "name": "Ministry of Rural Development",
+      "department": "Department of Rural Development"
+    },
+    "status": "Active",
+    "overview": "A scheme to provide all-weather road connectivity to unconnected rural habitations, improving access to markets, healthcare and education in rural India.",
+    "objectives": [
+      "Provide all-weather road connectivity to eligible unconnected habitations",
+      "Improve rural connectivity for socio-economic development",
+      "Upgrade and maintain existing rural roads"
+    ],
+    "benefits": [
+      {
+        "title": "Road Connectivity",
+        "description": "Construction of all-weather roads connecting eligible rural habitations to the road network"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Unconnected rural habitations meeting the population/connectivity criteria under the scheme"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Habitation Survey Documentation",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "State prepares District Rural Roads Plan"
+      },
+      {
+        "step": 2,
+        "description": "Proposals appraised and approved centrally"
+      },
+      {
+        "step": 3,
+        "description": "Roads constructed through state implementing agencies"
+      },
+      {
+        "step": 4,
+        "description": "Maintenance carried out post-construction"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which habitations are covered?",
+        "answer": "Unconnected rural habitations meeting the prescribed population thresholds."
+      },
+      {
+        "question": "Which ministry implements PMGSY?",
+        "answer": "Ministry of Rural Development."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmgsy.nic.in/",
+      "application": "https://pmgsy.nic.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmgsy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://pmgsy.nic.in/"
+    },
+    "keywords": [
+      "pmgsy",
+      "rural roads",
+      "road connectivity"
+    ],
+    "tags": [
+      "infrastructure",
+      "rural",
+      "roads"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH050",
+    "slug": "sagarmala-programme",
+    "name": "Sagarmala Programme",
+    "category": "Infrastructure",
+    "subcategory": "Port-led Development",
+    "ministry": {
+      "name": "Ministry of Ports, Shipping and Waterways",
+      "department": "Ministry of Ports, Shipping and Waterways"
+    },
+    "status": "Active",
+    "overview": "A flagship programme for port-led development aimed at modernising India's ports, enhancing port connectivity, and promoting coastal community development.",
+    "objectives": [
+      "Modernise ports and reduce logistics costs",
+      "Improve port connectivity through rail, road and inland waterways",
+      "Promote coastal economic zones and community development"
+    ],
+    "benefits": [
+      {
+        "title": "Port Infrastructure Development",
+        "description": "Modernisation and capacity augmentation of major and non-major ports"
+      },
+      {
+        "title": "Coastal Community Development",
+        "description": "Skill development and livelihood programmes for coastal communities"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Nationwide infrastructure programme; coastal community components benefit local populations"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Not applicable - infrastructure programme",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Project identification under national perspective plan"
+      },
+      {
+        "step": 2,
+        "description": "Implementation by port authorities/state maritime boards"
+      },
+      {
+        "step": 3,
+        "description": "Monitoring by Sagarmala Development Company"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does Sagarmala cover?",
+        "answer": "Port modernisation, port connectivity, port-led industrialisation and coastal community development."
+      },
+      {
+        "question": "Which ministry runs Sagarmala?",
+        "answer": "Ministry of Ports, Shipping and Waterways."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://sagarmala.gov.in/",
+      "application": "https://sagarmala.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/sagarmala"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://sagarmala.gov.in/"
+    },
+    "keywords": [
+      "sagarmala",
+      "ports",
+      "coastal development"
+    ],
+    "tags": [
+      "infrastructure",
+      "ports"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

@@ -1,0 +1,599 @@
+[
+  {
+    "id": "SCH036",
+    "slug": "indira-gandhi-national-old-age-pension-scheme",
+    "name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+    "category": "Senior Citizens",
+    "subcategory": "Old Age Pension",
+    "ministry": {
+      "name": "Ministry of Rural Development",
+      "department": "National Social Assistance Programme"
+    },
+    "status": "Active",
+    "overview": "A component of the National Social Assistance Programme providing monthly pension to elderly persons belonging to below poverty line households.",
+    "objectives": [
+      "Provide social assistance to elderly persons living below poverty line",
+      "Ensure basic income security in old age",
+      "Reduce destitution among the elderly"
+    ],
+    "benefits": [
+      {
+        "title": "Monthly Pension",
+        "description": "Central assistance of Rs. 200 to Rs. 500 per month depending on age, supplemented by state contribution"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 60,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Belonging to a household below the poverty line as per state BPL list"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Age Proof",
+        "mandatory": true
+      },
+      {
+        "name": "BPL Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through Gram Panchayat/Urban Local Body or Social Welfare Department"
+      },
+      {
+        "step": 2,
+        "description": "Verification of age and BPL status"
+      },
+      {
+        "step": 3,
+        "description": "Pension credited monthly to bank/post office account"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the minimum age for IGNOAPS?",
+        "answer": "60 years."
+      },
+      {
+        "question": "Is BPL status mandatory?",
+        "answer": "Yes, applicants must belong to a BPL household as per state records."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://nsap.nic.in/",
+      "application": "https://nsap.nic.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/ignoaps"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://nsap.nic.in/"
+    },
+    "keywords": [
+      "old age pension",
+      "ignoaps",
+      "nsap"
+    ],
+    "tags": [
+      "senior-citizens",
+      "pension",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH037",
+    "slug": "rashtriya-vayoshri-yojana",
+    "name": "Rashtriya Vayoshri Yojana (RVY)",
+    "category": "Senior Citizens",
+    "subcategory": "Assistive Devices",
+    "ministry": {
+      "name": "Ministry of Social Justice and Empowerment",
+      "department": "Department of Social Justice and Empowerment"
+    },
+    "status": "Active",
+    "overview": "A scheme to provide senior citizens belonging to the BPL category with free physical aids and assisted-living devices to overcome age-related disabilities and infirmities.",
+    "objectives": [
+      "Provide assistive devices to senior citizens with age-related disabilities",
+      "Improve mobility and quality of life for elderly BPL persons",
+      "Enable independent living for the elderly"
+    ],
+    "benefits": [
+      {
+        "title": "Free Aids and Appliances",
+        "description": "Devices such as walking sticks, wheelchairs, hearing aids and spectacles provided free of cost"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 60,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "BPL or annual income up to prescribed threshold; suffering from age-related disabilities"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Age Proof",
+        "mandatory": true
+      },
+      {
+        "name": "BPL/Income Certificate",
+        "mandatory": true
+      },
+      {
+        "name": "Medical Assessment Certificate",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "District-level camps organised to assess beneficiaries"
+      },
+      {
+        "step": 2,
+        "description": "Medical assessment to identify required aids"
+      },
+      {
+        "step": 3,
+        "description": "Distribution of assistive devices at camp"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is there a cost to the beneficiary?",
+        "answer": "No, devices are distributed free of cost."
+      },
+      {
+        "question": "How are beneficiaries identified?",
+        "answer": "Through district-level assessment camps organised by ALIMCO/state agencies."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://socialjustice.gov.in/schemes/7",
+      "application": "https://socialjustice.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/rvy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://socialjustice.gov.in/"
+    },
+    "keywords": [
+      "rashtriya vayoshri yojana",
+      "assistive devices",
+      "senior citizens"
+    ],
+    "tags": [
+      "senior-citizens",
+      "welfare"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH038",
+    "slug": "pradhan-mantri-vaya-vandana-yojana",
+    "name": "Pradhan Mantri Vaya Vandana Yojana (PMVVY)",
+    "category": "Senior Citizens",
+    "subcategory": "Pension Insurance",
+    "ministry": {
+      "name": "Ministry of Finance",
+      "department": "Department of Financial Services / Life Insurance Corporation of India"
+    },
+    "status": "Active",
+    "overview": "A pension scheme for senior citizens administered by LIC, offering an assured rate of return on a lump-sum investment for a guaranteed pension over the policy term.",
+    "objectives": [
+      "Provide social security to senior citizens through assured pension",
+      "Protect elderly investors from market-linked risk",
+      "Offer flexible pension payment options"
+    ],
+    "benefits": [
+      {
+        "title": "Assured Pension",
+        "description": "Guaranteed periodic pension based on the purchase price and government-notified interest rate"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 60,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Indian citizens aged 60 years and above investing a lump sum with LIC"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Age Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Identity and Address Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Approach LIC branch or online LIC portal"
+      },
+      {
+        "step": 2,
+        "description": "Choose pension payment frequency and pay purchase price"
+      },
+      {
+        "step": 3,
+        "description": "Receive policy document"
+      },
+      {
+        "step": 4,
+        "description": "Get periodic pension as per chosen frequency"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who administers PMVVY?",
+        "answer": "Life Insurance Corporation of India, under Ministry of Finance oversight."
+      },
+      {
+        "question": "What is the minimum entry age?",
+        "answer": "60 years, with no upper age limit."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://licindia.in/",
+      "application": "https://licindia.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmvvy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://licindia.in/"
+    },
+    "keywords": [
+      "pmvvy",
+      "senior citizen pension",
+      "lic"
+    ],
+    "tags": [
+      "senior-citizens",
+      "pension",
+      "insurance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH039",
+    "slug": "senior-citizens-savings-scheme",
+    "name": "Senior Citizens Savings Scheme (SCSS)",
+    "category": "Senior Citizens",
+    "subcategory": "Savings Scheme",
+    "ministry": {
+      "name": "Ministry of Finance",
+      "department": "Department of Economic Affairs / National Savings Institute"
+    },
+    "status": "Active",
+    "overview": "A government-backed savings instrument for senior citizens offering regular quarterly interest income and capital safety, available through banks and post offices.",
+    "objectives": [
+      "Provide a safe, regular income avenue for senior citizens",
+      "Offer higher interest rates than regular savings instruments",
+      "Ensure capital protection for elderly investors"
+    ],
+    "benefits": [
+      {
+        "title": "Quarterly Interest Payout",
+        "description": "Government-notified interest rate paid quarterly on deposits"
+      },
+      {
+        "title": "Tax Benefit",
+        "description": "Deposits eligible for deduction under Section 80C"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 60,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Individuals aged 60+, or 55+ for retired defence personnel and civilian retirees under specific conditions"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Age Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Identity and Address Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Retirement Proof (if applicable)",
+        "mandatory": false
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Visit an authorised bank or post office"
+      },
+      {
+        "step": 2,
+        "description": "Open SCSS account with minimum deposit"
+      },
+      {
+        "step": 3,
+        "description": "Receive quarterly interest payouts"
+      },
+      {
+        "step": 4,
+        "description": "Account matures after 5 years, extendable by 3 years"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the maximum deposit limit?",
+        "answer": "Rs. 30 lakh, as per current scheme rules."
+      },
+      {
+        "question": "Can the account be extended after maturity?",
+        "answer": "Yes, it can be extended once for an additional 3 years."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.nsiindia.gov.in/",
+      "application": "https://www.indiapost.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/scss"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://www.nsiindia.gov.in/"
+    },
+    "keywords": [
+      "scss",
+      "senior citizens savings",
+      "small savings scheme"
+    ],
+    "tags": [
+      "senior-citizens",
+      "financial-assistance",
+      "savings"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH040",
+    "slug": "national-programme-health-care-elderly",
+    "name": "National Programme for Health Care of the Elderly (NPHCE)",
+    "category": "Senior Citizens",
+    "subcategory": "Elderly Healthcare",
+    "ministry": {
+      "name": "Ministry of Health and Family Welfare",
+      "department": "National Health Mission"
+    },
+    "status": "Active",
+    "overview": "A programme to provide accessible, affordable and quality healthcare services to the elderly, including dedicated geriatric clinics and rehabilitation services at various levels of healthcare facilities.",
+    "objectives": [
+      "Provide preventive and curative healthcare services for the elderly",
+      "Establish dedicated geriatric care facilities",
+      "Train healthcare workers in geriatric care"
+    ],
+    "benefits": [
+      {
+        "title": "Geriatric Health Services",
+        "description": "Dedicated geriatric clinics, ward facilities and home-based care for elderly patients"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 60,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Elderly persons accessing public healthcare facilities"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Age Proof",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Visit district hospital or Community Health Centre with geriatric clinic"
+      },
+      {
+        "step": 2,
+        "description": "Register and undergo assessment"
+      },
+      {
+        "step": 3,
+        "description": "Receive treatment/rehabilitation services"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What services are available?",
+        "answer": "Outpatient geriatric care, physiotherapy, and referral services."
+      },
+      {
+        "question": "Is there a fee?",
+        "answer": "Services at public health facilities are provided at nominal or no cost as per state policy."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=1051&lid=604",
+      "application": "https://nhm.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/nphce"
+    },
+    "contact": {
+      "email": "",
+      "phone": "",
+      "website": "https://nhm.gov.in/"
+    },
+    "keywords": [
+      "nphce",
+      "elderly healthcare",
+      "geriatric care"
+    ],
+    "tags": [
+      "senior-citizens",
+      "health"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

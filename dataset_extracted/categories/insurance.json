@@ -1,0 +1,608 @@
+[
+  {
+    "id": "SCH071",
+    "slug": "pradhan-mantri-jeevan-jyoti-bima-yojana",
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "category": "Insurance",
+    "subcategory": "Life Insurance",
+    "ministry": {
+      "name": "Ministry of Finance",
+      "department": "Department of Financial Services"
+    },
+    "status": "Active",
+    "overview": "A government-backed, renewable one-year life insurance scheme offering a life cover of Rs. 2 lakh at a low annual premium, available to individuals with a bank/post office account.",
+    "objectives": [
+      "Provide affordable life insurance coverage to the masses",
+      "Improve insurance penetration among low-income groups",
+      "Offer a simple, renewable term insurance product"
+    ],
+    "benefits": [
+      {
+        "title": "Life Cover",
+        "description": "Rs. 2 lakh life insurance cover in case of death due to any reason"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 18,
+        "maximum": 50
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Individuals with a savings bank/post office account who provide consent for auto-debit of premium"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Approach the bank/post office where the savings account is held"
+      },
+      {
+        "step": 2,
+        "description": "Submit consent form for auto-debit of annual premium"
+      },
+      {
+        "step": 3,
+        "description": "Coverage active from enrolment till the next renewal cycle"
+      },
+      {
+        "step": 4,
+        "description": "Renew annually before the due date"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the premium amount?",
+        "answer": "A nominal annual premium as notified by the government, auto-debited from the linked account."
+      },
+      {
+        "question": "What is the life cover amount?",
+        "answer": "Rs. 2 lakh in case of death of the insured member."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.jansuraksha.gov.in/",
+      "application": "https://www.jansuraksha.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmjjby"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-180-1111",
+      "website": "https://www.jansuraksha.gov.in/"
+    },
+    "keywords": [
+      "pmjjby",
+      "life insurance",
+      "jan suraksha"
+    ],
+    "tags": [
+      "insurance",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH072",
+    "slug": "pradhan-mantri-suraksha-bima-yojana",
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "category": "Insurance",
+    "subcategory": "Accident Insurance",
+    "ministry": {
+      "name": "Ministry of Finance",
+      "department": "Department of Financial Services"
+    },
+    "status": "Active",
+    "overview": "A government-backed, renewable one-year accidental death and disability insurance scheme offering coverage at a very low annual premium to bank account holders.",
+    "objectives": [
+      "Provide affordable accident insurance to the masses",
+      "Cover accidental death and permanent/partial disability",
+      "Improve insurance penetration among low-income groups"
+    ],
+    "benefits": [
+      {
+        "title": "Accident Cover",
+        "description": "Rs. 2 lakh for accidental death or full disability, and Rs. 1 lakh for partial disability"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 18,
+        "maximum": 70
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Individuals with a savings bank/post office account who provide consent for auto-debit of premium"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Approach the bank/post office where the savings account is held"
+      },
+      {
+        "step": 2,
+        "description": "Submit consent form for auto-debit of annual premium"
+      },
+      {
+        "step": 3,
+        "description": "Coverage active from enrolment till the next renewal cycle"
+      },
+      {
+        "step": 4,
+        "description": "Renew annually before the due date"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does PMSBY cover?",
+        "answer": "Accidental death and permanent/partial disability."
+      },
+      {
+        "question": "What is the annual premium?",
+        "answer": "A nominal amount as notified by the government, auto-debited from the linked account."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.jansuraksha.gov.in/",
+      "application": "https://www.jansuraksha.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pmsby"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-180-1111",
+      "website": "https://www.jansuraksha.gov.in/"
+    },
+    "keywords": [
+      "pmsby",
+      "accident insurance",
+      "jan suraksha"
+    ],
+    "tags": [
+      "insurance",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH073",
+    "slug": "employees-state-insurance-scheme",
+    "name": "Employees' State Insurance Scheme (ESIC)",
+    "category": "Insurance",
+    "subcategory": "Health & Social Insurance",
+    "ministry": {
+      "name": "Ministry of Labour and Employment",
+      "department": "Employees' State Insurance Corporation"
+    },
+    "status": "Active",
+    "overview": "A self-financed social security and health insurance scheme for Indian workers in the organised sector, providing medical care, cash benefits and other social security benefits to employees and their dependents.",
+    "objectives": [
+      "Provide medical care to insured employees and dependents",
+      "Offer cash benefits during sickness, maternity and disability",
+      "Provide dependent benefits in case of employment-related death"
+    ],
+    "benefits": [
+      {
+        "title": "Medical Benefit",
+        "description": "Comprehensive medical care for the insured person and family"
+      },
+      {
+        "title": "Cash Benefits",
+        "description": "Sickness, maternity, disability and dependent benefits as per contribution"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": 21000,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Salaried Employee"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Employees earning wages up to the prescribed ceiling, working in covered establishments"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Employer Registration Proof",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Employer registers the establishment and employees under ESIC"
+      },
+      {
+        "step": 2,
+        "description": "Employee and employer contribute a percentage of wages monthly"
+      },
+      {
+        "step": 3,
+        "description": "Insured person receives ESIC pehchan card"
+      },
+      {
+        "step": 4,
+        "description": "Avail medical and cash benefits at ESIC facilities"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is covered under ESIC?",
+        "answer": "Employees earning wages up to the notified ceiling in ESIC-covered establishments."
+      },
+      {
+        "question": "What benefits are provided?",
+        "answer": "Medical care, sickness benefit, maternity benefit, disability benefit and dependent benefit."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.esic.gov.in/",
+      "application": "https://www.esic.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/esic"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-11-2526",
+      "website": "https://www.esic.gov.in/"
+    },
+    "keywords": [
+      "esic",
+      "employee insurance",
+      "social security"
+    ],
+    "tags": [
+      "insurance",
+      "health",
+      "employment"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH074",
+    "slug": "central-government-health-scheme",
+    "name": "Central Government Health Scheme (CGHS)",
+    "category": "Insurance",
+    "subcategory": "Health Insurance for Government Employees",
+    "ministry": {
+      "name": "Ministry of Health and Family Welfare",
+      "department": "Directorate General of CGHS"
+    },
+    "status": "Active",
+    "overview": "A comprehensive medical care scheme for central government employees, pensioners and their dependents, providing outpatient and inpatient care through CGHS wellness centres and empanelled hospitals.",
+    "objectives": [
+      "Provide comprehensive healthcare to central government employees and pensioners",
+      "Ensure access to a wide network of wellness centres and empanelled hospitals",
+      "Reduce out-of-pocket healthcare costs for beneficiaries"
+    ],
+    "benefits": [
+      {
+        "title": "OPD and Inpatient Care",
+        "description": "Access to outpatient consultation and hospitalisation at CGHS wellness centres and empanelled hospitals"
+      },
+      {
+        "title": "Cashless Treatment for Pensioners",
+        "description": "Cashless facility for CGHS pensioner beneficiaries at empanelled hospitals"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Central Government Employee",
+        "Central Government Pensioner"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Serving/retired central government employees and their eligible dependents in covered cities"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Service/Pension Records",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply for CGHS card through the department/pension disbursing office"
+      },
+      {
+        "step": 2,
+        "description": "Submit contribution as applicable"
+      },
+      {
+        "step": 3,
+        "description": "Receive CGHS card for access to wellness centres and hospitals"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible for CGHS?",
+        "answer": "Central government employees, pensioners and their dependents in CGHS-covered cities."
+      },
+      {
+        "question": "Is CGHS available in all cities?",
+        "answer": "It is available in select CGHS-covered cities across India."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://cghs.mohfw.gov.in/",
+      "application": "https://cghs.mohfw.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/cghs"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-11-8300",
+      "website": "https://cghs.mohfw.gov.in/"
+    },
+    "keywords": [
+      "cghs",
+      "government employee health insurance",
+      "health scheme"
+    ],
+    "tags": [
+      "insurance",
+      "health"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH075",
+    "slug": "weather-based-crop-insurance-scheme",
+    "name": "Weather Based Crop Insurance Scheme (WBCIS)",
+    "category": "Insurance",
+    "subcategory": "Crop Insurance",
+    "ministry": {
+      "name": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture and Farmers Welfare"
+    },
+    "status": "Active",
+    "overview": "A crop insurance scheme that provides insurance protection to farmers against adverse weather conditions such as rainfall deficit, temperature and humidity that are deemed to adversely affect crop production.",
+    "objectives": [
+      "Provide insurance against adverse weather conditions affecting crops",
+      "Mitigate financial hardship caused by weather-induced crop loss",
+      "Stabilise farm income during extreme weather events"
+    ],
+    "benefits": [
+      {
+        "title": "Weather-Indexed Payout",
+        "description": "Claim payout based on weather parameter deviations recorded at reference weather stations, without the need for individual crop-cutting assessment"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Farmer"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Farmers growing notified crops in notified areas, both loanee and non-loanee, where WBCIS is implemented in place of PMFBY"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Land Records",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      },
+      {
+        "name": "Sowing Certificate",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Apply through bank, insurance company or CSC before the cut-off date"
+      },
+      {
+        "step": 2,
+        "description": "Pay the prescribed premium share"
+      },
+      {
+        "step": 3,
+        "description": "Weather data assessed against reference stations"
+      },
+      {
+        "step": 4,
+        "description": "Payout credited automatically based on weather triggers"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How is WBCIS different from PMFBY?",
+        "answer": "WBCIS uses weather parameters as a proxy for crop loss instead of yield-based assessment."
+      },
+      {
+        "question": "Is this scheme available everywhere?",
+        "answer": "It is implemented in select states/areas as notified in place of yield-based crop insurance."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://pmfby.gov.in/",
+      "application": "https://pmfby.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/wbcis"
+    },
+    "contact": {
+      "email": "",
+      "phone": "14447",
+      "website": "https://pmfby.gov.in/"
+    },
+    "keywords": [
+      "wbcis",
+      "weather insurance",
+      "crop insurance"
+    ],
+    "tags": [
+      "insurance",
+      "agriculture"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]

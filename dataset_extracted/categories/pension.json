@@ -1,0 +1,616 @@
+[
+  {
+    "id": "SCH066",
+    "slug": "atal-pension-yojana",
+    "name": "Atal Pension Yojana (APY)",
+    "category": "Pension",
+    "subcategory": "Voluntary Pension",
+    "ministry": {
+      "name": "Ministry of Finance",
+      "department": "Pension Fund Regulatory and Development Authority"
+    },
+    "status": "Active",
+    "overview": "A guaranteed pension scheme mainly targeted at workers in the unorganised sector, offering a fixed monthly pension between Rs. 1,000 and Rs. 5,000 after the age of 60 based on contributions made.",
+    "objectives": [
+      "Provide old-age income security for unorganised sector workers",
+      "Encourage retirement savings among informal workers",
+      "Offer a government-guaranteed minimum pension"
+    ],
+    "benefits": [
+      {
+        "title": "Guaranteed Monthly Pension",
+        "description": "Fixed pension of Rs. 1,000 to Rs. 5,000 per month after age 60, based on contribution amount and entry age"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 18,
+        "maximum": 40
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Indian citizens with a savings bank/post office account, not covered under any statutory social security scheme"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Approach the bank/post office where savings account is held"
+      },
+      {
+        "step": 2,
+        "description": "Fill APY registration form with nominee details"
+      },
+      {
+        "step": 3,
+        "description": "Choose desired pension amount"
+      },
+      {
+        "step": 4,
+        "description": "Contributions auto-debited monthly/quarterly/half-yearly"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the pension amount range?",
+        "answer": "Rs. 1,000 to Rs. 5,000 per month depending on contribution."
+      },
+      {
+        "question": "What is the entry age limit?",
+        "answer": "18 to 40 years."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.npscra.proteantech.in/scheme-details.php",
+      "application": "https://www.npscra.proteantech.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/apy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-110-069",
+      "website": "https://www.npscra.proteantech.in/"
+    },
+    "keywords": [
+      "atal pension yojana",
+      "apy",
+      "pension scheme"
+    ],
+    "tags": [
+      "pension",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": true,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH067",
+    "slug": "national-pension-system",
+    "name": "National Pension System (NPS)",
+    "category": "Pension",
+    "subcategory": "Market-linked Pension",
+    "ministry": {
+      "name": "Ministry of Finance",
+      "department": "Pension Fund Regulatory and Development Authority"
+    },
+    "status": "Active",
+    "overview": "A voluntary, defined-contribution pension system enabling individuals to systematically save for retirement through market-linked investment options managed by regulated pension fund managers.",
+    "objectives": [
+      "Provide a market-linked, portable retirement savings option",
+      "Encourage long-term retirement planning",
+      "Offer flexibility in fund and investment choice"
+    ],
+    "benefits": [
+      {
+        "title": "Market-linked Returns",
+        "description": "Investment across equity, corporate bonds and government securities for potentially higher long-term returns"
+      },
+      {
+        "title": "Tax Benefits",
+        "description": "Additional tax deduction available under Section 80CCD"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 18,
+        "maximum": 70
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Any Indian citizen, resident or non-resident, within the specified age band"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "PAN Card",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Register online via eNPS or through a Point of Presence"
+      },
+      {
+        "step": 2,
+        "description": "Complete KYC and choose pension fund manager"
+      },
+      {
+        "step": 3,
+        "description": "Make contributions to Tier-I/Tier-II account"
+      },
+      {
+        "step": 4,
+        "description": "Avail annuity/lump-sum on retirement as per NPS exit rules"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is NPS mandatory for private sector employees?",
+        "answer": "No, it is voluntary for private sector and self-employed individuals; mandatory for most central government employees who joined after 2004."
+      },
+      {
+        "question": "What tax benefits are available?",
+        "answer": "Deduction under Section 80C and additional deduction under Section 80CCD(1B)."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.npscra.proteantech.in/",
+      "application": "https://enps.kfintech.com/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/nps"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-222-080",
+      "website": "https://www.npscra.proteantech.in/"
+    },
+    "keywords": [
+      "nps",
+      "national pension system",
+      "retirement savings"
+    ],
+    "tags": [
+      "pension",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": true,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH068",
+    "slug": "employees-pension-scheme-1995",
+    "name": "Employees' Pension Scheme, 1995 (EPS-95)",
+    "category": "Pension",
+    "subcategory": "Organised Sector Pension",
+    "ministry": {
+      "name": "Ministry of Labour and Employment",
+      "department": "Employees' Provident Fund Organisation (EPFO)"
+    },
+    "status": "Active",
+    "overview": "A statutory pension scheme for employees in the organised sector, providing pension benefits on retirement, disability, or to family members on death of the member, funded through employer contributions.",
+    "objectives": [
+      "Provide pension security to organised sector employees",
+      "Offer family/widow pension in case of member's death",
+      "Provide disability pension for permanently incapacitated members"
+    ],
+    "benefits": [
+      {
+        "title": "Monthly Pension",
+        "description": "Pension payable on completion of eligible service or on superannuation"
+      },
+      {
+        "title": "Family Pension",
+        "description": "Pension to dependents in the event of the member's death"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": null,
+        "maximum": null
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Salaried Employee"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "EPF members with employer contributing to the pension fund; minimum 10 years of eligible service for pension"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "EPF Account/UAN Details",
+        "mandatory": true
+      },
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Employer registers employee under EPF/EPS on joining"
+      },
+      {
+        "step": 2,
+        "description": "Employer contributes a share of wages to the pension fund"
+      },
+      {
+        "step": 3,
+        "description": "On retirement/eligibility, apply through EPFO portal for pension"
+      },
+      {
+        "step": 4,
+        "description": "Monthly pension credited to bank account"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the minimum service required for pension?",
+        "answer": "10 years of eligible service."
+      },
+      {
+        "question": "Who contributes to EPS?",
+        "answer": "A portion of the employer's EPF contribution is diverted to the pension fund; employees do not contribute separately to EPS."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://www.epfindia.gov.in/",
+      "application": "https://www.epfindia.gov.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/eps-95"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-118-005",
+      "website": "https://www.epfindia.gov.in/"
+    },
+    "keywords": [
+      "eps-95",
+      "epfo pension",
+      "employee pension"
+    ],
+    "tags": [
+      "pension",
+      "employment"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH069",
+    "slug": "pm-shram-yogi-maandhan",
+    "name": "Pradhan Mantri Shram Yogi Maandhan (PM-SYM)",
+    "category": "Pension",
+    "subcategory": "Unorganised Sector Pension",
+    "ministry": {
+      "name": "Ministry of Labour and Employment",
+      "department": "Ministry of Labour and Employment"
+    },
+    "status": "Active",
+    "overview": "A voluntary and contributory pension scheme for unorganised sector workers, providing an assured monthly pension of Rs. 3,000 after attaining the age of 60.",
+    "objectives": [
+      "Provide old-age protection for unorganised sector workers",
+      "Ensure assured minimum pension after retirement age",
+      "Cover workers such as street vendors, domestic workers and construction workers"
+    ],
+    "benefits": [
+      {
+        "title": "Assured Monthly Pension",
+        "description": "Rs. 3,000 monthly pension after age 60 with matching government contribution"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 18,
+        "maximum": 40
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": 180000,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Unorganised Sector Worker"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Not a member of EPFO/ESIC/NPS (government-funded) and not an income taxpayer"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Visit nearest Common Service Centre or self-enrol on maandhan.in"
+      },
+      {
+        "step": 2,
+        "description": "Provide Aadhaar and bank account details"
+      },
+      {
+        "step": 3,
+        "description": "Pay first monthly contribution"
+      },
+      {
+        "step": 4,
+        "description": "Receive PM-SYM card and continue monthly contributions until 60"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the pension amount?",
+        "answer": "Assured Rs. 3,000 per month after age 60."
+      },
+      {
+        "question": "Is government contribution matched?",
+        "answer": "Yes, an equal matching contribution is made by the Central Government."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://maandhan.in/",
+      "application": "https://maandhan.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pm-sym"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-267-6888",
+      "website": "https://maandhan.in/"
+    },
+    "keywords": [
+      "pm-sym",
+      "unorganised worker pension",
+      "maandhan"
+    ],
+    "tags": [
+      "pension",
+      "employment",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "SCH070",
+    "slug": "pradhan-mantri-kisan-maandhan-yojana",
+    "name": "Pradhan Mantri Kisan Maandhan Yojana (PM-KMY)",
+    "category": "Pension",
+    "subcategory": "Farmer Pension",
+    "ministry": {
+      "name": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture and Farmers Welfare"
+    },
+    "status": "Active",
+    "overview": "A voluntary and contributory pension scheme for small and marginal farmers, providing an assured monthly pension of Rs. 3,000 after attaining the age of 60.",
+    "objectives": [
+      "Provide social security to small and marginal farmers in old age",
+      "Ensure assured pension after age 60",
+      "Encourage voluntary retirement savings among farmers"
+    ],
+    "benefits": [
+      {
+        "title": "Assured Monthly Pension",
+        "description": "Rs. 3,000 monthly pension after age 60 with matching government contribution"
+      }
+    ],
+    "eligibility": {
+      "age": {
+        "minimum": 18,
+        "maximum": 40
+      },
+      "gender": [],
+      "income": {
+        "maximumAnnualIncome": null,
+        "currency": "INR"
+      },
+      "education": [],
+      "occupation": [
+        "Farmer"
+      ],
+      "socialCategory": [],
+      "disability": false,
+      "residency": {
+        "country": "India",
+        "states": []
+      },
+      "otherCriteria": [
+        "Small and marginal farmers with cultivable landholding up to 2 hectares, not covered under other statutory pension schemes"
+      ]
+    },
+    "requiredDocuments": [
+      {
+        "name": "Aadhaar Card",
+        "mandatory": true
+      },
+      {
+        "name": "Land Records",
+        "mandatory": true
+      },
+      {
+        "name": "Bank Account Passbook",
+        "mandatory": true
+      }
+    ],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "description": "Visit nearest Common Service Centre for enrolment"
+      },
+      {
+        "step": 2,
+        "description": "Provide Aadhaar, land and bank details"
+      },
+      {
+        "step": 3,
+        "description": "Pay first monthly contribution as per entry age"
+      },
+      {
+        "step": 4,
+        "description": "Continue contributions until age 60 to receive pension"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible for PM-KMY?",
+        "answer": "Small and marginal farmers aged 18-40 with landholding up to 2 hectares."
+      },
+      {
+        "question": "Can PM-KISAN beneficiaries contribute via their PM-KISAN benefit?",
+        "answer": "Yes, eligible farmers can opt to have the contribution deducted directly from their PM-KISAN benefit."
+      }
+    ],
+    "importantDates": {
+      "applicationStart": "",
+      "applicationEnd": "",
+      "lastUpdated": "2026-07-26T13:03:54Z"
+    },
+    "officialLinks": {
+      "information": "https://maandhan.in/",
+      "application": "https://maandhan.in/",
+      "guidelines": "https://www.myscheme.gov.in/schemes/pm-kmy"
+    },
+    "contact": {
+      "email": "",
+      "phone": "1800-267-6888",
+      "website": "https://maandhan.in/"
+    },
+    "keywords": [
+      "pm-kmy",
+      "farmer pension",
+      "kisan maandhan"
+    ],
+    "tags": [
+      "pension",
+      "agriculture",
+      "financial-assistance"
+    ],
+    "analytics": {
+      "featured": false,
+      "popular": false,
+      "recentlyAdded": false
+    },
+    "metadata": {
+      "createdAt": "2026-07-26T13:03:54Z",
+      "updatedAt": "2026-07-26T13:03:54Z",
+      "version": "1.0"
+    }
+  }
+]
