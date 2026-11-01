@@ -200,9 +200,11 @@
     },
     "metadata": {
       "createdAt": "2026-07-26T13:03:54Z",
-      "updatedAt": "2026-07-26T13:03:54Z",
-      "version": "1.0"
-    }
+      "updatedAt": "2026-10-10T09:48:18.506Z",
+      "version": "1.2"
+    },
+    "officialInfoLink": "https://dfpd.gov.in/nfsa-Act.htm",
+    "officialApplyLink": "https://nfsa.gov.in/"
   },
   {
     "id": "SCH022",

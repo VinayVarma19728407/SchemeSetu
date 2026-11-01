@@ -266,7 +266,7 @@
         },
         {
           "id": "q_5",
-          "question": "If applying as a non-individual enterprise, is at least 51% of the shareholding and controlling stake held by a woman or SC/ST entrepreneur?  Yes / No / Not Applicable  Yes, if applicable  6  Is the proposed loan requirement between \u0393\u00e9\u256310 lakh and \u0393\u00e9\u25631 crore?",
+          "question": "If applying as a non-individual enterprise, is at least 51% of the shareholding and controlling stake held by a woman or SC/ST entrepreneur?  Yes / No / Not Applicable  Yes, if applicable  6  Is the proposed loan requirement between Γé╣10 lakh and Γé╣1 crore?",
           "type": "dropdown",
           "options": [
             "Yes",
@@ -492,7 +492,7 @@
         },
         {
           "id": "q_6",
-          "question": "If you are seeking a Tarun Plus loan above \u0393\u00e9\u256310 lakh and up to \u0393\u00e9\u256320 lakh, have you previously taken and successfully repaid a Tarun-category PMMY loan?  Yes / No / Not Applicable  Yes, for Tarun Plus  7  Can you provide the required KYC, business and financial documents requested by the lending institution?",
+          "question": "If you are seeking a Tarun Plus loan above Γé╣10 lakh and up to Γé╣20 lakh, have you previously taken and successfully repaid a Tarun-category PMMY loan?  Yes / No / Not Applicable  Yes, for Tarun Plus  7  Can you provide the required KYC, business and financial documents requested by the lending institution?",
           "type": "dropdown",
           "options": [
             "Yes",
@@ -941,8 +941,10 @@
     },
     "metadata": {
       "createdAt": "2026-07-26T13:03:54Z",
-      "updatedAt": "2026-07-26T13:03:54Z",
-      "version": "1.0"
-    }
+      "updatedAt": "2026-10-10T09:47:01.961Z",
+      "version": "1.6"
+    },
+    "officialInfoLink": "https://pmsvanidhi.mohua.gov.in/",
+    "officialApplyLink": "https://pmsvanidhi.mohua.gov.in/"
   }
 ]

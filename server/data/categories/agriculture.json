@@ -243,9 +243,11 @@
     },
     "metadata": {
       "createdAt": "2026-07-26T13:03:54Z",
-      "updatedAt": "2026-07-26T13:03:54Z",
-      "version": "1.0"
-    }
+      "updatedAt": "2026-10-10T09:48:47.626Z",
+      "version": "1.6"
+    },
+    "officialInfoLink": "https://pmkisan.gov.in/",
+    "officialApplyLink": "https://pmkisan.gov.in/"
   },
   {
     "id": "SCH007",
